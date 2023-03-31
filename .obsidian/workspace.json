@@ -177,6 +177,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "49e80960e8cc1db4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -198,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c9a25b78c38df0",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "OSINT/Usernames.md",
     "User's security & privacy/What about me.md",

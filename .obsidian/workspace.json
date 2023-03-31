@@ -8,55 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b3f99be30f5da4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/Usernames.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "48c6136e8cad4f3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "OSINT/Localisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2183967114f088ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT/Usernames.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f15b29dc02433bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tset.md",
-                "mode": "preview",
-                "source": false
+                "file": "Draws/31-03-2023_12.47.26.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tset.md",
+                "file": "Draws/31-03-2023_12.47.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tset.md",
+                "file": "Draws/31-03-2023_12.47.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tset.md"
+                "file": "Draws/31-03-2023_12.47.26.excalidraw.md"
               }
             }
           },
@@ -199,39 +160,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f15b29dc02433bf9",
+  "active": "48c6136e8cad4f3f",
   "lastOpenFiles": [
-    "OSINT/Usernames.md",
-    "tset.md",
     "OSINT/Localisation.md",
+    "Draws/31-03-2023_12.47.26.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "OSINT/Usernames.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Draws",
+    "4. POST/Untitled 1.md",
+    "Pasted Image 20230331123950_516.jpg",
+    "Draws/Drawing 31-03-2023 12.39.05.excalidraw.md",
     "OSINT/Untitled.md",
-    "4. Post/Untitled 1.md",
+    "tset.md",
     "OSINT",
     "2. SCAN/Untitled 1.md",
-    "4. Post",
+    "4. POST",
     "3. EXPLOIT",
     "2. SCAN",
     "1. RECON/ENUM",
     "1. RECON",
-    "7.WAC.pdf",
     "test23.md",
     "test.md",
     "tse/Untitled.md",
-    "tse/7.WAC.pdf",
     "Note Name.md",
-    "tse",
     "2023-03-31.md",
-    "Untitled.canvas",
-    ".md"
+    "Untitled.canvas"
   ]
 }

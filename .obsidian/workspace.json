@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Localization.md",
-                "mode": "source",
+                "file": "User's security & privacy/What about me.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Localization.md",
+                "file": "User's security & privacy/What about me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Localization.md",
+                "file": "User's security & privacy/What about me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Localization.md"
+                "file": "User's security & privacy/What about me.md"
               }
             }
           },
@@ -215,10 +215,10 @@
   },
   "active": "e2f54d48b9c76b9f",
   "lastOpenFiles": [
-    "OSINT/Usernames.md",
     "1. RECON/ENUM.md",
-    "OSINT/Domain names.md",
     "OSINT/Localization.md",
+    "OSINT/Usernames.md",
+    "OSINT/Domain names.md",
     "OSINT/Google dorks.md",
     "User's security & privacy/What about me.md",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",

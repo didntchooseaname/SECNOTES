@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Google dorks.md",
-                "mode": "preview",
+                "file": "Sources & Links/Penetration testing ressources.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Google dorks.md"
+                "file": "Sources & Links/Penetration testing ressources.md"
               }
             }
           },

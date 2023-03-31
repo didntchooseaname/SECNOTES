@@ -1,1 +1,0 @@
-See twwets around a localization: twitter.com search for: "geocode:45.72657,4.835264,.04km"

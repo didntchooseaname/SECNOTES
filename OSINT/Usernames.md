@@ -10,7 +10,6 @@
 |:---------------------------:|:--------------------------------------------------:|
 | https://www.namecheckr.com/ | Check the availability of the name in social media |
 
-
 ## :hammer_and_wrench: Tools
 
 |     Name     |               Description                |                 Source                  |

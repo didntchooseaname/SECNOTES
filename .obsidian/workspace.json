@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "OSINT/Domain names.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1fa9a8c1a3fa6ccb",
+            "id": "e2f54d48b9c76b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "1. RECON/ENUM.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "37c9a25b78c38df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ava - Getting Started.md",
-                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ava - Getting Started.md",
+                "file": "1. RECON/ENUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ava - Getting Started.md",
+                "file": "1. RECON/ENUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ava - Getting Started.md"
+                "file": "1. RECON/ENUM.md"
               }
             }
           },
@@ -187,18 +175,18 @@
             }
           },
           {
-            "id": "ddc406f613dd1c52",
-            "type": "leaf",
-            "state": {
-              "type": "ava.link.sidebar",
-              "state": {}
-            }
-          },
-          {
             "id": "89b397409216c236",
             "type": "leaf",
             "state": {
               "type": "ava.write.sidebar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5413fbc4da2af2f9",
+            "type": "leaf",
+            "state": {
+              "type": "ava.link.sidebar",
               "state": {}
             }
           }
@@ -207,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,15 +214,19 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "89b397409216c236",
+  "active": "e2f54d48b9c76b9f",
   "lastOpenFiles": [
-    "Ava - Getting Started.md",
-    "User's security & privacy/What about me.md",
-    "OSINT/Usernames.md",
-    "User's security & privacy",
     "OSINT/Domain names.md",
+    "1. RECON/ENUM.md",
     "OSINT/Localization.md",
     "OSINT/Google dorks.md",
+    "User's security & privacy/What about me.md",
+    "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
+    "OSINT/1680269418428_Domain_reconnaissance.jpg",
+    "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
+    "Ava - Getting Started.md",
+    "OSINT/Usernames.md",
+    "User's security & privacy",
     "4. POST/Untitled 1.md",
     "Draws/31-03-2023_12.47.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",

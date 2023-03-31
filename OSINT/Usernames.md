@@ -7,7 +7,7 @@
 
 | Check Availability          | Description |
 | --------------------------- | ----------- |
-| https://www.namecheckr.com/ |             |
+| https://www.namecheckr.com/ |    Check fo         |
 
 ## :hammer_and_wrench: Tools
 

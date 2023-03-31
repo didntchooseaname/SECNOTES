@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. RECON/ENUM.md",
-                "mode": "source",
+                "file": "OSINT/Usernames.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. RECON/ENUM.md",
+                "file": "OSINT/Usernames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. RECON/ENUM.md",
+                "file": "OSINT/Usernames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. RECON/ENUM.md"
+                "file": "OSINT/Usernames.md"
               }
             }
           },
@@ -215,8 +215,8 @@
   },
   "active": "e2f54d48b9c76b9f",
   "lastOpenFiles": [
-    "OSINT/Domain names.md",
     "1. RECON/ENUM.md",
+    "OSINT/Domain names.md",
     "OSINT/Localization.md",
     "OSINT/Google dorks.md",
     "User's security & privacy/What about me.md",

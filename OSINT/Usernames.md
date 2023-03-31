@@ -27,7 +27,17 @@
   border="0"
   frameborder="0"
   height="800"
-  width="700"
+  width="900"
   src="https://osintframework.com/"
+>
+</iframe>
+
+## :luc_list_checks: SKIP TRACING FRAMEWORK
+<iframe
+  border="0"
+  frameborder="0"
+  height="800"
+  width="900"
+  src="https://makensi.es/stf/"
 >
 </iframe>

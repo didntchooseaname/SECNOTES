@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4172d9320320f02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "red team kill chain.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "red team kill chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "red team kill chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md"
+                "file": "red team kill chain.md"
               }
             }
           },
@@ -170,12 +183,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +205,10 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "de7ac89a414746db",
+  "active": "4172d9320320f02f",
   "lastOpenFiles": [
+    "Sources & Links/Penetration testing ressources.md",
+    "red team kill chain.md",
     "OSINT/Google dorks.md",
     "OSINT/Domain names & web.md",
     "OSINT/Usernames.md",
@@ -206,7 +220,6 @@
     "User's security & privacy/Tempmails.md",
     "4. POST/Sans titre.md",
     "3. EXPLOIT/Sans titre.md",
-    "Sources & Links/Penetration testing ressources.md",
     "OSINT/Localization.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/What about me.md",

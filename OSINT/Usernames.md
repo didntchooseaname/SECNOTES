@@ -3,7 +3,7 @@
 |       Lookup        |      description      |
 |:-----------------------:|:---------------------:|
 | https://whatsmyname.app | Lookup in 1000+ sites |
-|           https://usersearch.org/              |   Social networks/Dating sites/Email search                    |
+|           https://usersearch.org/              |   Social networks/Dating sites/Email search/Fo                    |
 
 | Check Availability          | Description |
 | --------------------------- | ----------- |

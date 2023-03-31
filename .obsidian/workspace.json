@@ -168,21 +168,14 @@
               "type": "ava.link.sidebar",
               "state": {}
             }
-          },
-          {
-            "id": "0c0e6a586706863e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +193,7 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "0c0e6a586706863e",
+  "active": "66918d680799a726",
   "lastOpenFiles": [
     "OSINT/Localization.md",
     "OSINT/Domain names.md",

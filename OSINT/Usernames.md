@@ -19,7 +19,7 @@
 
 
 
-## :luc_list_checks: OSINT FRAMEWORK
+## :luc_list_checks: Going further
 
 > [!TIPS] **"CTRL+Click on name"** to access directly to the ressources.
 
@@ -32,7 +32,6 @@
 >
 </iframe>
 
-## :luc_list_checks: SKIP TRACING FRAMEWORK
 <iframe
   border="0"
   frameborder="0"

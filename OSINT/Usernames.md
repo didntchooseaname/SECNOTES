@@ -5,7 +5,7 @@
 | https://whatsmyname.app | Lookup in 1000+ sites |
 |                         |                       |
 
-| Check A
+| Check Availab
 
 ## :hammer_and_wrench: Tools
 

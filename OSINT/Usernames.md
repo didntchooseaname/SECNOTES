@@ -6,6 +6,8 @@
 |                         |                       |
 
 | Check Availability |
+| ------------------ |
+|                    |
 
 ## :hammer_and_wrench: Tools
 

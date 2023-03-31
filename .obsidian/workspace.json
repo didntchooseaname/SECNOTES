@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Usernames.md",
-                "mode": "preview",
+                "file": "OSINT/Localization.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "OSINT/Localization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "OSINT/Localization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Usernames.md"
+                "file": "OSINT/Localization.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,8 +215,8 @@
   },
   "active": "e2f54d48b9c76b9f",
   "lastOpenFiles": [
-    "1. RECON/ENUM.md",
     "OSINT/Usernames.md",
+    "1. RECON/ENUM.md",
     "OSINT/Domain names.md",
     "OSINT/Localization.md",
     "OSINT/Google dorks.md",

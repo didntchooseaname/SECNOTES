@@ -25,20 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "red team kill chain.md",
+                "file": "OSINT/Localization.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "bb524b0c585e909a",
+            "id": "d5ce5b6b45641b4e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Reverse php payload &.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -97,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reverse php payload &.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reverse php payload &.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reverse php payload &.md"
+              }
             }
           },
           {
@@ -213,32 +217,33 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "feecebc84b84b562",
+  "active": "d5ce5b6b45641b4e",
   "lastOpenFiles": [
-    "Fake identities & Fakes docs.md",
+    "OSINT/Localization.md",
+    "Reverse php payload &.md",
+    "OSINT/Usernames.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Google dorks.md",
+    "Draws/31-03-2023_18.27.49.excalidraw.md",
+    "Ava - Getting Started.md",
+    "enumeration-mindmap.png",
+    "Sources & Links/CTF writeups.md",
+    "Sources & Links/Penetration testing ressources.md",
+    "User's security & privacy/What about me.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Tempmails.md",
     "red team kill chain.md",
     "Phishing framework.md",
-    "4. POST/Reverse PHP payload &.md",
-    "Sources & Links/Penetration testing ressources.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Usernames.md",
-    "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "Pasted Image 20230331182837_113.jpg",
-    "Draws/Sans titre.md",
-    "1. RECON/ENUM.md",
-    "enumeration-mindmap.png",
-    "User's security & privacy/Tempmails.md",
+    "Fake identities & Fakes docs.md",
     "3. EXPLOIT/Sans titre.md",
-    "OSINT/Localization.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/What about me.md",
-    "Sources & Links/CTF writeups.md",
-    "Sources & Links",
     "2. SCAN/Untitled 1.md",
+    "1. RECON/ENUM.md",
+    "Pasted Image 20230331182837_113.jpg",
+    "4. POST/Reverse PHP payload &.md",
+    "Draws/Sans titre.md",
+    "Sources & Links",
     "OSINT/Sans titre.canvas",
     "Draws/31-03-2023_16.09.02.excalidraw.md",
-    "Ava - Getting Started.md",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
@@ -251,7 +256,6 @@
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded",

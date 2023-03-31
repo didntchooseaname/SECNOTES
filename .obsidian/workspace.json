@@ -154,14 +154,6 @@
             }
           },
           {
-            "id": "49e80960e8cc1db4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "89b397409216c236",
             "type": "leaf",
             "state": {
@@ -176,9 +168,17 @@
               "type": "ava.link.sidebar",
               "state": {}
             }
+          },
+          {
+            "id": "0c0e6a586706863e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -200,7 +200,7 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "66918d680799a726",
+  "active": "0c0e6a586706863e",
   "lastOpenFiles": [
     "OSINT/Localization.md",
     "OSINT/Domain names.md",

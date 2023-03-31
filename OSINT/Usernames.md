@@ -13,10 +13,13 @@
 
 ## :hammer_and_wrench: Tools
 
-|   Name    |               Description                |               Source                |
-|:---------:|:----------------------------------------:|:-----------------------------------:|
-|  Maigret  |             Username Lookup              |  https://github.com/soxoj/maigret   |
-| Mr.Holmes | Social Account/DBs/Domains/Phone numbers | https://github.com/Lucksi/Mr.Holmes |
+|     Name     |               Description                |                 Source                  |
+|:------------:|:----------------------------------------:|:---------------------------------------:|
+|   Maigret    |             Username Lookup              |    https://github.com/soxoj/maigret     |
+|  Mr.Holmes   | Social Account/DBs/Domains/Phone numbers |   https://github.com/Lucksi/Mr.Holmes   |
+|    Holehe    |             Username Lookup              |   https://github.com/megadose/holehe    |
+|   Maltego    |                All-in-one                |   https://www.maltego.com/downloads/    |
+|  Spiderfoot  |                All-in-one                | https://github.com/smicallef/spiderfoot |                                         |                                         |
 
 
 

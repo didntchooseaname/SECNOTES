@@ -4,7 +4,18 @@
   "fileExplorerOrder": {
     "OSINT": [
       "OSINT/Usernames.md",
+      "OSINT/Web.md",
       "OSINT/Localisation.md"
+    ],
+    "/": [
+      "1. RECON",
+      "2. SCAN",
+      "3. EXPLOIT",
+      "4. POST",
+      "Draws",
+      "Excalidraw",
+      "Sans titre.md",
+      "OSINT"
     ]
   },
   "actionBarOrder": {},

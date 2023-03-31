@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🫵",
+      "😎",
+      "🧑‍💻",
       "⚔",
-      "✏",
-      "🔎",
-      "🗺",
-      "🌎"
+      "✏"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,9 @@
   "OSINT/Domain names.md": "🌎",
   "OSINT/Localization.md": "🗺",
   "OSINT/Google dorks.md": "🔎",
-  "Excalidraw": "⚔"
+  "Excalidraw": "⚔",
+  "Draws": "✏",
+  "1. RECON/ENUM": "🧑‍💻",
+  "User's security & privacy": "😎",
+  "User's security & privacy/What about me.md": "🫵"
 }

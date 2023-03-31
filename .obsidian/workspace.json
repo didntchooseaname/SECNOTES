@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/What about me.md",
-                "mode": "source",
+                "file": "Ava - Getting Started.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/What about me.md",
+                "file": "Ava - Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/What about me.md",
+                "file": "Ava - Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/What about me.md"
+                "file": "Ava - Getting Started.md"
               }
             }
           },
@@ -185,9 +185,25 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "ddc406f613dd1c52",
+            "type": "leaf",
+            "state": {
+              "type": "ava.link.sidebar",
+              "state": {}
+            }
+          },
+          {
+            "id": "89b397409216c236",
+            "type": "leaf",
+            "state": {
+              "type": "ava.write.sidebar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -203,13 +219,17 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "89b397409216c236",
   "lastOpenFiles": [
-    "OSINT/Usernames.md",
+    "Ava - Getting Started.md",
     "User's security & privacy/What about me.md",
+    "OSINT/Usernames.md",
     "User's security & privacy",
     "OSINT/Domain names.md",
     "OSINT/Localization.md",

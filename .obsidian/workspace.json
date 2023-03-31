@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "OSINT/Usernames.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2183967114f088ae",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "OSINT/Localisation.md",
     "OSINT/Untitled.md",

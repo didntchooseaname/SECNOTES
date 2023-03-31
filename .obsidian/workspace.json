@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fake identities & Fakes docs.md",
-                "mode": "source",
+                "file": "4. POST/Sans titre.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fake identities & Fakes docs.md",
+                "file": "4. POST/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fake identities & Fakes docs.md",
+                "file": "4. POST/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fake identities & Fakes docs.md"
+                "file": "4. POST/Sans titre.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "4a7c328645e0eddb",
   "lastOpenFiles": [
-    "Phishing framework.md",
     "Fake identities & Fakes docs.md",
+    "Phishing framework.md",
     "red team kill chain.md",
     "Sources & Links/Penetration testing ressources.md",
     "OSINT/Google dorks.md",

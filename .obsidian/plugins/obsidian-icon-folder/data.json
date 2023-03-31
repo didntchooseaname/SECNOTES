@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔎",
       "🗺",
       "🌎",
       "🤠",
-      "😏",
-      "🥸"
+      "😏"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +28,6 @@
   "OSINT/Usernames.md": "🤠",
   "4. POST": "🫥",
   "OSINT/Domain names.md": "🌎",
-  "OSINT/Localization.md": "🗺"
+  "OSINT/Localization.md": "🗺",
+  "OSINT/Google dorks.md": "🔎"
 }

@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Google dorks.md",
-                "mode": "preview",
+                "file": "OSINT/Domain names.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "OSINT/Domain names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "OSINT/Domain names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Google dorks.md"
+                "file": "OSINT/Domain names.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "04df6c187c273e37",
   "lastOpenFiles": [
     "OSINT/Usernames.md",
     "OSINT/Google dorks.md",

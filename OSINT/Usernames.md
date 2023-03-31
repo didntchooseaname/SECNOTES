@@ -5,7 +5,7 @@
 | https://whatsmyname.app | Lookup in 1000+ sites |
 |                         |                       |
 
-| Check Availability |
+| Check Availability | Descriptio
 | ------------------ |
 | https://www.namecheckr.com/                   |
 

@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9680096b6f15d0fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Draws/31-03-2023_16.09.02.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "Draws/31-03-2023_16.09.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "Draws/31-03-2023_16.09.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Usernames.md"
+                "file": "Draws/31-03-2023_16.09.02.excalidraw.md"
               }
             }
           },
@@ -170,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,15 +203,16 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "66918d680799a726",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
+    "OSINT/Usernames.md",
+    "Draws/31-03-2023_16.09.02.excalidraw.md",
     "OSINT/Localization.md",
     "OSINT/Domain names.md",
     "User's security & privacy/What about me.md",
     "Ava - Getting Started.md",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "1. RECON/ENUM.md",
-    "OSINT/Usernames.md",
     "OSINT/Google dorks.md",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. RECON/ENUM.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +195,13 @@
   },
   "active": "8b69b5409d728f5e",
   "lastOpenFiles": [
-    "Screenshot 2023-03-31 at 17-05-26 Enumeration Mindmap (HTTPS (Port 443) (nmap scripts wafw00f whatweb ….png",
+    "enumeration-mindmap.png",
+    "1. RECON/ENUM.md",
     "OSINT/Usernames.md",
     "User's security & privacy/Tempmails.md",
     "Draws/Sans titre.md",
     "4. POST/Sans titre.md",
     "3. EXPLOIT/Sans titre.md",
-    "1. RECON/ENUM.md",
     "OSINT/Google dorks.md",
     "Sources & Links/Penetration testing ressources.md",
     "OSINT/Localization.md",

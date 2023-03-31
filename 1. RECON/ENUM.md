@@ -13,6 +13,4 @@ Content discovery
 
 Subdomain enumeration
 
-![[Screenshot 2023-03-31 at 17-05-26 Enumeration Mindmap (HTTPS (Port 443) (nmap scripts wafw00f whatweb ….png```css
-{width=50%}
-```]]
+![[enumeration-mindmap.png | 1000]]

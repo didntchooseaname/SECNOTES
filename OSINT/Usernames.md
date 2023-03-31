@@ -1,14 +1,11 @@
 
 ## 🍳 Websites
 
-|         Lookup          |                   description                    |
-|:-----------------------:|:------------------------------------------------:|
-| https://whatsmyname.app |              Lookup in 1000+ sites               |
-| https://usersearch.org/ | Social networks/Dating sites/Email search/Forums |
-
-|     Check Availability      |                    Description                     |
-|:---------------------------:|:--------------------------------------------------:|
-| https://www.namecheckr.com/ | Check the availability of the name in social media |
+|    Name     |                    description                     |           Source            |
+|:-----------:|:--------------------------------------------------:|:---------------------------:|
+| whatsmyname |               Lookup in 1000+ sites                |   https://whatsmyname.app   |
+| usersearch  |  Social networks/Dating sites/Email search/Forums  |   https://usersearch.org/   |
+| namecheckr  | Check the availability of the name in social media | https://www.namecheckr.com/ |
 
 ## :hammer_and_wrench: Tools
 
@@ -22,8 +19,9 @@
 
 
 
-----
+## :luc_list_checks: OSINT FRAMEWORK
 
+> [!TIPS] **"CTRL+Click on name"** to access directly to the ressources.
 
 <iframe
   border="0"

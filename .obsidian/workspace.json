@@ -38,13 +38,25 @@
               "type": "markdown",
               "state": {
                 "file": "OSINT/Usernames.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f15b29dc02433bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tset.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36d644e5203971f9",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "tset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Usernames.md",
+                "file": "tset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Usernames.md"
+                "file": "tset.md"
               }
             }
           },
@@ -198,11 +209,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2183967114f088ae",
+  "active": "f15b29dc02433bf9",
   "lastOpenFiles": [
+    "OSINT/Usernames.md",
+    "tset.md",
     "OSINT/Localisation.md",
     "OSINT/Untitled.md",
-    "OSINT/Usernames.md",
     "4. Post/Untitled 1.md",
     "OSINT",
     "2. SCAN/Untitled 1.md",

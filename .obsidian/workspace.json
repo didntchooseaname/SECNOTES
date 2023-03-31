@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Google dorks.md",
-                "mode": "preview",
+                "file": "1. RECON/ENUM.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "1. RECON/ENUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "1. RECON/ENUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Google dorks.md"
+                "file": "1. RECON/ENUM.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,16 +194,17 @@
   },
   "active": "66918d680799a726",
   "lastOpenFiles": [
+    "OSINT/Domain names & web.md",
+    "OSINT/Google dorks.md",
+    "1. RECON/ENUM.md",
+    "2. SCAN/Untitled 1.md",
     "OSINT/Sans titre.canvas",
     "Draws/31-03-2023_16.09.02.excalidraw.md",
     "OSINT/Usernames.md",
     "OSINT/Localization.md",
-    "OSINT/Domain names.md",
     "User's security & privacy/What about me.md",
     "Ava - Getting Started.md",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
-    "1. RECON/ENUM.md",
-    "OSINT/Google dorks.md",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
@@ -212,7 +213,6 @@
     "Draws/31-03-2023_12.47.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "2. SCAN/Untitled 1.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",

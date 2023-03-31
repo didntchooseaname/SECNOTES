@@ -1,6 +1,6 @@
 
 ## :luc_person_standing:Websites
-|       All-in-one        |      description      |
+|               |      description      |
 |:-----------------------:|:---------------------:|
 | https://whatsmyname.app | Lookup in 1000+ sites |
 |                         |                       |

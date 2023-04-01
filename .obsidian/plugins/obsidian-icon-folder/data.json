@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🔗",
-      "🫵",
-      "😎",
-      "🧑‍💻",
-      "⚔"
+      "☎",
+      "🎣",
+      "🛕",
+      "👓",
+      "🔗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,9 @@
   "User's security & privacy/What about me.md": "🫵",
   "1. RECON/ENUM.md": "🧑‍💻",
   "OSINT/Domain names & web.md": "🌎",
-  "Sources & Links": "🔗"
+  "Sources & Links": "🔗",
+  "User's security & privacy/Fake numbers & SMS receiver online.md": "☎",
+  "User's security & privacy/Tempmails.md": "🛕",
+  "User's security & privacy/Phishing framework.md": "🎣",
+  "User's security & privacy/Fake identities & Fakes documents.md": "👓"
 }

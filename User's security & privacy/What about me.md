@@ -1,13 +1,14 @@
-## Google you
+## :luc_search:Google you
 
-https://google.com
+https://www.google.com/search?q=myinfos // Change "myinfos"
 
-
+## 🙍‍♀️ OSINT yourself
+watch the "[OSINT](obsidian://open?vault=SECNOTES&file=OSINT%2FUsernames)" Folder.
 
 
 ## :luc_delete: JustDeleteMe
 
-Référencie les liens directes ainsi que la difficultés de suppression de compte sur +1000 sites.
+Distinguishes direct links as well as account deletion difficulties on +1000 sites.
 
 <iframe
   border="0"

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🆙",
+      "⬅",
+      "🥴",
       "☎",
-      "🎣",
-      "🛕",
-      "👓",
-      "🔗"
+      "🎣"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,7 +26,7 @@
   "2. SCAN": "🥸",
   "3. EXPLOIT": "😏",
   "OSINT/Usernames.md": "🤠",
-  "4. POST": "🫥",
+  "4. POST": "🥴",
   "OSINT/Localization.md": "🗺",
   "OSINT/Google dorks.md": "🔎",
   "Excalidraw": "⚔",
@@ -39,5 +39,7 @@
   "User's security & privacy/Fake numbers & SMS receiver online.md": "☎",
   "User's security & privacy/Tempmails.md": "🛕",
   "User's security & privacy/Phishing framework.md": "🎣",
-  "User's security & privacy/Fake identities & Fakes documents.md": "👓"
+  "User's security & privacy/Fake identities & Fakes documents.md": "👓",
+  "4. POST/PHP revshell.md": "⬅",
+  "4. POST/Privilege escalation.md": "🆙"
 }

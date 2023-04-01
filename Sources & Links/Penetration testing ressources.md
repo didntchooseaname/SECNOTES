@@ -1,6 +1,8 @@
 https://www.hackingarticles.in/penetration-testing/
 https://f1shh.gitbook.io/pentest-tips/
 https://guide.offsecnewbie.com
+https://processus.site
+https://docs.lestutosdeprocessus.fr/mindmap_pentest_ad.png
 
 **https://github.com/Processus-Thief/AM0N-Eye**
 

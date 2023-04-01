@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
-                "mode": "preview",
+                "file": "Sources & Links/Penetration testing ressources.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md"
+                "file": "Sources & Links/Penetration testing ressources.md"
               }
             }
           },
@@ -243,23 +243,23 @@
   },
   "active": "8f4e05242ed7f6eb",
   "lastOpenFiles": [
-    "Insecure Direct Object Reference (IDOR).md",
-    "Cross-Site Scripting (XSS).md",
+    "4. POST/PHP revshell.md",
+    "OSINT/Usernames.md",
     "Server Side Request Forgery (SSRF).md",
+    "Cross-Site Scripting (XSS).md",
+    "3. EXPLOIT/exploits ressources.md",
+    "Insecure Direct Object Reference (IDOR).md",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Tempmails.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
-    "4. POST/PHP revshell.md",
-    "3. EXPLOIT/exploits ressources.md",
     "4. POST/Privilege escalation.md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
     "Sources & Links/red team kill chain.md",
     "Sources & Links/CTF writeups.md",
     "Sources & Links/Penetration testing ressources.md",
-    "OSINT/Usernames.md",
     "OSINT.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "1. RECON/ENUM.md",

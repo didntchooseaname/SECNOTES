@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a69d611f7d780407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insecure Direct Object Reference (IDOR).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,10 +229,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c464245e217254ee",
+  "active": "a69d611f7d780407",
   "lastOpenFiles": [
-    "User's security & privacy/What about me.md",
+    "Server Side Request Forgery (SSRF).md",
     "Insecure Direct Object Reference (IDOR).md",
+    "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Tempmails.md",
     "User's security & privacy/Phishing framework.md",
@@ -253,7 +266,6 @@
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
     "User's security & privacy",
-    "4. POST/Untitled 1.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",

@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8f4e05242ed7f6eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cross-Site Scripting (XSS).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insecure Direct Object Reference (IDOR).md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insecure Direct Object Reference (IDOR).md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insecure Direct Object Reference (IDOR).md"
+                "file": "Cross-Site Scripting (XSS).md"
               }
             }
           },
@@ -229,10 +241,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a69d611f7d780407",
+  "active": "8f4e05242ed7f6eb",
   "lastOpenFiles": [
-    "Server Side Request Forgery (SSRF).md",
     "Insecure Direct Object Reference (IDOR).md",
+    "Cross-Site Scripting (XSS).md",
+    "Server Side Request Forgery (SSRF).md",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Tempmails.md",
@@ -260,7 +273,6 @@
     "Draws/Sans titre.md",
     "Sources & Links",
     "OSINT/Sans titre.canvas",
-    "Draws/31-03-2023_16.09.02.excalidraw.md",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "1. RECON/ENUM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "1. RECON/ENUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "1. RECON/ENUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md"
+                "file": "1. RECON/ENUM.md"
               }
             }
           },
@@ -229,8 +229,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "a69d611f7d780407",
   "lastOpenFiles": [
+    "2. SCAN/Untitled 1.md",
+    "OSINT/Google dorks.md",
+    "Cross-Site Scripting (XSS).md",
     "Server Side Request Forgery (SSRF).md",
     "Insecure Direct Object Reference (IDOR).md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
@@ -241,20 +244,17 @@
     "Sources & Links/Penetration testing ressources.md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
-    "OSINT/Google dorks.md",
     "OSINT/Localization.md",
     "OSINT/Domain names & web.md",
     "OSINT/Usernames.md",
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
     "3. EXPLOIT/exploits ressources.md",
-    "2. SCAN/Untitled 1.md",
     "1. RECON/ENUM.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Sources & Links/CTF writeups.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "User's security & privacy/Tempmails.md",
-    "Cross-Site Scripting (XSS).md",
     "OSINT.md",
     "4. POST/Reverse php payload.md",
     "php revshell payload.md",

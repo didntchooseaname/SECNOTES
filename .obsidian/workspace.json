@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insecure Direct Object Reference (IDOR).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8f4e05242ed7f6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User's security & privacy/Tempmails.md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Tempmails.md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Tempmails.md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Tempmails.md"
+                "file": "Cross-Site Scripting (XSS).md"
               }
             }
           },
@@ -219,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -241,36 +229,36 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f3a9b31fccd7c4fe",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/What about me.md",
-    "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "1. RECON/ENUM.md",
-    "2. SCAN/Untitled 1.md",
-    "4. POST/PHP revshell.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
-    "3. EXPLOIT/exploits ressources.md",
-    "4. POST/Privilege escalation.md",
-    "Cross-Site Scripting (XSS).md",
-    "Sources & Links/Penetration testing ressources.md",
     "Server Side Request Forgery (SSRF).md",
     "Insecure Direct Object Reference (IDOR).md",
-    "User's security & privacy/Tempmails.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/What about me.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
+    "Sources & Links/red team kill chain.md",
+    "Sources & Links/Penetration testing ressources.md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
-    "Sources & Links/red team kill chain.md",
+    "OSINT/Google dorks.md",
+    "OSINT/Localization.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Usernames.md",
+    "4. POST/Privilege escalation.md",
+    "4. POST/PHP revshell.md",
+    "3. EXPLOIT/exploits ressources.md",
+    "2. SCAN/Untitled 1.md",
+    "1. RECON/ENUM.md",
+    "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Sources & Links/CTF writeups.md",
+    "User's security & privacy/1680395041999__generate_a_pepo.jpg",
+    "User's security & privacy/Tempmails.md",
+    "Cross-Site Scripting (XSS).md",
     "OSINT.md",
     "4. POST/Reverse php payload.md",
-    "OSINT/Localization.md",
     "php revshell payload.md",
-    "OSINT/Google dorks.md",
     "Pasted Image 20230331182837_113.jpg",
-    "Draws/Sans titre.md",
     "Sources & Links",
     "OSINT/Sans titre.canvas",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
@@ -281,7 +269,6 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",

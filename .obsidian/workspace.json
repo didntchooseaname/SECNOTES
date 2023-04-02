@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "User's security & privacy/Tempmails.md",
                 "mode": "preview",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "User's security & privacy/Tempmails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md",
+                "file": "User's security & privacy/Tempmails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross-Site Scripting (XSS).md"
+                "file": "User's security & privacy/Tempmails.md"
               }
             }
           },
@@ -241,33 +241,33 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8f4e05242ed7f6eb",
+  "active": "f3a9b31fccd7c4fe",
   "lastOpenFiles": [
-    "Sources & Links/Penetration testing ressources.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/What about me.md",
+    "Draws/31-03-2023_18.27.49.excalidraw.md",
+    "1. RECON/ENUM.md",
+    "2. SCAN/Untitled 1.md",
     "4. POST/PHP revshell.md",
     "OSINT/Usernames.md",
-    "Server Side Request Forgery (SSRF).md",
-    "Cross-Site Scripting (XSS).md",
+    "OSINT/Domain names & web.md",
     "3. EXPLOIT/exploits ressources.md",
+    "4. POST/Privilege escalation.md",
+    "Cross-Site Scripting (XSS).md",
+    "Sources & Links/Penetration testing ressources.md",
+    "Server Side Request Forgery (SSRF).md",
     "Insecure Direct Object Reference (IDOR).md",
-    "User's security & privacy/What about me.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Tempmails.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
-    "4. POST/Privilege escalation.md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
     "Sources & Links/red team kill chain.md",
     "Sources & Links/CTF writeups.md",
     "OSINT.md",
-    "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "1. RECON/ENUM.md",
-    "2. SCAN/Untitled 1.md",
     "4. POST/Reverse php payload.md",
     "OSINT/Localization.md",
     "php revshell payload.md",
-    "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
     "Pasted Image 20230331182837_113.jpg",
     "Draws/Sans titre.md",

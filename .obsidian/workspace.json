@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
-                "mode": "source",
+                "file": "Cross-Site Scripting (XSS).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "Cross-Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md"
+                "file": "Cross-Site Scripting (XSS).md"
               }
             }
           },
@@ -243,6 +243,7 @@
   },
   "active": "8f4e05242ed7f6eb",
   "lastOpenFiles": [
+    "Sources & Links/Penetration testing ressources.md",
     "4. POST/PHP revshell.md",
     "OSINT/Usernames.md",
     "Server Side Request Forgery (SSRF).md",
@@ -259,7 +260,6 @@
     "enumeration-mindmap.png",
     "Sources & Links/red team kill chain.md",
     "Sources & Links/CTF writeups.md",
-    "Sources & Links/Penetration testing ressources.md",
     "OSINT.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "1. RECON/ENUM.md",

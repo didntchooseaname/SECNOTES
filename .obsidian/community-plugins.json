@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian42-brat",
   "obsidian-bartender",
   "obsidian-icon-folder",
@@ -11,5 +10,6 @@
   "obsidian-excalidraw-plugin",
   "ava",
   "obsidian-enhancing-export",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-git"
 ]

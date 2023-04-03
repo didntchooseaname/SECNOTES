@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. POST/Privilege escalation.md",
+                "file": "OSINT/Usernames.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. POST/Privilege escalation.md",
+                "file": "OSINT/Usernames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. POST/Privilege escalation.md",
+                "file": "OSINT/Usernames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. POST/Privilege escalation.md"
+                "file": "OSINT/Usernames.md"
               }
             }
           },
@@ -221,16 +221,17 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false
+      "ava:Ava - Open Rewrite Playground": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "a69d611f7d780407",
   "lastOpenFiles": [
+    "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Phishing framework.md",
@@ -251,7 +252,6 @@
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
     "OSINT/Domain names & web.md",
-    "4. POST/Privilege escalation.md",
     "3. EXPLOIT/exploits ressources.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",

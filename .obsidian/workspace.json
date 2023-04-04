@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ae357e4e8db1d435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "av evasion.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "av evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Google dorks.md",
+                "file": "av evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Google dorks.md"
+                "file": "av evasion.md"
               }
             }
           },
@@ -230,10 +242,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a69d611f7d780407",
+  "active": "ae357e4e8db1d435",
   "lastOpenFiles": [
-    "OSINT/Localization.md",
     "OSINT/Google dorks.md",
+    "av evasion.md",
+    "OSINT/Localization.md",
     "OSINT/Domain names & web.md",
     "OSINT/Usernames.md",
     "4. POST/Reverse php payload.md",

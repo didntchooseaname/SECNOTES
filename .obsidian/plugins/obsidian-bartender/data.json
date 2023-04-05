@@ -8,13 +8,22 @@
       "OSINT/Localisation.md"
     ],
     "/": [
+      "README.md",
+      "Knowledge Database",
+      "Cross-Site Scripting (XSS).md",
       "1. RECON",
       "2. SCAN",
       "3. EXPLOIT",
       "4. POST",
       "OSINT",
       "Excalidraw",
-      "Draws"
+      "Draws",
+      "enumeration-mindmap.png",
+      "Insecure Direct Object Reference (IDOR).md",
+      "Server Side Request Forgery (SSRF).md",
+      "Sources & Links",
+      "User's security & privacy",
+      "Domains information.md"
     ],
     "User's security & privacy": [
       "User's security & privacy/What about me.md",

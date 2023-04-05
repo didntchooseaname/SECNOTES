@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
+      "📔",
       "🧰",
       "🆙",
-      "⬅",
-      "🥴",
-      "☎"
+      "⬅"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "4. POST/PHP revshell.md": "⬅",
   "4. POST/Privilege escalation.md": "🆙",
   "3. EXPLOIT/tools.md": "🧰",
-  "2. SCAN/Tools.md": "🧰"
+  "2. SCAN/Tools.md": "🧰",
+  "Knowledge Database": "📚"
 }

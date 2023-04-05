@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. POST/av evasion.md",
+                "file": "OSINT/Domain names & web.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insecure Direct Object Reference (IDOR).md",
+                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. POST/av evasion.md",
+                "file": "OSINT/Domain names & web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. POST/av evasion.md",
+                "file": "OSINT/Domain names & web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. POST/av evasion.md"
+                "file": "OSINT/Domain names & web.md"
               }
             }
           },
@@ -217,11 +217,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f3a9b31fccd7c4fe",
+  "active": "4e9c310337b769f6",
   "lastOpenFiles": [
+    "4. POST/av evasion.md",
+    "4. POST/Privilege escalation.md",
+    "4. POST/PHP revshell.md",
+    "Knowledge Database/Server Side Request Forgery (SSRF).md",
+    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "Domains information.md",
+    "README.md",
+    "Knowledge Database",
+    "OSINT/Localization.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "OSINT/Usernames.md",
-    "OSINT/Localization.md",
     "OSINT/Google dorks.md",
     "Sources & Links/CTF writeups.md",
     "Sources & Links/Penetration testing ressources.md",
@@ -229,7 +238,6 @@
     "2. SCAN/Tools.md",
     "3. EXPLOIT/tools.md",
     "Sources & Links/red team kill chain.md",
-    "Insecure Direct Object Reference (IDOR).md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
     "User's security & privacy/Tempmails.md",
@@ -237,15 +245,8 @@
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/What about me.md",
-    "4. POST/PHP revshell.md",
-    "4. POST/Privilege escalation.md",
     "OSINT/Domain names & web.md",
-    "Cross-Site Scripting (XSS).md",
-    "Server Side Request Forgery (SSRF).md",
     "4. POST/Reverse php payload.md",
-    "Domains information.md",
-    "4. POST/av evasion.md",
-    "README.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "Sources & Links",
@@ -265,7 +266,6 @@
     "OSINT",
     "4. POST",
     "3. EXPLOIT",
-    "2. SCAN",
     "Untitled.canvas"
   ]
 }

@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. EXPLOIT/exploits ressources.md",
-                "mode": "preview",
+                "file": "3. EXPLOIT/tools.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EXPLOIT/exploits ressources.md",
+                "file": "3. EXPLOIT/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EXPLOIT/exploits ressources.md",
+                "file": "3. EXPLOIT/tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EXPLOIT/exploits ressources.md"
+                "file": "3. EXPLOIT/tools.md"
               }
             }
           },
@@ -244,18 +244,18 @@
   },
   "active": "ae357e4e8db1d435",
   "lastOpenFiles": [
+    "4. POST/Privilege escalation.md",
+    "4. POST/PHP revshell.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Google dorks.md",
+    "3. EXPLOIT/tools.md",
     "Cross-Site Scripting (XSS).md",
     "Insecure Direct Object Reference (IDOR).md",
     "Server Side Request Forgery (SSRF).md",
     "Ava - Getting Started.md",
     "OSINT/Localization.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Domain names & web.md",
     "OSINT/Usernames.md",
     "4. POST/Reverse php payload.md",
-    "4. POST/Privilege escalation.md",
-    "4. POST/PHP revshell.md",
-    "3. EXPLOIT/exploits ressources.md",
     "2. SCAN/Untitled 1.md",
     "1. RECON/ENUM.md",
     "Domains information.md",

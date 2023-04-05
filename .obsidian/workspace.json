@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "av evasion.md",
+                "file": "3. EXPLOIT/exploits ressources.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f5496f98cfe4f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domains information.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "av evasion.md",
+                "file": "Domains information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "av evasion.md",
+                "file": "Domains information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "av evasion.md"
+                "file": "Domains information.md"
               }
             }
           },
@@ -242,17 +254,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ae357e4e8db1d435",
+  "active": "4f5496f98cfe4f01",
   "lastOpenFiles": [
-    "OSINT/Google dorks.md",
+    "3. EXPLOIT/exploits ressources.md",
+    "Domains information.md",
     "av evasion.md",
+    "README.md",
+    "OSINT/Google dorks.md",
     "OSINT/Localization.md",
     "OSINT/Domain names & web.md",
     "OSINT/Usernames.md",
     "4. POST/Reverse php payload.md",
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
-    "3. EXPLOIT/exploits ressources.md",
     "2. SCAN/Untitled 1.md",
     "1. RECON/ENUM.md",
     "User's security & privacy/What about me.md",
@@ -270,8 +284,6 @@
     "enumeration-mindmap.png",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
-    "OSINT.md",
-    "php revshell payload.md",
     "Pasted Image 20230331182837_113.jpg",
     "Sources & Links",
     "OSINT/Sans titre.canvas",

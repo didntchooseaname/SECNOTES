@@ -19,6 +19,11 @@
     "User's security & privacy": [
       "User's security & privacy/What about me.md",
       "User's security & privacy/Sans titre.md"
+    ],
+    "4. POST": [
+      "4. POST/PHP revshell.md",
+      "4. POST/Privilege escalation.md",
+      "4. POST/av evasion.md"
     ]
   },
   "actionBarOrder": {},

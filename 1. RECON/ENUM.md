@@ -9,8 +9,4 @@
 |        wappalyzer         | Find out uses technologies on the website |       https://www.wappalyzer.com/       |
 | threatintelligenceplatform |         Complete scan of a domain         | https://threatintelligenceplatform.com  |
 
-Content discovery
-
-Subdomain enumeration
-
 ![[enumeration-mindmap.png | 1000]]

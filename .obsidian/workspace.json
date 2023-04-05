@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. EXPLOIT/tools.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -246,9 +246,9 @@
   "lastOpenFiles": [
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
+    "3. EXPLOIT/tools.md",
     "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
-    "3. EXPLOIT/tools.md",
     "Cross-Site Scripting (XSS).md",
     "Insecure Direct Object Reference (IDOR).md",
     "Server Side Request Forgery (SSRF).md",

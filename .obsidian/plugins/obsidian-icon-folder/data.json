@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧰",
       "🆙",
       "⬅",
       "🥴",
-      "☎",
-      "🎣"
+      "☎"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "User's security & privacy/Phishing framework.md": "🎣",
   "User's security & privacy/Fake identities & Fakes documents.md": "👓",
   "4. POST/PHP revshell.md": "⬅",
-  "4. POST/Privilege escalation.md": "🆙"
+  "4. POST/Privilege escalation.md": "🆙",
+  "3. EXPLOIT/tools.md": "🧰"
 }

@@ -4,8 +4,10 @@
   "fileExplorerOrder": {
     "OSINT": [
       "OSINT/Usernames.md",
-      "OSINT/Web.md",
-      "OSINT/Localisation.md"
+      "OSINT/Domain names & web.md",
+      "OSINT/Google dorks.md",
+      "OSINT/Github Dorks.md",
+      "OSINT/Localization.md"
     ],
     "/": [
       "README.md",

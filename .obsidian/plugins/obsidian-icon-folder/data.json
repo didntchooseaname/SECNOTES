@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌐",
       "🥷",
       "📚",
       "📔",
-      "🧰",
-      "🆙"
+      "🧰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "3. EXPLOIT/tools.md": "🧰",
   "2. SCAN/Tools.md": "🧰",
   "Knowledge Database": "📚",
-  "4. POST/av evasion.md": "🥷"
+  "4. POST/av evasion.md": "🥷",
+  "OSINT/Github Dorks.md": "🌐"
 }

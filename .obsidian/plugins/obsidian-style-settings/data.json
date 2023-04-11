@@ -3,5 +3,6 @@
   "things-style@@h2-color": "#FFFFFF",
   "things-style@@h3-color": "#FFFFFF",
   "things-style@@h4-color": "#FFFFFF",
-  "things-style@@strong-color": "#FFFFFF"
+  "things-style@@strong-color": "#FFFFFF",
+  "things-style@@text-highlight-bg-d": "#0F7BD2"
 }

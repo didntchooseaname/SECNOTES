@@ -1,9 +1,9 @@
 
 ## 🍳 Websites
 
-|      Name      |                                           description                                           |           Source            |
+|      Name      |                                           description                                           |   Source & Documentation    | 
 |:--------------:|:-----------------------------------------------------------------------------------------------:|:---------------------------:|
-|     google     |                                              🙅‍♀️                                              |     https://google.com      |
+|     google     |                                              🙅‍♀️                                                 |     https://google.com      |
 |  whatsmyname   |                                      Lookup in 1000+ sites                                      |   https://whatsmyname.app   |
 |   usersearch   |                        Social networks/Dating sites/Email search/Forums                         |   https://usersearch.org/   |
 |   namecheckr   |                       Check the availability of the name in social media                        | https://www.namecheckr.com/ |
@@ -13,7 +13,7 @@
 
 ## :hammer_and_wrench: Tools
 
-|    Name    |                             Description                             |                 Source                  |
+|    Name    |                             Description                             |         Source & Documentation          | 
 |:----------:|:-------------------------------------------------------------------:|:---------------------------------------:|
 |  Maigret   |                           Username Lookup                           |    https://github.com/soxoj/maigret     |
 | Mr.Holmes  |              Social Account/DBs/Domains/Phone numbers               |   https://github.com/Lucksi/Mr.Holmes   |

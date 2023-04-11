@@ -1,4 +1,4 @@
-|            Name            |                 Description                 |                 source                 |
+|            Name            |                 Description                 |         Source & Documentation         | 
 |:--------------------------:|:-------------------------------------------:|:--------------------------------------:|
 |        dnsdumpster         |            Dns recon with graphs            |        https://dnsdumpster.com/        |
 |           whois            | watch domain registrar and provider details |            https://who.is/             |

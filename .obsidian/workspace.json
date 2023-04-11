@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. EXPLOIT/tools.md",
+                "file": "2. SCAN/Tools.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EXPLOIT/tools.md",
+                "file": "2. SCAN/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EXPLOIT/tools.md",
+                "file": "2. SCAN/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EXPLOIT/tools.md"
+                "file": "2. SCAN/Tools.md"
               }
             }
           },
@@ -195,12 +195,15 @@
   },
   "active": "4e9c310337b769f6",
   "lastOpenFiles": [
-    "4. POST/PHP revshell.md",
-    "4. POST/Privilege escalation.md",
+    "1. RECON/ENUM.md",
+    "Knowledge Database/Server Side Request Forgery (SSRF).md",
+    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "4. POST/av evasion.md",
     "OSINT/Usernames.md",
     "OSINT/Domain names & web.md",
-    "OSINT/Localization.md",
     "OSINT/Google dorks.md",
+    "OSINT/Localization.md",
     "enumeration-mindmap.png",
     "Sources & Links/CTF writeups.md",
     "Sources & Links/Penetration testing ressources.md",
@@ -210,17 +213,14 @@
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Tempmails.md",
+    "4. POST/Privilege escalation.md",
+    "4. POST/PHP revshell.md",
+    "3. EXPLOIT/tools.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Domains information.md",
-    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
-    "4. POST/av evasion.md",
-    "Knowledge Database/Server Side Request Forgery (SSRF).md",
-    "Knowledge Database/Cross-Site Scripting (XSS).md",
     "README.md",
     "Knowledge Database",
-    "1. RECON/ENUM.md",
     "2. SCAN/Tools.md",
-    "3. EXPLOIT/tools.md",
     "Ava - Getting Started.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",

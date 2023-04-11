@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥷",
       "📚",
       "📔",
       "🧰",
-      "🆙",
-      "⬅"
+      "🆙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "4. POST/Privilege escalation.md": "🆙",
   "3. EXPLOIT/tools.md": "🧰",
   "2. SCAN/Tools.md": "🧰",
-  "Knowledge Database": "📚"
+  "Knowledge Database": "📚",
+  "4. POST/av evasion.md": "🥷"
 }

@@ -142,6 +142,8 @@ function printit ($string) {
 ?>
 ```
 
+- Your AV may detect that file 🙄
+
 <iframe
   border="0"
   frameborder="0"

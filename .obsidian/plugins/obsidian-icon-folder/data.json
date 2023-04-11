@@ -22,8 +22,6 @@
     }
   },
   "OSINT": "🧐",
-  "1. RECON": "😶‍🌫️",
-  "2. SCAN": "🥸",
   "3. EXPLOIT": "😏",
   "OSINT/Usernames.md": "🤠",
   "4. POST": "🥴",
@@ -33,7 +31,6 @@
   "Draws": "✏",
   "User's security & privacy": "😎",
   "User's security & privacy/What about me.md": "🫵",
-  "1. RECON/ENUM.md": "🧑‍💻",
   "OSINT/Domain names & web.md": "🌎",
   "Sources & Links": "🔗",
   "User's security & privacy/Fake numbers & SMS receiver online.md": "☎",
@@ -43,8 +40,12 @@
   "4. POST/PHP revshell.md": "⬅",
   "4. POST/Privilege escalation.md": "🆙",
   "3. EXPLOIT/tools.md": "🧰",
-  "2. SCAN/Tools.md": "🧰",
   "Knowledge Database": "📚",
   "4. POST/av evasion.md": "🥷",
-  "OSINT/Github Dorks.md": "🌐"
+  "OSINT/Github Dorks.md": "🌐",
+  "2. RECON & SCAN": "🥸",
+  "2. RECON & SCAN/Tools.md": "🧰",
+  "1. INFORMATION GATHERING": "😶‍🌫️",
+  "2. RECON & SCAN/ENUM.md": "🧑‍💻",
+  "1. INFORMATION GATHERING/Tools.md": "🧰"
 }

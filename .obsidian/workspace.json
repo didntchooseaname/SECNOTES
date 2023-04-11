@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "2. RECON & SCAN/ENUM.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bdbf1e29a3a8d153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. RECON & SCAN/Tools.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "2. RECON & SCAN/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "2. RECON & SCAN/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Github Dorks.md"
+                "file": "2. RECON & SCAN/Tools.md"
               }
             }
           },
@@ -205,13 +217,15 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "971b005c181bed16",
+  "active": "bdbf1e29a3a8d153",
   "lastOpenFiles": [
-    "4. POST/av evasion.md",
-    "OSINT/Github Dorks.md",
-    "2. SCAN/Tools.md",
-    "1. RECON/ENUM.md",
+    "2. RECON & SCAN/ENUM.md",
+    "2. RECON & SCAN/Tools.md",
     "3. EXPLOIT/tools.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "README.md",
+    "OSINT/Github Dorks.md",
+    "4. POST/av evasion.md",
     "OSINT/Google dorks.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
@@ -232,9 +246,7 @@
     "4. POST/PHP revshell.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Domains information.md",
-    "README.md",
     "Knowledge Database",
-    "Ava - Getting Started.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "Sources & Links",

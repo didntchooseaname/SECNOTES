@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
-                "mode": "source",
+                "file": "3. EXPLOIT/tools.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
+                "file": "3. EXPLOIT/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
+                "file": "3. EXPLOIT/tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md"
+                "file": "3. EXPLOIT/tools.md"
               }
             }
           },
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +220,16 @@
   },
   "active": "bdbf1e29a3a8d153",
   "lastOpenFiles": [
-    "2. RECON & SCAN/ENUM.md",
+    "4. POST/PHP revshell.md",
+    "4. POST/Privilege escalation.md",
+    "4. POST/av evasion.md",
+    "Sources & Links/Penetration testing ressources.md",
     "2. RECON & SCAN/Tools.md",
+    "2. RECON & SCAN/ENUM.md",
     "3. EXPLOIT/tools.md",
     "1. INFORMATION GATHERING/Tools.md",
     "README.md",
     "OSINT/Github Dorks.md",
-    "4. POST/av evasion.md",
     "OSINT/Google dorks.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
@@ -237,13 +241,10 @@
     "OSINT/Localization.md",
     "enumeration-mindmap.png",
     "Sources & Links/CTF writeups.md",
-    "Sources & Links/Penetration testing ressources.md",
     "Sources & Links/red team kill chain.md",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Tempmails.md",
-    "4. POST/Privilege escalation.md",
-    "4. POST/PHP revshell.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Domains information.md",
     "Knowledge Database",

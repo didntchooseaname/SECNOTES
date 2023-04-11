@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
+
 https://www.hackingarticles.in/penetration-testing/
 https://f1shh.gitbook.io/pentest-tips/
 https://guide.offsecnewbie.com

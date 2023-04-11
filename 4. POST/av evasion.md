@@ -1,9 +1,5 @@
 https://github.com/ch9sh/Jlaive-Crypter
 
-## Post du fil d’actualité
-
-𝐄𝐃𝐑 𝐚𝐧𝐝 𝐀𝐕 𝐁𝐲𝐩𝐚𝐬𝐬 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 - 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞 [#Part1](https://www.linkedin.com/feed/hashtag/?keywords=part1&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7011306783847657472) 
-
 1 - Bypass using Msfvenom  
 [https://lnkd.in/dAsVuCwp](https://lnkd.in/dAsVuCwp)  
 [https://lnkd.in/d3rJPZDC](https://lnkd.in/d3rJPZDC)
@@ -22,7 +18,7 @@ https://github.com/ch9sh/Jlaive-Crypter
 
 3 - Bypass using Powershell  
 [https://lnkd.in/dQ98cqnY](https://lnkd.in/dQ98cqnY)  
-[https://lnkd.in/d-Xsu6Fh](https://lnkd.in/d-Xsu6Fh) - PyFuscation  
+[https://lnkd.in/d-Xsu6Fh](https://lnkd.in/d-Xsu6Fh) - PyFuscation  https://github.com/CBHue/PyFuscation
 [https://lnkd.in/dgjjAqsm](https://lnkd.in/dgjjAqsm) - Invoke Obfuscation  
 [https://lnkd.in/d4VigsJy](https://lnkd.in/d4VigsJy) - Bypass the Powershell Execution Policy  
 [https://lnkd.in/dA4jbk\_B](https://lnkd.in/dA4jbk_B) - Powersploit (Retired)  
@@ -55,4 +51,4 @@ https://github.com/ch9sh/Jlaive-Crypter
 
 ### ired.team
 
-](https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates)
+https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates

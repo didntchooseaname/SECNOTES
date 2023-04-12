@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚜",
       "🔖",
       "🌐",
       "🥷",
-      "📚",
-      "📔"
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "2. RECON & SCAN/Tools.md": "🧰",
   "1. INFORMATION GATHERING": "😶‍🌫️",
   "1. INFORMATION GATHERING/Tools.md": "🧰",
-  "PDF": "🔖"
+  "PDF": "🔖",
+  "OSINT/Going further.md": "⚜"
 }

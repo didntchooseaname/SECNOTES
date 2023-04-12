@@ -13,11 +13,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PDF/OSINT Overview PT.1.pdf"
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "1d80a664c0b6de60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. POST/av evasion.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/OSINT Overview PT.1.pdf",
+                "file": "4. POST/av evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/OSINT Overview PT.1.pdf",
+                "file": "4. POST/av evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/OSINT Overview PT.1.pdf"
+                "file": "4. POST/av evasion.md"
               }
             }
           },
@@ -191,32 +204,33 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "4e9c310337b769f6",
+  "active": "1d80a664c0b6de60",
   "lastOpenFiles": [
-    "Sources & Links/Penetration testing ressources.md",
+    "4. POST/Privilege escalation.md",
+    "4. POST/PHP revshell.md",
+    "OSINT/Usernames.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Google dorks.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Localization.md",
+    "OSINT/Going further.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "PDF/OSCP NOTES.pdf",
     "PDF/OSINT Overview PT.1.pdf",
+    "Sources & Links/Penetration testing ressources.md",
     "Sources & Links/red team kill chain.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
     "User's security & privacy/Tempmails.md",
     "1. INFORMATION GATHERING/Tools.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/What about me.md",
     "Sources & Links/CTF writeups.md",
-    "OSINT/Localization.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Google dorks.md",
-    "4. POST/Privilege escalation.md",
-    "4. POST/PHP revshell.md",
     "3. EXPLOIT/tools.md",
     "2. RECON & SCAN/Tools.md",
     "2. RECON & SCAN/ENUM.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
-    "PDF/OSCP NOTES.pdf",
     "PDF",
     "4. POST/av evasion.md",
     "README.md",
@@ -224,7 +238,6 @@
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
     "Knowledge Database/Cross-Site Scripting (XSS).md",
     "enumeration-mindmap.png",
-    "Draws/31-03-2023_18.27.49.excalidraw.md",
     "Knowledge Database",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",

@@ -24,8 +24,12 @@
       "User's security & privacy"
     ],
     "User's security & privacy": [
+      "User's security & privacy/Hardening",
       "User's security & privacy/What about me.md",
-      "User's security & privacy/Sans titre.md"
+      "User's security & privacy/Fake numbers & SMS receiver online.md",
+      "User's security & privacy/Phishing framework.md",
+      "User's security & privacy/Fake identities & Fakes documents.md",
+      "User's security & privacy/Tempmails.md"
     ],
     "4. POST": [
       "4. POST/PHP revshell.md",

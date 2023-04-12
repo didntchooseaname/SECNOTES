@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐧",
+      "🪟",
+      "🔐",
       "⚜",
-      "🔖",
-      "🌐",
-      "🥷",
-      "📚"
+      "🔖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,8 @@
   "1. INFORMATION GATHERING": "😶‍🌫️",
   "1. INFORMATION GATHERING/Tools.md": "🧰",
   "PDF": "🔖",
-  "OSINT/Going further.md": "⚜"
+  "OSINT/Going further.md": "⚜",
+  "User's security & privacy/Hardening": "🔐",
+  "User's security & privacy/Hardening/Windows.md": "🪟",
+  "User's security & privacy/Hardening/GNU.Linux.md": "🐧"
 }

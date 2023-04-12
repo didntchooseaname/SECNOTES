@@ -1,0 +1,1 @@
+- Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning)

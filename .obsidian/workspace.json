@@ -11,11 +11,9 @@
             "id": "4e9c310337b769f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
-                "mode": "source",
-                "source": true
+                "file": "PDF/OSINT Overview PT.1.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "PDF/OSINT Overview PT.1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md",
+                "file": "PDF/OSINT Overview PT.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources & Links/Penetration testing ressources.md"
+                "file": "PDF/OSINT Overview PT.1.pdf"
               }
             }
           },
@@ -195,6 +193,8 @@
   },
   "active": "4e9c310337b769f6",
   "lastOpenFiles": [
+    "Sources & Links/Penetration testing ressources.md",
+    "PDF/OSINT Overview PT.1.pdf",
     "Sources & Links/red team kill chain.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
     "User's security & privacy/Tempmails.md",
@@ -205,7 +205,6 @@
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/What about me.md",
-    "Sources & Links/Penetration testing ressources.md",
     "Sources & Links/CTF writeups.md",
     "OSINT/Localization.md",
     "OSINT/Github Dorks.md",
@@ -240,7 +239,6 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Untitled.canvas"
   ]
 }

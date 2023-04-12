@@ -1,5 +1,6 @@
 
--  Set a strong password
+-  Set a strong password : 15 characters at least with numbers, lowercases, uppercases, specials characters
+- Enable and use 2fa with biometrics or better, an hardware security key with windows Hello.
 - Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning)
 
 - HardeningKitty https://github.com/0x6d69636b/windows_hardening

@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3. EXPLOIT/tools.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6c67066bd5583b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. EXPLOIT/Web.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3. EXPLOIT/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3. EXPLOIT/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3. EXPLOIT/Web.md"
               }
             }
           },
@@ -217,8 +230,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e9c310337b769f6",
+  "active": "6c67066bd5583b51",
   "lastOpenFiles": [
+    "3. EXPLOIT/tools.md",
+    "3. EXPLOIT/Web.md",
+    "README.md",
     "4. POST/av evasion.md",
     "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Going further.md",
@@ -241,7 +257,6 @@
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
     "Knowledge Database/Cross-Site Scripting (XSS).md",
     "Domains information.md",
-    "README.md",
     "Knowledge Database",
     "OSINT/Localization.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
@@ -251,9 +266,7 @@
     "Sources & Links/Penetration testing ressources.md",
     "1. RECON/ENUM.md",
     "2. SCAN/Tools.md",
-    "3. EXPLOIT/tools.md",
     "Sources & Links/red team kill chain.md",
-    "Ava - Getting Started.md",
     "enumeration-mindmap.png",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",

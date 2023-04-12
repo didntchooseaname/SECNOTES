@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
-                "mode": "preview",
+                "file": "Sources & Links/Penetration testing ressources.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "Sources & Links/Penetration testing ressources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md"
+                "file": "Sources & Links/Penetration testing ressources.md"
               }
             }
           },
@@ -195,14 +195,16 @@
   },
   "active": "4e9c310337b769f6",
   "lastOpenFiles": [
+    "Sources & Links/red team kill chain.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
+    "User's security & privacy/Tempmails.md",
+    "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Usernames.md",
     "OSINT/Domain names & web.md",
-    "User's security & privacy/Tempmails.md",
     "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/What about me.md",
-    "Sources & Links/red team kill chain.md",
     "Sources & Links/Penetration testing ressources.md",
     "Sources & Links/CTF writeups.md",
     "OSINT/Localization.md",
@@ -211,14 +213,12 @@
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
     "3. EXPLOIT/tools.md",
-    "1. INFORMATION GATHERING/Tools.md",
     "2. RECON & SCAN/Tools.md",
     "2. RECON & SCAN/ENUM.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSCP NOTES.pdf",
     "PDF",
-    "User's security & privacy/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "4. POST/av evasion.md",
     "README.md",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",

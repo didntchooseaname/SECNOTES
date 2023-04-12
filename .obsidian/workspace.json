@@ -11,50 +11,39 @@
             "id": "4e9c310337b769f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "1d80a664c0b6de60",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "4. POST/av evasion.md",
+                "file": "OSINT/Domain names & web.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "32822522eeae1c05",
+            "id": "c464245e217254ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
-                "mode": "source",
+                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "2ddc0f7c0ef418a9",
+            "id": "a69d611f7d780407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
-                "mode": "source",
+                "file": "OSINT/Google dorks.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "OSINT/Domain names & web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "OSINT/Domain names & web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md"
+                "file": "OSINT/Domain names & web.md"
               }
             }
           },
@@ -214,57 +203,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false
+      "ava:Ava - Open Rewrite Playground": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2ddc0f7c0ef418a9",
+  "active": "f3a9b31fccd7c4fe",
   "lastOpenFiles": [
-    "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",
-    "4. POST/av evasion.md",
+    "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening",
+    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
+    "PDF/OSINT Overview PT.1.pdf",
+    "PDF/OSCP NOTES.pdf",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "PDF",
+    "OSINT/Going further.md",
+    "OSINT/Github Dorks.md",
+    "2. RECON & SCAN/Tools.md",
+    "2. RECON & SCAN",
+    "1. INFORMATION GATHERING/Tools.md",
+    "1. INFORMATION GATHERING",
+    "4. POST/av evasion.md",
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
-    "OSINT/Going further.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "PDF/OSCP NOTES.pdf",
-    "PDF/OSINT Overview PT.1.pdf",
-    "Sources & Links/Penetration testing ressources.md",
-    "Sources & Links/red team kill chain.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
-    "User's security & privacy/Tempmails.md",
-    "1. INFORMATION GATHERING/Tools.md",
-    "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/Fake identities & Fakes documents.md",
-    "User's security & privacy/What about me.md",
-    "Sources & Links/CTF writeups.md",
-    "3. EXPLOIT/tools.md",
-    "2. RECON & SCAN/Tools.md",
-    "2. RECON & SCAN/ENUM.md",
-    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
-    "PDF",
-    "README.md",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
-    "enumeration-mindmap.png",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "Domains information.md",
+    "README.md",
     "Knowledge Database",
+    "OSINT/Localization.md",
+    "Draws/31-03-2023_18.27.49.excalidraw.md",
+    "OSINT/Usernames.md",
+    "OSINT/Google dorks.md",
+    "Sources & Links/CTF writeups.md",
+    "Sources & Links/Penetration testing ressources.md",
+    "1. RECON/ENUM.md",
+    "2. SCAN/Tools.md",
+    "3. EXPLOIT/tools.md",
+    "Sources & Links/red team kill chain.md",
+    "Ava - Getting Started.md",
+    "enumeration-mindmap.png",
+    "User's security & privacy/Tempmails.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "Sources & Links",
@@ -273,7 +263,6 @@
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
-    "User's security & privacy",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",

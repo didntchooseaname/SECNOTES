@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📚",
-      "📔",
-      "🧰",
-      "🆙",
-      "⬅"
+      "🔎",
+      "🧐",
+      "🔖",
+      "🐧",
+      "🪟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,13 @@
   "4. POST/PHP revshell.md": "⬅",
   "4. POST/Privilege escalation.md": "🆙",
   "3. EXPLOIT/tools.md": "🧰",
-  "Knowledge Database": "📚"
+  "Knowledge Database": "📚",
+  "1. INFORMATION GATHERING/Tools.md": "🧰",
+  "2. RECON & SCAN/Tools.md": "🧰",
+  "User's security & privacy/Hardening": "🔐",
+  "User's security & privacy/Hardening/Windows.md": "🪟",
+  "User's security & privacy/Hardening/GNU.Linux.md": "🐧",
+  "PDF": "🔖",
+  "1. INFORMATION GATHERING": "🧐",
+  "2. RECON & SCAN": "🔎"
 }

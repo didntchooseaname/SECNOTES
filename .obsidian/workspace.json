@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Domain names & web.md",
-                "mode": "preview",
+                "file": "1. INFORMATION GATHERING/Tools.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Domain names & web.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Domain names & web.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Domain names & web.md"
+                "file": "1. INFORMATION GATHERING/Tools.md"
               }
             }
           },
@@ -217,10 +217,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f3a9b31fccd7c4fe",
+  "active": "4e9c310337b769f6",
   "lastOpenFiles": [
-    "User's security & privacy/Hardening/Windows.md",
+    "2. RECON & SCAN/Tools.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
+    "User's security & privacy/Hardening/Windows.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "OSINT/Domain names & web.md",
     "User's security & privacy/Hardening",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSINT Overview PT.1.pdf",
@@ -229,9 +232,7 @@
     "PDF",
     "OSINT/Going further.md",
     "OSINT/Github Dorks.md",
-    "2. RECON & SCAN/Tools.md",
     "2. RECON & SCAN",
-    "1. INFORMATION GATHERING/Tools.md",
     "1. INFORMATION GATHERING",
     "4. POST/av evasion.md",
     "4. POST/Privilege escalation.md",
@@ -254,7 +255,6 @@
     "Sources & Links/red team kill chain.md",
     "Ava - Getting Started.md",
     "enumeration-mindmap.png",
-    "User's security & privacy/Tempmails.md",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "Sources & Links",

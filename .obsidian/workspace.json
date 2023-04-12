@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md"
+                "file": "README.md"
               }
             }
           },
@@ -219,10 +219,12 @@
   },
   "active": "4e9c310337b769f6",
   "lastOpenFiles": [
+    "4. POST/av evasion.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "OSINT/Going further.md",
     "2. RECON & SCAN/Tools.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",
-    "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Domain names & web.md",
     "User's security & privacy/Hardening",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
@@ -230,11 +232,9 @@
     "PDF/OSCP NOTES.pdf",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF",
-    "OSINT/Going further.md",
     "OSINT/Github Dorks.md",
     "2. RECON & SCAN",
     "1. INFORMATION GATHERING",
-    "4. POST/av evasion.md",
     "4. POST/Privilege escalation.md",
     "4. POST/PHP revshell.md",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",

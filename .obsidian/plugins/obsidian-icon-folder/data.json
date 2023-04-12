@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐕‍🦺",
       "🔎",
       "🧐",
       "🔖",
-      "🐧",
-      "🪟"
+      "🐧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "User's security & privacy/Hardening/GNU.Linux.md": "🐧",
   "PDF": "🔖",
   "1. INFORMATION GATHERING": "🧐",
-  "2. RECON & SCAN": "🔎"
+  "2. RECON & SCAN": "🔎",
+  "4. POST/av evasion.md": "🐕‍🦺"
 }

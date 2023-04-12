@@ -33,6 +33,7 @@
       "User's security & privacy/Tempmails.md"
     ],
     "4. POST": [
+      "4. POST/Privesc.md",
       "4. POST/PHP revshell.md",
       "4. POST/Privilege escalation.md",
       "4. POST/av evasion.md"

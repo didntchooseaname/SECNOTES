@@ -1,9 +1,82 @@
 
--  Set a strong password : 15 characters at least with numbers, lowercases, uppercases, specials characters
+-  Encrypt your whole drives with veracrypt or bitlocker.
+- Enable SecureBoot and put a password on the bios.
+- Set a strong password for your login account : 15 characters at least with numbers, lowercases, uppercases, specials characters.
 - Enable and use 2fa with biometrics or better, an hardware security key with windows Hello.
-- Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning)
+- Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning).
+
+## OS related : 
+
+- [ ]  ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
+- [ ] Be sure that Windows is [up-to-date](https://www.microsoft.com/en-us/software-download/windows11)
+- [ ] Be sure that Microsoft Defender is [up-to-date](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#monthly-platform-and-engine-versions)
+- [ ] Be sure that Latest Driver and Program are updated
+- [ ] Only necessary programs/apps/games which you need
+- [ ] avoid insecure software like 7-Zip (which lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support) and also [Forks](https://improsec.com/tech-blog/peazip-msi-installer-local-privilege-escalation-vulnerabilities), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows11_Hardening/blob/master/TrueCrypt-VeraCrypt), ...
+- [ ] stay away from "Anti-Spying"/"Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows11_Privacy)
+- [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#requirements-met-by-system-guard-enabled-machines) for [System Guard](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/how-hardware-based-root-of-trust-helps-protect-windows) / [Hardware-based Isolation](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/how-hardware-based-root-of-trust-helps-protect-windows?view=o365-worldwide)
+- [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/device-guard/requirements-and-deployment-planning-guidelines-for-virtualization-based-protection-of-code-integrity#baseline-protections) for [Memory integrity](https://support.microsoft.com/en-us/windows/core-isolation-e30ed737-17d8-42f3-a2a9-87521df09b78)
+- [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/reqs-md-app-guard) for Microsoft [Defender Application Guard](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview) (WDAG)
+- [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-requirements) for Microsoft [Defender Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-how-it-works)
+
+
+## Hardening
+- [ ] Set User Account Control ([UAC](https://learn.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows11_Hardening/blob/master/maximum%20UAC%20level)
+- [ ] [Create](https://support.microsoft.com/en-us/windows/create-a-local-user-or-administrator-account-in-windows-20de74e0-ac7f-3502-a866-32915af2a34d) a different Admin account and [transform](https://www.windowscentral.com/how-change-user-account-type-windows-10/3) your current account to limited/restricted/standard user to reduce the attack surface enormously. Don't use administrator access for your tasks!
+- [ ] Use [Smart App Control](https://support.microsoft.com/en-us/topic/what-is-smart-app-control-285ea03d-fa88-4d56-882e-6698afdb7003)
+- [ ] [Block all incoming connections](https://malwaretips.com/threads/what-would-happen-if-a-legimate-program-os-or-game-somehow-had-a-virus-or-malware-installed-on-it-from-the-official-source.108861/page-2#post-949038) with Microsoft Defender Firewall
+- [ ] Always [display file type extension](https://github.com/beerisgood/Windows11_Hardening/blob/master/always%20display%20file%20type%20extension)
+- [ ] [Manage](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage) Microsoft Defender [Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard)
+- [ ] Install Microsoft Defender Application Guard ([WDAG](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard#install-application-guard)) and use it for untrusted sites
+- [ ] Enable Memory Integrity ([HVCI](https://learn.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10))
+- [ ] Enable Network Protection ([NP](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/network-protection?view=o365-worldwide))
+- [ ] Enable [SmartScreen](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-smartscreen/microsoft-defender-smartscreen-set-individual-device) and enable [SmartScreen Logs](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-smartscreen/microsoft-defender-smartscreen-overview#viewing-windows-event-logs-for-windows-defender-smartscreen)
+- [ ] Enable Controlled Folder Access ([CFA](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/controlled-folders?view=o365-worldwide))
+- [ ] Enable Attack Surface Reduction rules ([ASR](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide))
+- [ ] [Enable](https://github.com/beerisgood/Windows11_Hardening/blob/master/harden%20ASLR) Mandatory ALSR and Bottom-Up-ALSR ([Address Space Layout Randomization](https://docs.microsoft.com/en-us/windows/security/threat-protection/overview-of-threat-mitigations-in-windows-10#address-space-layout-randomization))
+- [ ] Enable [System Guard Secure Launch](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#windows-security-center)
+- [ ] Enable [cloud-delivered protection](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-cloud-protection-microsoft-defender-antivirus?view=o365-worldwide)
+- [ ] [Enable](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/detect-block-potentially-unwanted-apps-microsoft-defender-antivirus?ocid=wd-av-demo-pua-bottom&view=o365-worldwide#use-powershell-cmdlets-to-configure-pua-protection) protection against Potentially Unwanted Apps ([PUA](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/detect-block-potentially-unwanted-apps-microsoft-defender-antivirus?view=o365-worldwide#use-powershell-cmdlets-to-configure-pua-protection))
+- [ ] Enable [Bitlocker Encryption with TPM](https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-device-encryption-overview-windows-10), optionally with [Startup PIN](https://techcommunity.microsoft.com/t5/windows-security/hardening-windows-10-on-an-it-pro-s-laptop/m-p/183213/highlight/true#M232) & read about [Countermeasures](https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-countermeasures) to reduce [DMA threats](https://support.microsoft.com/en-us/topic/blocking-the-sbp-2-driver-and-thunderbolt-controllers-to-reduce-1394-dma-and-thunderbolt-dma-threats-to-bitlocker-bf0ef10b-f563-5cfc-9740-8340b1d86a0c)
+- [ ] Use [Windows Sandbox](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/windows-sandbox/ba-p/301849) for new/unknown binaries ([you can use it with the right click menu](https://github.com/damienvanrobaeys/Run-in-Sandbox)) or enable [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) for use with Microsoft's [Virtual Machine Platform](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine)
+- [ ] Enable [sandboxing](https://www.microsoft.com/en-us/security/blog/2018/10/26/windows-defender-antivirus-can-now-run-in-a-sandbox/) for Microsoft Defender Antivirus
+- [ ] [Only elevate executables which are signed and validated](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-group-policy-and-registry-key-settings#user-account-control-only-elevate-executables-that-are-signed-and-validated)
+- [ ] Use the only browser that [natively supports hardware isolation](https://docs.microsoft.com/en-us/deployedge/ms-edge-security-for-business): [Edge](https://www.microsoft.com/en-us/edge)
+- [ ] Use [EFS file encryption](https://community.windows.com/en-us/stories/file-encryption-windows-10) for very sensitive files - also compatible with Bitlocker
+- [ ] [Harden OneDrive](https://malwaretips.com/threads/hard_configurator-windows-hardening-configurator.66416/page-28#post-743486) with Windows Controlled Folder Access ([CFA](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/controlled-folders?view=o365-worldwide) aka Ransomeware Protection)
+- [ ] Avoid old file systems like FAT32 that [do not preserve Alternative NTFS Streams](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) (where Mark Of The Web is skipped)
+- [ ] While DNS encryption [isn't perfect](https://madaidans-insecurities.github.io/encrypted-dns.html) both [Quad9](https://www.quad9.net) and [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setup/) are recommend. [AdGuard](https://adguard-dns.io) and [NextDNS](https://nextdns.io/) are another, but some users report problems like false positive filtering, stability/performance issues.
+
+### Further Hardening
+
+
+- [ ] [Configure](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-exploit-protection?view=o365-worldwide#windows-security-app) Microsoft's [Exploit Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) and [Enforced CET](https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340#toc-hId--1650725290)
+- [ ] Use [Microsoft's recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+- [ ] Control [USB devices and other removable media](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-control/control-usb-devices-using-intune)
+- [ ] See UEFI Hardening aka [NSA Defensive Practices Guidance](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf) and [Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance)
+- [ ] See [Hardware and Firmware Security Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance) for [Windows](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#win) and [AMD CPUs](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/tree/master/guidance#54-amd) 
+- [ ] Deploy [Windows Security Baselines](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines) and keep it [up-to-date](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)
+- [ ] Use [Mandatory Integrity Control](https://learn.microsoft.com/en-us/windows/win32/secauthz/mandatory-integrity-control)
+- [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows 10 systems
 
 - HardeningKitty https://github.com/0x6d69636b/windows_hardening
+
+## Get the maximum of defender
+
+The following settings may **decrease the usability of your computer**, since defender will be setup to **shoot everything suspicious** with the help of windows cloud threat intel. It will also, **consume more ressources** !
+
+You can find these settings in the group policy editor under `Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus`
+
+> Under the `MAPS` folder :
+
+- [ ] Set `Configure the Block at First Sight` to **"Enabled"**
+- [ ] Set `Join Microsoft MAPS` to **"Enabled"** with Options : **"Advanced MAPS"**
+- [ ] (As you want) Set `Send file samples when further analysis is required` to **"Enabled"** with Options : **"Send all samples"**
+
+> Under the `MpEngine` folder :
+
+- [ ] Set the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection) to **"Enabled"** with Options : **"Zero Tolerance"** 😵‍💫
+
 
 ## 🐢 Going Further
 

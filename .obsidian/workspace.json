@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "User's security & privacy/Hardening/Windows.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md"
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
               }
             }
           },
@@ -205,12 +205,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +227,7 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "2ddc0f7c0ef418a9",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",

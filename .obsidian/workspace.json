@@ -28,9 +28,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5652d5f272f99e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Phone numbers.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Social networks.md",
+                "file": "OSINT/Phone numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Social networks.md",
+                "file": "OSINT/Phone numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Social networks.md"
+                "file": "OSINT/Phone numbers.md"
               }
             }
           },
@@ -181,12 +193,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +215,11 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "3bba5aa93862687a",
+  "active": "d5652d5f272f99e1",
   "lastOpenFiles": [
-    "PDF/Pasted image 20230413105832.png",
     "OSINT/Social networks.md",
+    "OSINT/Phone numbers.md",
+    "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening/Windows.md",
     "User's security & privacy/Hardening/GNU.Linux.md",

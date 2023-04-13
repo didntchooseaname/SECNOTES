@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📱",
       "⛹",
       "🌎",
       "🕴",
-      "🐧",
-      "🪟"
+      "🐧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "User's security & privacy/Hardening/Windows.md": "🪟",
   "User's security & privacy/Hardening/GNU.Linux.md": "🐧",
   "4. POST/Privesc.md": "🕴",
-  "OSINT/Social networks.md": "⛹"
+  "OSINT/Social networks.md": "⛹",
+  "OSINT/Phone numbers.md": "📱"
 }

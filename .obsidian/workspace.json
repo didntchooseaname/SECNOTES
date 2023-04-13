@@ -11,15 +11,26 @@
             "id": "bfe7b5437f8ba6d3",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "PDF/Pasted image 20230413105832.png"
+              }
+            }
+          },
+          {
+            "id": "3bba5aa93862687a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "OSINT/Social networks.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "OSINT/Social networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "OSINT/Social networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md"
+                "file": "OSINT/Social networks.md"
               }
             }
           },
@@ -170,11 +181,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +204,13 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "bfe7b5437f8ba6d3",
+  "active": "3bba5aa93862687a",
   "lastOpenFiles": [
-    "User's security & privacy/Hardening/GNU.Linux.md",
+    "PDF/Pasted image 20230413105832.png",
+    "OSINT/Social networks.md",
+    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening/Windows.md",
+    "User's security & privacy/Hardening/GNU.Linux.md",
     "4. POST/Privesc.md",
     "conflict-files-obsidian-git.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
@@ -223,8 +238,6 @@
     "User's security & privacy/What about me.md",
     "Sources & Links/CTF writeups.md",
     "3. EXPLOIT/tools.md",
-    "2. RECON & SCAN/Tools.md",
-    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF",
     "enumeration-mindmap.png",
     "Knowledge Database",
@@ -239,7 +252,6 @@
     "User's security & privacy",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Untitled.canvas"
   ]
 }

@@ -45,9 +45,9 @@ body {
   --em-color: var(--pink);
   --quote-color: var(--green);
 
-  --tag-background-color-l: #bde1d3;
-  --tag-font-color-l: #1d694b;
-  --tag-background-color-d: #1d694b;
+  --tag-background-color-l: #ffffff;
+  --tag-font-color-l: #20599b;
+  --tag-background-color-d: #20599b;
   --tag-font-color-d: #ffffff;
 
   /* Font families */

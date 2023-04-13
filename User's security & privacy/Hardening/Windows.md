@@ -1,10 +1,13 @@
 
 ### :luc_mouse_pointer_click: Mandatory zone (do first)
+
 -  Encrypt your whole drives with bitlocker.
 - Enable SecureBoot and put a password on the bios.
 - Set a strong password for your login account : 15 characters at least with numbers, lowercases, uppercases, specials characters.
 - Enable and use 2fa with biometrics or better, an hardware security key with windows Hello.
 - Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning).
+
+---
 
 ### :luc_server_crash: Mandatory security : 
 
@@ -19,6 +22,7 @@
 - [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/reqs-md-app-guard) for Microsoft [Defender Application Guard](https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview) (WDAG)
 - [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-requirements) for Microsoft [Defender Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-how-it-works)
 
+---
 
 ### :luc_lock: Hardening
 - [ ] Set User Account Control ([UAC](https://learn.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows11_Hardening/blob/master/maximum%20UAC%20level)
@@ -47,8 +51,9 @@
 - [ ] Avoid old file systems like FAT32 that [do not preserve Alternative NTFS Streams](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) (where Mark Of The Web is skipped)
 - [ ] While DNS encryption [isn't perfect](https://madaidans-insecurities.github.io/encrypted-dns.html) both [Quad9](https://www.quad9.net) and [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setup/) are recommend. [AdGuard](https://adguard-dns.io) and [NextDNS](https://nextdns.io/) are another, but some users report problems like false positive filtering, stability/performance issues.
 
-### :luc_screen_share: Further Hardening
+---
 
+### :luc_screen_share: Further Hardening
 
 - [ ] [Configure](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-exploit-protection?view=o365-worldwide#windows-security-app) Microsoft's [Exploit Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) and [Enforced CET](https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340#toc-hId--1650725290)
 - [ ] Use [Microsoft's recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
@@ -59,26 +64,29 @@
 - [ ] Use [Mandatory Integrity Control](https://learn.microsoft.com/en-us/windows/win32/secauthz/mandatory-integrity-control)
 - [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows 10 systems
 
-- HardeningKitty https://github.com/0x6d69636b/windows_hardening
+---
 
 ### :luc_check_circle: Get the maximum of defender
 
-The following settings may **decrease the usability of your computer**, since defender will be setup to **shoot everything suspicious** with the help of windows cloud threat intel. It will also, **consume more ressources** !
+The following settings may **decrease the usability of your computer**, since defender will be setup to **shoot everything suspicious** with the help of windows cloud threat intel. It will also, **consume more ressources** ! 
+
+> Windows Defender's exclusions aren't advised, since these can be listed and used easily by a attacker (in a post exploitation process) to bypass defender.
 
 You can find these settings in the group policy editor under `Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus`
 
-> :luc_folder_open: Under the `MAPS` folder :
+- :luc_folder_open: Under the `MAPS` folder :
+	- [ ] Set `Configure the Block at First Sight` to **"Enabled"**
+	- [ ] Set `Join Microsoft MAPS` to **"Enabled"** with Options : **"Advanced MAPS"**
+	- [ ] (As you want) Set `Send file samples when further analysis is required` to **"Enabled"** with Options : **"Send all samples"**
 
-- [ ] Set `Configure the Block at First Sight` to **"Enabled"**
-- [ ] Set `Join Microsoft MAPS` to **"Enabled"** with Options : **"Advanced MAPS"**
-- [ ] (As you want) Set `Send file samples when further analysis is required` to **"Enabled"** with Options : **"Send all samples"**
+---
 
-> :luc_folder_open: Under the `MpEngine` folder :
+- :luc_folder_open: Under the `MpEngine` folder :
+	- [ ] Set the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection) to **"Enabled"** with Options : **"Zero Tolerance"** 😵‍💫
 
-- [ ] Set the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection) to **"Enabled"** with Options : **"Zero Tolerance"** 😵‍💫
+---
 
-
-## 🐢 Going Further
+### 🐢 Going Further
 
 **Follow Microsoft & NSA hardening recommendations :**
 

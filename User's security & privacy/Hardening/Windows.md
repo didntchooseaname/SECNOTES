@@ -47,7 +47,7 @@
 - [ ] Avoid old file systems like FAT32 that [do not preserve Alternative NTFS Streams](https://malwaretips.com/threads/how-to-harden-my-system-against-usb-spreading-malware.98442/page-2#post-859762) (where Mark Of The Web is skipped)
 - [ ] While DNS encryption [isn't perfect](https://madaidans-insecurities.github.io/encrypted-dns.html) both [Quad9](https://www.quad9.net) and [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setup/) are recommend. [AdGuard](https://adguard-dns.io) and [NextDNS](https://nextdns.io/) are another, but some users report problems like false positive filtering, stability/performance issues.
 
-### Further Hardening
+### :luc_screen_share: Further Hardening
 
 
 - [ ] [Configure](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-exploit-protection?view=o365-worldwide#windows-security-app) Microsoft's [Exploit Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) and [Enforced CET](https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340#toc-hId--1650725290)
@@ -61,19 +61,19 @@
 
 - HardeningKitty https://github.com/0x6d69636b/windows_hardening
 
-## Get the maximum of defender
+### :luc_check_circle: Get the maximum of defender
 
 The following settings may **decrease the usability of your computer**, since defender will be setup to **shoot everything suspicious** with the help of windows cloud threat intel. It will also, **consume more ressources** !
 
 You can find these settings in the group policy editor under `Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus`
 
-> Under the `MAPS` folder :
+> :luc_folder_open: Under the `MAPS` folder :
 
 - [ ] Set `Configure the Block at First Sight` to **"Enabled"**
 - [ ] Set `Join Microsoft MAPS` to **"Enabled"** with Options : **"Advanced MAPS"**
 - [ ] (As you want) Set `Send file samples when further analysis is required` to **"Enabled"** with Options : **"Send all samples"**
 
-> Under the `MpEngine` folder :
+> :luc_folder_open: Under the `MpEngine` folder :
 
 - [ ] Set the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection) to **"Enabled"** with Options : **"Zero Tolerance"** 😵‍💫
 

@@ -52,9 +52,43 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bfe7b5437f8ba6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. POST/Privesc.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35534047d6acaa3e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "83ae08f16991eaf0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -128,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +257,12 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "83ae08f16991eaf0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "4. POST/Privesc.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "3. EXPLOIT/Web.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",
     "4. POST/av evasion.md",
@@ -241,7 +275,6 @@
     "OSINT/Github Dorks.md",
     "OSINT/Localization.md",
     "OSINT/Going further.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/OSCP NOTES.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "Sources & Links/Penetration testing ressources.md",
@@ -256,12 +289,8 @@
     "Sources & Links/CTF writeups.md",
     "3. EXPLOIT/tools.md",
     "2. RECON & SCAN/Tools.md",
-    "2. RECON & SCAN/ENUM.md",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF",
-    "README.md",
-    "Knowledge Database/Server Side Request Forgery (SSRF).md",
-    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
     "enumeration-mindmap.png",
     "Knowledge Database",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",

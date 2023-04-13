@@ -1,11 +1,12 @@
 
--  Encrypt your whole drives with veracrypt or bitlocker.
+### :luc_mouse_pointer_click: Mandatory zone
+-  Encrypt your whole drives with bitlocker.
 - Enable SecureBoot and put a password on the bios.
 - Set a strong password for your login account : 15 characters at least with numbers, lowercases, uppercases, specials characters.
 - Enable and use 2fa with biometrics or better, an hardware security key with windows Hello.
 - Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning).
 
-## OS related : 
+### :luc_server_crash: High-end security : 
 
 - [ ]  ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
 - [ ] Be sure that Windows is [up-to-date](https://www.microsoft.com/en-us/software-download/windows11)
@@ -20,7 +21,7 @@
 - [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-requirements) for Microsoft [Defender Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-how-it-works)
 
 
-## Hardening
+### :luc_lock: Hardening
 - [ ] Set User Account Control ([UAC](https://learn.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview)) to [maximum](https://github.com/beerisgood/Windows11_Hardening/blob/master/maximum%20UAC%20level)
 - [ ] [Create](https://support.microsoft.com/en-us/windows/create-a-local-user-or-administrator-account-in-windows-20de74e0-ac7f-3502-a866-32915af2a34d) a different Admin account and [transform](https://www.windowscentral.com/how-change-user-account-type-windows-10/3) your current account to limited/restricted/standard user to reduce the attack surface enormously. Don't use administrator access for your tasks!
 - [ ] Use [Smart App Control](https://support.microsoft.com/en-us/topic/what-is-smart-app-control-285ea03d-fa88-4d56-882e-6698afdb7003)

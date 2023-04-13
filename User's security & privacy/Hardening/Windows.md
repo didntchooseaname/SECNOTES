@@ -70,7 +70,7 @@
 
 The following settings may **decrease the usability of your computer**, since defender will be setup to **shoot everything suspicious** with the help of windows cloud threat intel. It will also, **consume more ressources** ! 
 
-> Windows Defender's exclusions aren't advised, since these can be listed and used easily by a attacker (in a post exploitation process) to bypass defender.
+> Windows Defender's exclusions aren't advised, since these can be listed and used easily by an attacker (in a post exploitation process) to bypass defender.
 
 You can find these settings in the group policy editor under `Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus`
 

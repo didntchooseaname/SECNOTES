@@ -1,19 +1,18 @@
 
-### :luc_mouse_pointer_click: Mandatory zone
+### :luc_mouse_pointer_click: Mandatory zone (do first)
 -  Encrypt your whole drives with bitlocker.
 - Enable SecureBoot and put a password on the bios.
 - Set a strong password for your login account : 15 characters at least with numbers, lowercases, uppercases, specials characters.
 - Enable and use 2fa with biometrics or better, an hardware security key with windows Hello.
 - Disable "Auto detection for proxies" in Windows and browsers (wpad protocol, NBT-NS/LLMNR poisoning).
 
-### :luc_server_crash: High-end security : 
+### :luc_server_crash: Mandatory security : 
 
 - [ ]  ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
 - [ ] Be sure that Windows is [up-to-date](https://www.microsoft.com/en-us/software-download/windows11)
 - [ ] Be sure that Microsoft Defender is [up-to-date](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#monthly-platform-and-engine-versions)
 - [ ] Be sure that Latest Driver and Program are updated
 - [ ] Only necessary programs/apps/games which you need
-- [ ] avoid insecure software like 7-Zip (which lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support) and also [Forks](https://improsec.com/tech-blog/peazip-msi-installer-local-privilege-escalation-vulnerabilities), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows11_Hardening/blob/master/TrueCrypt-VeraCrypt), ...
 - [ ] stay away from "Anti-Spying"/"Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows11_Privacy)
 - [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#requirements-met-by-system-guard-enabled-machines) for [System Guard](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/how-hardware-based-root-of-trust-helps-protect-windows) / [Hardware-based Isolation](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/how-hardware-based-root-of-trust-helps-protect-windows?view=o365-worldwide)
 - [ ] [Hardware Requirements](https://learn.microsoft.com/en-us/windows/security/threat-protection/device-guard/requirements-and-deployment-planning-guidelines-for-virtualization-based-protection-of-code-integrity#baseline-protections) for [Memory integrity](https://support.microsoft.com/en-us/windows/core-isolation-e30ed737-17d8-42f3-a2a9-87521df09b78)

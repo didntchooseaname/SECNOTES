@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Phone numbers.md",
+                "file": "User's security & privacy/What about me.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bfa2e9a081c7e451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Phone numbers.md",
+                "file": "Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Phone numbers.md",
+                "file": "Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Phone numbers.md"
+                "file": "Active Directory.md"
               }
             }
           },
@@ -193,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,10 +227,14 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "d5652d5f272f99e1",
+  "active": "bfa2e9a081c7e451",
   "lastOpenFiles": [
-    "OSINT/Social networks.md",
+    "Analyze & reporting",
+    "User's security & privacy/What about me.md",
+    "Active Directory.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
     "OSINT/Phone numbers.md",
+    "OSINT/Social networks.md",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening/Windows.md",
@@ -245,11 +261,7 @@
     "User's security & privacy/Tempmails.md",
     "1. INFORMATION GATHERING/Tools.md",
     "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
-    "User's security & privacy/What about me.md",
-    "Sources & Links/CTF writeups.md",
-    "3. EXPLOIT/tools.md",
     "PDF",
     "enumeration-mindmap.png",
     "Knowledge Database",

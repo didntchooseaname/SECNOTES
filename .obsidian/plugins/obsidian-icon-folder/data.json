@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪟",
+      "🔄",
       "🗒",
       "📱",
-      "⛹",
-      "🌎",
-      "🕴"
+      "⛹"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,8 +51,11 @@
   "4. POST & PERSISTENCE": "🥴",
   "4. POST & PERSISTENCE/av evasion.md": "🥷",
   "4. POST & PERSISTENCE/PHP revshell.md": "⬅",
-  "4. POST & PERSISTENCE/Privesc.md": "🕴",
   "5. ANALYZE & REPORTING": "🗒",
   "3. GAINING ACCES & EXPLOIT": "😏",
-  "3. GAINING ACCES & EXPLOIT/tools.md": "🧰"
+  "3. GAINING ACCES & EXPLOIT/tools.md": "🧰",
+  "3. GAINING ACCES & EXPLOIT/Wordlists.md": "🔄",
+  "3. GAINING ACCES & EXPLOIT/Web.md": "🌎",
+  "4. POST & PERSISTENCE/Linux privesc.md": "🕴",
+  "4. POST & PERSISTENCE/Windows privesc.md": "🪟"
 }

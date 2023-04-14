@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. POST & PERSISTENCE/Privesc.md",
+                "file": "4. POST & PERSISTENCE/Linux privesc.md",
                 "mode": "preview",
                 "source": true
               }
@@ -59,14 +59,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
+                "file": "4. POST & PERSISTENCE/Linux privesc.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "13f1cea92d863cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. POST & PERSISTENCE/Linux privesc.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6dea97a6a66518e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. ANALYZE & REPORTING/OSCP report templates.md"
+                "file": "4. POST & PERSISTENCE/Windows privesc.md"
               }
             }
           },
@@ -239,9 +263,13 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "1e19b300d580747e",
+  "active": "6dea97a6a66518e2",
   "lastOpenFiles": [
-    "4. POST & PERSISTENCE/Privesc.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
@@ -255,7 +283,6 @@
     "User's security & privacy/Hardening/GNU.Linux.md",
     "conflict-files-obsidian-git.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
     "4. POST & PERSISTENCE/av evasion.md",
     "User's security & privacy/Hardening",
     "4. POST/Privilege escalation.md",
@@ -272,9 +299,6 @@
     "Sources & Links/red team kill chain.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
     "User's security & privacy/Tempmails.md",
-    "1. INFORMATION GATHERING/Tools.md",
-    "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake identities & Fakes documents.md",
     "PDF",
     "enumeration-mindmap.png",
     "Knowledge Database",

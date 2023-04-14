@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory.md",
+                "file": "4. POST & PERSISTENCE/Privesc.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e19b300d580747e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory.md",
+                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory.md",
+                "file": "5. ANALYZE & REPORTING/OSCP report templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory.md"
+                "file": "5. ANALYZE & REPORTING/OSCP report templates.md"
               }
             }
           },
@@ -227,11 +239,13 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "bfa2e9a081c7e451",
+  "active": "1e19b300d580747e",
   "lastOpenFiles": [
-    "Analyze & reporting",
-    "User's security & privacy/What about me.md",
+    "4. POST & PERSISTENCE/Privesc.md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
     "Active Directory.md",
+    "5. ANALYZE & REPORTING",
+    "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "OSINT/Phone numbers.md",
     "OSINT/Social networks.md",
@@ -239,14 +253,13 @@
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening/Windows.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
-    "4. POST/Privesc.md",
     "conflict-files-obsidian-git.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "3. EXPLOIT/Web.md",
-    "4. POST/av evasion.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "4. POST & PERSISTENCE/av evasion.md",
     "User's security & privacy/Hardening",
     "4. POST/Privilege escalation.md",
-    "4. POST/PHP revshell.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
     "OSINT/Usernames.md",
     "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
@@ -273,7 +286,6 @@
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
-    "User's security & privacy",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Untitled.canvas"

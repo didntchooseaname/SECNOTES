@@ -14,3 +14,7 @@ python -c import pty;pty.spawn("/bin/bash")
 ```vim
 nmap --interactive
 ```
+
+https://www.youtube.com/@sagishahar/videos
+
+https://www.youtube.com/watch?v=HTM-BavQvs4&list=PLjG9EfEtwbvIrGFTx4XctK8IxkUJkAEqP

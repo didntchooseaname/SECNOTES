@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗒",
       "📱",
       "⛹",
       "🌎",
-      "🕴",
-      "🐧"
+      "🕴"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,9 +22,7 @@
     }
   },
   "OSINT": "🧐",
-  "3. EXPLOIT": "😏",
   "OSINT/Usernames.md": "🤠",
-  "4. POST": "🥴",
   "OSINT/Localization.md": "🗺",
   "OSINT/Google dorks.md": "🔎",
   "Excalidraw": "⚔",
@@ -37,10 +35,7 @@
   "User's security & privacy/Tempmails.md": "🛕",
   "User's security & privacy/Phishing framework.md": "🎣",
   "User's security & privacy/Fake identities & Fakes documents.md": "👓",
-  "4. POST/PHP revshell.md": "⬅",
-  "3. EXPLOIT/tools.md": "🧰",
   "Knowledge Database": "📚",
-  "4. POST/av evasion.md": "🥷",
   "OSINT/Github Dorks.md": "🌐",
   "2. RECON & SCAN": "🥸",
   "2. RECON & SCAN/Tools.md": "🧰",
@@ -51,7 +46,13 @@
   "User's security & privacy/Hardening": "🔐",
   "User's security & privacy/Hardening/Windows.md": "🪟",
   "User's security & privacy/Hardening/GNU.Linux.md": "🐧",
-  "4. POST/Privesc.md": "🕴",
   "OSINT/Social networks.md": "⛹",
-  "OSINT/Phone numbers.md": "📱"
+  "OSINT/Phone numbers.md": "📱",
+  "4. POST & PERSISTENCE": "🥴",
+  "4. POST & PERSISTENCE/av evasion.md": "🥷",
+  "4. POST & PERSISTENCE/PHP revshell.md": "⬅",
+  "4. POST & PERSISTENCE/Privesc.md": "🕴",
+  "5. ANALYZE & REPORTING": "🗒",
+  "3. GAINING ACCES & EXPLOIT": "😏",
+  "3. GAINING ACCES & EXPLOIT/tools.md": "🧰"
 }

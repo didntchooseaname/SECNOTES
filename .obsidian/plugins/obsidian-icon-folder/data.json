@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏖",
       "🪟",
       "🔄",
       "🗒",
-      "📱",
-      "⛹"
+      "📱"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,6 @@
   "3. GAINING ACCES & EXPLOIT/Wordlists.md": "🔄",
   "3. GAINING ACCES & EXPLOIT/Web.md": "🌎",
   "4. POST & PERSISTENCE/Linux privesc.md": "🕴",
-  "4. POST & PERSISTENCE/Windows privesc.md": "🪟"
+  "4. POST & PERSISTENCE/Windows privesc.md": "🪟",
+  "Malware analysis.md": "🏖"
 }

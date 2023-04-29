@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+                "file": "Active Directory.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+                "file": "Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+                "file": "Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Database/Insecure Direct Object Reference (IDOR).md"
+                "file": "Active Directory.md"
               }
             }
           },
@@ -194,25 +194,25 @@
   },
   "active": "c464245e217254ee",
   "lastOpenFiles": [
-    "OSINT/Google dorks.md",
+    "Malware analysis.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+    "OSINT/Google dorks.md",
     "conflict-files-obsidian-git.md",
     "3. EXPLOIT/tools.md",
     "PDF/Pasted image 20230413105832.png",
     "OSINT/Social networks.md",
     "OSINT/Phone numbers.md",
-    "Malware analysis.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE/Windows privesc.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/av evasion.md",
     "4. POST & PERSISTENCE",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md",
     "3. GAINING ACCES & EXPLOIT",
     "4. POST/Privilege escalation.md",
     "4. POST/Privesc.md",

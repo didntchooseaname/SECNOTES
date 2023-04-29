@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. POST/Privesc.md",
+                "file": "3. EXPLOIT/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. POST/Privesc.md",
+                "file": "3. EXPLOIT/tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. POST/Privesc.md"
+                "file": "3. EXPLOIT/tools.md"
               }
             }
           },
@@ -219,12 +219,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +241,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9b5910ff57cdf987",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "4. POST/Privilege escalation.md",
     "4. POST/Privesc.md",

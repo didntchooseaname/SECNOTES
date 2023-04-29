@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory.md"
+                "file": "1. INFORMATION GATHERING/Tools.md"
               }
             }
           },
@@ -192,8 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c464245e217254ee",
+  "active": "f3a9b31fccd7c4fe",
   "lastOpenFiles": [
+    "2. RECON & SCAN/Tools.md",
+    "Draws/31-03-2023_18.27.49.excalidraw.md",
+    "Active Directory.md",
     "Malware analysis.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
@@ -208,7 +211,6 @@
     "PDF/Pasted image 20230413105832.png",
     "OSINT/Social networks.md",
     "OSINT/Phone numbers.md",
-    "Active Directory.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE/Windows privesc.md",
@@ -221,9 +223,7 @@
     "4. POST/av evasion.md",
     "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Going further.md",
-    "2. RECON & SCAN/Tools.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
-    "User's security & privacy/Hardening/Windows.md",
     "User's security & privacy/Hardening",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSINT Overview PT.1.pdf",

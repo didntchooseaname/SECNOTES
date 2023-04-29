@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e9c310337b769f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. EXPLOIT/tools.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6c67066bd5583b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. EXPLOIT/Web.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9b5910ff57cdf987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. POST/Privesc.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c464245e217254ee",
             "type": "leaf",
             "state": {
@@ -66,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0d2387ee75673fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EXPLOIT/tools.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EXPLOIT/tools.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EXPLOIT/tools.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,12 +217,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "0d2387ee75673fa8",
   "lastOpenFiles": [
+    "3. EXPLOIT/tools.md",
+    "conflict-files-obsidian-git.md",
+    "PDF/Pasted image 20230413105832.png",
+    "OSINT/Social networks.md",
+    "OSINT/Phone numbers.md",
+    "Malware analysis.md",
+    "Active Directory.md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "5. ANALYZE & REPORTING",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "4. POST & PERSISTENCE",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "3. GAINING ACCES & EXPLOIT",
     "4. POST/Privilege escalation.md",
     "4. POST/Privesc.md",
     "3. EXPLOIT/Web.md",
-    "3. EXPLOIT/tools.md",
     "README.md",
     "4. POST/av evasion.md",
     "1. INFORMATION GATHERING/Tools.md",
@@ -263,25 +256,9 @@
     "PDF",
     "OSINT/Github Dorks.md",
     "2. RECON & SCAN",
-    "1. INFORMATION GATHERING",
-    "4. POST/PHP revshell.md",
-    "Knowledge Database/Server Side Request Forgery (SSRF).md",
-    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
-    "Knowledge Database/Cross-Site Scripting (XSS).md",
-    "Domains information.md",
-    "Knowledge Database",
-    "OSINT/Localization.md",
-    "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "OSINT/Usernames.md",
-    "OSINT/Google dorks.md",
-    "Sources & Links/CTF writeups.md",
-    "Sources & Links/Penetration testing ressources.md",
-    "1. RECON/ENUM.md",
-    "2. SCAN/Tools.md",
     "enumeration-mindmap.png",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
-    "Sources & Links",
     "OSINT/Sans titre.canvas",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
@@ -289,7 +266,6 @@
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Untitled.canvas"
   ]
 }

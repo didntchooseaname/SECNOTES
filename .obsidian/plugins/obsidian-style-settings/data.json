@@ -4,5 +4,8 @@
   "things-style@@h3-color": "#FFFFFF",
   "things-style@@h4-color": "#FFFFFF",
   "things-style@@strong-color": "#FFFFFF",
-  "things-style@@text-highlight-bg-d": "#0F7BD2"
+  "things-style@@text-highlight-bg-d": "#0F7BD2",
+  "things-style@@quote-color": "#90A3D9",
+  "things-style@@mobile-black-background": true,
+  "things-style@@h2-underline": false
 }

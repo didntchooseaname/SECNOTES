@@ -22,9 +22,7 @@
     }
   },
   "OSINT": "🧐",
-  "3. EXPLOIT": "😏",
   "OSINT/Usernames.md": "🤠",
-  "4. POST": "🥴",
   "OSINT/Localization.md": "🗺",
   "OSINT/Google dorks.md": "🔎",
   "Excalidraw": "⚔",
@@ -37,8 +35,6 @@
   "User's security & privacy/Tempmails.md": "🛕",
   "User's security & privacy/Phishing framework.md": "🎣",
   "User's security & privacy/Fake identities & Fakes documents.md": "👓",
-  "4. POST/PHP revshell.md": "⬅",
-  "3. EXPLOIT/tools.md": "🧰",
   "Knowledge Database": "📚",
   "1. INFORMATION GATHERING/Tools.md": "🧰",
   "2. RECON & SCAN/Tools.md": "🧰",
@@ -47,8 +43,5 @@
   "User's security & privacy/Hardening/GNU.Linux.md": "🐧",
   "PDF": "🔖",
   "1. INFORMATION GATHERING": "🧐",
-  "2. RECON & SCAN": "🔎",
-  "4. POST/av evasion.md": "🐕‍🦺",
-  "3. EXPLOIT/Web.md": "🗺",
-  "4. POST/Privesc.md": "👾"
+  "2. RECON & SCAN": "🔎"
 }

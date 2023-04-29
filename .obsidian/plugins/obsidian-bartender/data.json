@@ -14,15 +14,18 @@
       "Knowledge Database",
       "1. INFORMATION GATHERING",
       "2. RECON & SCAN",
-      "3. EXPLOIT",
-      "4. POST",
+      "3. GAINING ACCES & EXPLOIT",
+      "Windows privesc.md",
+      "4. POST & PERSISTENCE",
+      "5. ANALYZE & REPORTING",
       "OSINT",
       "Excalidraw",
       "Draws",
       "enumeration-mindmap.png",
       "Sources & Links",
       "User's security & privacy",
-      "PDF"
+      "PDF",
+      "Active Directory.md"
     ],
     "User's security & privacy": [
       "User's security & privacy/Hardening",
@@ -33,10 +36,15 @@
       "User's security & privacy/Tempmails.md"
     ],
     "4. POST": [
-      "4. POST/Privesc.md",
       "4. POST/PHP revshell.md",
       "4. POST/Privilege escalation.md",
       "4. POST/av evasion.md"
+    ],
+    "4. POST & PERSISTENCE": [
+      "4. POST & PERSISTENCE/Linux privesc.md",
+      "4. POST & PERSISTENCE/Windows privesc.md",
+      "4. POST & PERSISTENCE/PHP revshell.md",
+      "4. POST & PERSISTENCE/av evasion.md"
     ]
   },
   "actionBarOrder": {},

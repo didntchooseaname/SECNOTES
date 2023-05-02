@@ -11,9 +11,11 @@
             "id": "6dea97a6a66518e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
+                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
+                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
+                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
+                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md"
               }
             }
           },
@@ -168,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,8 +194,11 @@
   },
   "active": "6dea97a6a66518e2",
   "lastOpenFiles": [
-    "Ava - Getting Started.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "OSINT/Localization.md",
     "Useful ressources/temps_crackage_passwords.jpg",
+    "Ava - Getting Started.md",
     "Useful ressources/temps_crackage_passwords 1.jfif",
     "Useful ressources/temps_crackage_passwords.jfif",
     "Useful ressources",
@@ -208,16 +213,13 @@
     "OSINT/Domain names & web.md",
     "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
     "OSINT/Going further.md",
     "OSINT/Phone numbers.md",
     "4. POST & PERSISTENCE/av evasion.md",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
     "User's security & privacy/What about me.md",

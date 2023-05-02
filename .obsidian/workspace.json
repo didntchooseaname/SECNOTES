@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de86cf60498387a1",
+        "id": "f5dfee451ee8d379",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd40c3ec814d4fc",
+            "id": "5ef65885c77b8e58",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7dd40c3ec814d4fc",
+  "active": "5ef65885c77b8e58",
   "lastOpenFiles": [
-    "Useful ressources/temps_crackage_passwords.jpg",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "Useful ressources/temps_crackage_passwords.jpg",
     "conflict-files-obsidian-git.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",

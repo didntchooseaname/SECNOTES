@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e40dfe59ac8190d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Wordlists.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,8 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dea97a6a66518e2",
+  "active": "e40dfe59ac8190d8",
   "lastOpenFiles": [
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "conflict-files-obsidian-git.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
     "OSINT/Localization.md",
@@ -216,7 +231,6 @@
     "OSINT/Going further.md",
     "OSINT/Phone numbers.md",
     "4. POST & PERSISTENCE/av evasion.md",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/Linux privesc.md",

@@ -23,11 +23,9 @@
             "id": "abf0678e6d626f53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Malware analysis.md",
-                "mode": "source",
-                "source": true
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md"
+                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
               }
             }
           },
@@ -200,30 +198,36 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false
+      "ava:Ava - Open Rewrite Playground": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68a1b589bd79f93b",
+  "active": "abf0678e6d626f53",
   "lastOpenFiles": [
     "2. RECON & SCAN/Tools.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Localization.md",
+    "OSINT/Going further.md",
+    "OSINT/Phone numbers.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Usernames.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "Ava - Getting Started.md",
     "Malware analysis.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
-    "4. POST & PERSISTENCE/av evasion.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
-    "1. INFORMATION GATHERING/Tools.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "OSINT/Phone numbers.md",
     "OSINT/Social networks.md",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
@@ -233,12 +237,6 @@
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "User's security & privacy/Hardening",
     "4. POST/Privilege escalation.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
-    "OSINT/Going further.md",
     "PDF/OSCP NOTES.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",

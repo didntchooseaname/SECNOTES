@@ -11,26 +11,13 @@
             "id": "6dea97a6a66518e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2. RECON & SCAN/Tools.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "abf0678e6d626f53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
+                "file": "Useful ressources/temps_crackage_passwords.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
+                "file": "Useful ressources/temps_crackage_passwords.jpg"
               }
             }
           },
@@ -203,25 +190,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "6dea97a6a66518e2",
   "lastOpenFiles": [
+    "Ava - Getting Started.md",
+    "Useful ressources/temps_crackage_passwords.jpg",
+    "Useful ressources/temps_crackage_passwords 1.jfif",
+    "Useful ressources/temps_crackage_passwords.jfif",
+    "Useful ressources",
+    "Malware analysis.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "temps_crackage_passwords.jfif",
+    "temps_crackage_passwords.jfif.crdownload",
     "2. RECON & SCAN/Tools.md",
+    "OSINT/Usernames.md",
+    "OSINT/Google dorks.md",
+    "OSINT/Domain names & web.md",
     "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Github Dorks.md",
     "OSINT/Localization.md",
     "OSINT/Going further.md",
     "OSINT/Phone numbers.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Usernames.md",
     "4. POST & PERSISTENCE/av evasion.md",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "Ava - Getting Started.md",
-    "Malware analysis.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
@@ -232,26 +227,17 @@
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening/Windows.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
-    "conflict-files-obsidian-git.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "User's security & privacy/Hardening",
-    "4. POST/Privilege escalation.md",
     "PDF/OSCP NOTES.pdf",
-    "PDF/OSINT Overview PT.1.pdf",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1 1.pdf",
-    "PDF",
     "enumeration-mindmap.png",
-    "Knowledge Database",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
-    "Sources & Links",
     "OSINT/Sans titre.canvas",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Untitled.canvas"
   ]
 }

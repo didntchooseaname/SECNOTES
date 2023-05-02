@@ -181,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abf0678e6d626f53",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "2. RECON & SCAN/Tools.md",
     "1. INFORMATION GATHERING/Tools.md",

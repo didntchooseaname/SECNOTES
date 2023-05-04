@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6db8ee2f80994fe2",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "User's security & privacy/Hardening/Windows.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",

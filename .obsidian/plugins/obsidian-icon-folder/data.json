@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🛑",
       "✅",
       "🏖",
       "🪟",
-      "🔄",
-      "🗒"
+      "🔄"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,6 @@
   "4. POST & PERSISTENCE/Linux privesc.md": "🕴",
   "4. POST & PERSISTENCE/Windows privesc.md": "🪟",
   "Malware analysis.md": "🏖",
-  "Useful ressources": "✅"
+  "Useful ressources": "✅",
+  "User's security & privacy/Block ads, trackers, telemetry....md": "🛑"
 }

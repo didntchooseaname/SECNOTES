@@ -1,9 +1,11 @@
 
 ### 🧰 Tools
 
-|  Name   |                                     Description                                      |                  Source & documentation a                   |
-|:-------:|:------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| Winpeas | Gather useful post exploitation datas on Windows, watch privesc opportunities faster | https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS |
+|   Name    |                                                Description                                                 |                  Source & documentation a                   |
+|:---------:|:----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+|  Winpeas  |            Gather useful post exploitation datas on Windows, watch privesc opportunities faster            | https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS |
+| Godpotato | DCOM based privesc, you need the "ImpersonatePrivilege" permission (mostly granted to web and DB accounts) |          https://github.com/BeichenDream/GodPotato          | 
+
 So this is my quick and dirty checklist for windows privilege escalation. It's mostly copied from the links at the bottom of the page.
 
 ### :luc_info: Initial Information Gathering 

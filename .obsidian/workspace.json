@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dbaba0132c5f629f",
+        "id": "962a1db3e699e7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c91f265b530b8ca0",
+            "id": "3cbeda6a6f346e0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8c738c40e3bf35d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,14 +58,6 @@
             }
           },
           {
-            "id": "45f71b26a8915d88",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "33febbee172a7d79",
             "type": "leaf",
             "state": {
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Web.md",
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Web.md",
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. GAINING ACCES & EXPLOIT/Web.md"
+                "file": "4. POST & PERSISTENCE/Windows privesc.md"
               }
             }
           },
@@ -207,8 +192,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8c738c40e3bf35d",
+  "active": "3cbeda6a6f346e0d",
   "lastOpenFiles": [
+    "OSINT/Usernames.md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "README.md",
+    "Untitled.canvas",
+    "Ava - Getting Started.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
     "1. INFORMATION GATHERING/Tools.md",
     "Malware analysis.md",
@@ -219,7 +209,6 @@
     "conflict-files-obsidian-git.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "OSINT/Localization.md",
-    "Ava - Getting Started.md",
     "Useful ressources/temps_crackage_passwords 1.jfif",
     "Useful ressources/temps_crackage_passwords.jfif",
     "Useful ressources",
@@ -228,7 +217,6 @@
     "temps_crackage_passwords.jfif",
     "temps_crackage_passwords.jfif.crdownload",
     "2. RECON & SCAN/Tools.md",
-    "OSINT/Usernames.md",
     "OSINT/Google dorks.md",
     "OSINT/Domain names & web.md",
     "OSINT/Github Dorks.md",
@@ -236,13 +224,11 @@
     "OSINT/Phone numbers.md",
     "4. POST & PERSISTENCE/av evasion.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
     "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "OSINT/Social networks.md",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening",
@@ -255,7 +241,6 @@
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Untitled.canvas"
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
   ]
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. POST & PERSISTENCE/Linux privesc.md",
-                "mode": "preview",
+                "file": "Active Directory.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. POST & PERSISTENCE/Linux privesc.md",
+                "file": "Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. POST & PERSISTENCE/Linux privesc.md",
+                "file": "Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. POST & PERSISTENCE/Linux privesc.md"
+                "file": "Active Directory.md"
               }
             }
           },
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +180,16 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b2caac7694633be4",
+  "active": "68bcdba4de1f7089",
   "lastOpenFiles": [
+    "enumeration-mindmap.png",
+    "Useful ressources/temps_crackage_passwords.jpg",
+    "4. POST & PERSISTENCE/Linux privesc.md",
     "New Text Document.txt",
     "4. POST & PERSISTENCE/av evasion.md",
     "OSINT/Going further.md",
@@ -201,7 +207,6 @@
     "User's security & privacy/Block ads, trackers, telemetry....md",
     "User's security & privacy/Hardening/Windows.md",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "Useful ressources/temps_crackage_passwords.jpg",
     "conflict-files-obsidian-git.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "OSINT/Localization.md",
@@ -216,14 +221,11 @@
     "OSINT/Google dorks.md",
     "OSINT/Domain names & web.md",
     "OSINT/Github Dorks.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
     "Active Directory.md",
     "5. ANALYZE & REPORTING",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "User's security & privacy/Hardening",
-    "PDF/OSCP NOTES.pdf",
-    "enumeration-mindmap.png",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "OSINT/Sans titre.canvas",

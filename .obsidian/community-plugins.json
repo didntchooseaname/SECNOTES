@@ -10,5 +10,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-enhancing-export",
   "obsidian-plugin-update-tracker",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot",
+  "obsidian-textgenerator-plugin"
 ]

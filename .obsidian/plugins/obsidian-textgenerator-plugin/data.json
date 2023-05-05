@@ -1,5 +1,5 @@
 {
-  "endpoint": "https://api.openai.com",
+  "endpoint": "https://chatgpt-api.shn.hk/v1/",
   "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,

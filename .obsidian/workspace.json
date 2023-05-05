@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "Malware analysis.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "Malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md",
+                "file": "Malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. INFORMATION GATHERING/Tools.md"
+                "file": "Malware analysis.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3a9b31fccd7c4fe",
+  "active": "c464245e217254ee",
   "lastOpenFiles": [
+    "1. INFORMATION GATHERING/Tools.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",
     "Useful ressources/temps_crackage_passwords.jpg",
     "Useful ressources",
@@ -224,7 +225,6 @@
     "3. EXPLOIT/Web.md",
     "README.md",
     "4. POST/av evasion.md",
-    "1. INFORMATION GATHERING/Tools.md",
     "OSINT/Going further.md",
     "User's security & privacy/Hardening",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",

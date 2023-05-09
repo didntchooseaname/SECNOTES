@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory.md",
+                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory.md",
+                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory.md",
+                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory.md"
+                "file": "User's security & privacy/Fake numbers & SMS receiver online.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "68bcdba4de1f7089",
   "lastOpenFiles": [
+    "Active Directory.md",
     "enumeration-mindmap.png",
     "Useful ressources/temps_crackage_passwords.jpg",
     "4. POST & PERSISTENCE/Linux privesc.md",
@@ -221,7 +222,6 @@
     "OSINT/Google dorks.md",
     "OSINT/Domain names & web.md",
     "OSINT/Github Dorks.md",
-    "Active Directory.md",
     "5. ANALYZE & REPORTING",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",

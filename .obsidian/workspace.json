@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c269d350c69df0b6",
+        "id": "c5bec2b35efd7a58",
         "type": "tabs",
         "children": [
           {
-            "id": "68bcdba4de1f7089",
+            "id": "be218bf053c6981e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -184,7 +180,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "68bcdba4de1f7089",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",

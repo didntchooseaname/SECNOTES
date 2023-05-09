@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +184,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "68bcdba4de1f7089",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
     "Active Directory.md",
     "enumeration-mindmap.png",

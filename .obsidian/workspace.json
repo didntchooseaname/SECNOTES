@@ -11,8 +11,11 @@
             "id": "be218bf053c6981e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -180,7 +183,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "be218bf053c6981e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",

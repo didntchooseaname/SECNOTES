@@ -17,8 +17,19 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "107229b6b2af6607",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "be218bf053c6981e",
+  "active": "107229b6b2af6607",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",

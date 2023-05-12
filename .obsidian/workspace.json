@@ -4,32 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bec2b35efd7a58",
+        "id": "1c8844642d1a1ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "be218bf053c6981e",
+            "id": "0042b1b9a6b5f2d4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "107229b6b2af6607",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
+                "file": "1. INFORMATION GATHERING/Tools.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Fake numbers & SMS receiver online.md",
+                "file": "1. INFORMATION GATHERING/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Fake numbers & SMS receiver online.md"
+                "file": "1. INFORMATION GATHERING/Tools.md"
               }
             }
           },
@@ -167,8 +157,12 @@
             "id": "b2caac7694633be4",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -188,19 +182,27 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "107229b6b2af6607",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
+    "Knowledge Database/Server Side Request Forgery (SSRF).md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "2. RECON & SCAN/Tools.md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "Sources & Links/CTF writeups.md",
+    "Sources & Links/Penetration testing ressources.md",
+    "Sources & Links/red team kill chain.md",
+    "Active Directory.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Useful ressources/temps_crackage_passwords.jpg",
     "conflict-files-obsidian-git.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "Active Directory.md",
     "enumeration-mindmap.png",
-    "Useful ressources/temps_crackage_passwords.jpg",
     "4. POST & PERSISTENCE/Linux privesc.md",
     "New Text Document.txt",
     "4. POST & PERSISTENCE/av evasion.md",
@@ -210,28 +212,19 @@
     "README.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "OSINT/Usernames.md",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
     "Untitled.canvas",
     "Ava - Getting Started.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
-    "1. INFORMATION GATHERING/Tools.md",
     "Malware analysis.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",
     "User's security & privacy/Hardening/Windows.md",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
-    "OSINT/Localization.md",
     "Useful ressources/temps_crackage_passwords 1.jfif",
     "Useful ressources/temps_crackage_passwords.jfif",
     "Useful ressources",
-    "4. POST & PERSISTENCE/PHP revshell.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "temps_crackage_passwords.jfif",
     "temps_crackage_passwords.jfif.crdownload",
-    "2. RECON & SCAN/Tools.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Github Dorks.md",
     "5. ANALYZE & REPORTING",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",

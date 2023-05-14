@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "User's security & privacy/Phishing framework.md",
                 "mode": "preview",
                 "source": true
               }
@@ -72,6 +72,14 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "23cbebcae434e055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "User's security & privacy/Phishing framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "User's security & privacy/Phishing framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware analysis.md"
+                "file": "User's security & privacy/Phishing framework.md"
               }
             }
           },
@@ -178,6 +186,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -185,23 +196,29 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c464245e217254ee",
   "lastOpenFiles": [
-    "1. INFORMATION GATHERING/Tools.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",
+    "OSINT/Usernames.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Localization.md",
+    "OSINT/Phone numbers.md",
+    "OSINT/Social networks.md",
+    "OSINT/Going further.md",
+    "Active Directory.md",
+    "Malware analysis.md",
+    "1. INFORMATION GATHERING/Tools.md",
     "Useful ressources/temps_crackage_passwords.jpg",
     "Useful ressources",
     "2. RECON & SCAN/Tools.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "Active Directory.md",
-    "Malware analysis.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
     "4. POST & PERSISTENCE/av evasion.md",
@@ -213,19 +230,10 @@
     "conflict-files-obsidian-git.md",
     "3. EXPLOIT/tools.md",
     "PDF/Pasted image 20230413105832.png",
-    "OSINT/Social networks.md",
-    "OSINT/Phone numbers.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "5. ANALYZE & REPORTING",
-    "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE",
     "3. GAINING ACCES & EXPLOIT",
-    "4. POST/Privilege escalation.md",
-    "4. POST/Privesc.md",
-    "3. EXPLOIT/Web.md",
-    "README.md",
-    "4. POST/av evasion.md",
-    "OSINT/Going further.md",
     "User's security & privacy/Hardening",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSINT Overview PT.1.pdf",

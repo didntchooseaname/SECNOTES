@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Phishing framework.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Phishing framework.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Phishing framework.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Phishing framework.md"
+                "file": "User's security & privacy/Hardening/Windows.md"
               }
             }
           },
@@ -202,6 +202,10 @@
   },
   "active": "c464245e217254ee",
   "lastOpenFiles": [
+    "Active Directory.md",
+    "Malware analysis.md",
+    "User's security & privacy/Hardening/Windows.md",
+    "User's security & privacy/Phishing framework.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",
@@ -212,8 +216,6 @@
     "OSINT/Phone numbers.md",
     "OSINT/Social networks.md",
     "OSINT/Going further.md",
-    "Active Directory.md",
-    "Malware analysis.md",
     "1. INFORMATION GATHERING/Tools.md",
     "Useful ressources/temps_crackage_passwords.jpg",
     "Useful ressources",
@@ -228,9 +230,7 @@
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
     "OSINT/Google dorks.md",
     "conflict-files-obsidian-git.md",
-    "3. EXPLOIT/tools.md",
     "PDF/Pasted image 20230413105832.png",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE",
     "3. GAINING ACCES & EXPLOIT",

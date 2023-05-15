@@ -11,11 +11,28 @@
             "id": "dbb9b6747bdfba3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. POST & PERSISTENCE/Windows privesc.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1944c2d751f48355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. POST & PERSISTENCE/Credentials dumps.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. POST & PERSISTENCE/Credentials dumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. POST & PERSISTENCE/Credentials dumps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +137,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "4. POST & PERSISTENCE/Credentials dumps.md"
+              }
+            }
+          },
+          {
+            "id": "86e5b37455c6b057",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,6 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf2052ccb1d0da82",
-  "lastOpenFiles": []
+  "active": "1944c2d751f48355",
+  "lastOpenFiles": [
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "2. RECON & SCAN/Tools.md"
+  ]
 }

@@ -1,4 +1,4 @@
-|        Name        |                                   Description                                    |                 Source & Documentation                  | 
+|        Name        |                                   Description                                    |                  Source & Documentation                  |
 |:------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------:|
 |        Nmap        |                     network mapper and vulnerability scanner                     |                     https://nmap.org                     |
 |      Rustscan      |                     Scan all port in 3 seconds, NSE support                      |           https://github.com/RustScan/RustScan           |
@@ -16,6 +16,7 @@
 |       Fimap        |                                                                                  |                                                          |
 |        CURL        |                                                                                  |                                                          |
 | Powershell Scripts |                                                                                  |                                                          |
+|       nuclei       |   Fast and customisable vulnerability scanner based on simple YAML based DSL.    |        https://github.com/projectdiscovery/nuclei        | 
 
 
 
@@ -28,16 +29,17 @@
 
 ## 🌍 WEB
 
-|            Name            |                Description                |                   Source                   |
-|:--------------------------:|:-----------------------------------------:|:------------------------------------------:|
-|        Feroxbuster         |          fast content discovery           |   https://github.com/epi052/feroxbuster    |
-|          Gobuster          |     Bruteforce URLs,/DNS:Buckets/TFTP     |       https://github.com/OJ/gobuster       |
-|        Virus total         |           Subdomain enumeration           |  https://www.virustotal.com/gui/home/url   |
-|            ffuf            |       web fuzzer, dictionnary based       |        https://github.com/ffuf/ffuf        |
-|         wappalyzer         | Find out uses technologies on the website |        https://www.wappalyzer.com/         |
-| threatintelligenceplatform |         Complete scan of a domain         |   https://threatintelligenceplatform.com   |
-|          Whatweb           |    Gather bunch of infos about domains    | https://github.com/urbanadventurer/WhatWeb |
-|           Wpscan           |  vulns scanner of wordpress CMS websites  |    https://github.com/wpscanteam/wpscan    | 
-|           Nikto            |         web server vulns scanner          |       https://github.com/sullo/nikto       |
+|            Name            |                                                                                Description                                                                                |                   Source                   |
+|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|
+|        Feroxbuster         |                                                                          fast content discovery                                                                           |   https://github.com/epi052/feroxbuster    |
+|          Gobuster          |                                                                     Bruteforce URLs,/DNS:Buckets/TFTP                                                                     |       https://github.com/OJ/gobuster       |
+|        Virus total         |                                                                           Subdomain enumeration                                                                           |  https://www.virustotal.com/gui/home/url   |
+|            ffuf            |                                                                       web fuzzer, dictionnary based                                                                       |        https://github.com/ffuf/ffuf        |
+|         wappalyzer         |                                                                 Find out uses technologies on the website                                                                 |        https://www.wappalyzer.com/         |
+| threatintelligenceplatform |                                                                         Complete scan of a domain                                                                         |   https://threatintelligenceplatform.com   |
+|          Whatweb           |                                                                    Gather bunch of infos about domains                                                                    | https://github.com/urbanadventurer/WhatWeb |
+|           Wpscan           |                                                                  vulns scanner of wordpress CMS websites                                                                  |    https://github.com/wpscanteam/wpscan    |
+|           Nikto            |                                                                         web server vulns scanner                                                                          |       https://github.com/sullo/nikto       |
+|          recon-ng          | full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly. |  https://github.com/lanmaster53/recon-ng   | 
 
 ![[enumeration-mindmap.png | 1000]]

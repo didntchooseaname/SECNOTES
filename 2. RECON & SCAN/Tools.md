@@ -1,22 +1,23 @@
-|        Name        |                                   Description                                    |                  Source & Documentation                  |
-|:------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------:|
-|        Nmap        |                     network mapper and vulnerability scanner                     |                     https://nmap.org                     |
-|      Rustscan      |                     Scan all port in 3 seconds, NSE support                      |           https://github.com/RustScan/RustScan           |
-|     Autorecon      |         Automate recon with your needs and export results in text files          |          https://github.com/Tib3rius/AutoRecon           |
-|      Dnsenum       |                            Enumeration of DNS in Perl                            |           https://github.com/fwaeytens/dnsenum           |
-|  Openvas& Nessus   |                           multi-purposes vulns scanner                           | https://fr.tenable.com/products/nessus/nessus-essentials |
-|      Oscanner      |                                                                                  |                                                          |
-|     Enum4linux     | Enum4linux is a tool for enumerating information from Windows and Samba systems. |      https://github.com/CiscoCXSecurity/enum4linux       |
-|    PrivescCheck    |                  Privilege escalation checker of windows hosts                   |          https://github.com/itm4n/PrivescCheck           |
-|      LinEnum       |                                                                                  |                                                          |
-|    Dnsdumpster     |                                                                                  |                                                          |
-|      Sqlninja      |                                                                                  |                                                          |
-|       Sqlsus       |                                                                                  |                                                          |
-|        Vega        |                                                                                  |                                                          |
-|       Fimap        |                                                                                  |                                                          |
-|        CURL        |                                                                                  |                                                          |
-| Powershell Scripts |                                                                                  |                                                          |
-|       nuclei       |   Fast and customisable vulnerability scanner based on simple YAML based DSL.    |        https://github.com/projectdiscovery/nuclei        | 
+|        Name         |                                   Description                                    |                  Source & Documentation                  |
+|:-------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------:|
+|        Nmap         |                     network mapper and vulnerability scanner                     |                     https://nmap.org                     |
+|      Rustscan       |                     Scan all port in 3 seconds, NSE support                      |           https://github.com/RustScan/RustScan           |
+|      Autorecon      |         Automate recon with your needs and export results in text files          |          https://github.com/Tib3rius/AutoRecon           |
+|       Dnsenum       |                            Enumeration of DNS in Perl                            |           https://github.com/fwaeytens/dnsenum           |
+|   Openvas& Nessus   |                           multi-purposes vulns scanner                           | https://fr.tenable.com/products/nessus/nessus-essentials |
+|      Oscanner       |                                                                                  |                                                          |
+|     Enum4linux      | Enum4linux is a tool for enumerating information from Windows and Samba systems. |      https://github.com/CiscoCXSecurity/enum4linux       |
+|    PrivescCheck     |                  Privilege escalation checker of windows hosts                   |          https://github.com/itm4n/PrivescCheck           |
+|       LinEnum       |                                                                                  |                                                          |
+|     Dnsdumpster     |                                                                                  |                                                          |
+|      Sqlninja       |                                                                                  |                                                          |
+|       Sqlsus        |                                                                                  |                                                          |
+|        Vega         |                                                                                  |                                                          |
+|        Fimap        |                                                                                  |                                                          |
+|        CURL         |                                                                                  |                                                          |
+| Powershell Scripts  |                                                                                  |                                                          |
+|       nuclei        |   Fast and customisable vulnerability scanner based on simple YAML based DSL.    |        https://github.com/projectdiscovery/nuclei        |
+| AttackSurfaceMapper |                 that aims to automate the reconnaissance process                 |    https://github.com/superhedgy/AttackSurfaceMapper     |
 
 
 

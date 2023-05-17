@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0b1292b3b5604346",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c464245e217254ee",
+  "active": "0b1292b3b5604346",
   "lastOpenFiles": [
     "OSINT/Phone numbers.md",
     "OSINT/Going further.md",

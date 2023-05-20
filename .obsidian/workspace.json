@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "Active Directory.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "0b1292b3b5604346",
+            "id": "d0f94172afb4585c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Malware analysis.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "Malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/Github Dorks.md",
+                "file": "Malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/Github Dorks.md"
+                "file": "Malware analysis.md"
               }
             }
           },
@@ -211,36 +213,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b1292b3b5604346",
+  "active": "d0f94172afb4585c",
   "lastOpenFiles": [
-    "OSINT/Phone numbers.md",
+    "enumeration-mindmap.png",
+    "Draws/17-05-2023_22.03.25.excalidraw.md",
+    "Active Directory.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "OSINT/Social networks.md",
+    "User's security & privacy/Hardening/GNU.Linux.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Phishing framework.md",
+    "User's security & privacy/Block ads, trackers, telemetry....md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "OSINT/Localization.md",
     "OSINT/Going further.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Phone numbers.md",
     "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
     "User's security & privacy/Hardening/Windows.md",
-    "Active Directory.md",
     "Malware analysis.md",
-    "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
-    "User's security & privacy/Block ads, trackers, telemetry....md",
     "OSINT/Usernames.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
-    "OSINT/Social networks.md",
     "1. INFORMATION GATHERING/Tools.md",
     "Useful ressources/temps_crackage_passwords.jpg",
     "Useful ressources",
     "2. RECON & SCAN/Tools.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/av evasion.md",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md",
-    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
-    "conflict-files-obsidian-git.md",
     "PDF/Pasted image 20230413105832.png",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE",
@@ -249,9 +252,7 @@
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/OSCP NOTES.pdf",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF",
-    "enumeration-mindmap.png",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "OSINT/Sans titre.canvas",

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "74efc2592bc0567f",
+        "id": "40f2a02aeafd32c0",
         "type": "tabs",
         "children": [
           {
-            "id": "c464245e217254ee",
+            "id": "85e1987ed71c949c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
-                "staged": true
+                "file": "OSINT/Phone numbers.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -57,22 +58,6 @@
             }
           },
           {
-            "id": "45f71b26a8915d88",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "33febbee172a7d79",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "23cbebcae434e055",
             "type": "leaf",
             "state": {
@@ -100,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSINT/Phone numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSINT/Phone numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSINT/Phone numbers.md"
+              }
             }
           },
           {
@@ -203,8 +192,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "f3a9b31fccd7c4fe",
   "lastOpenFiles": [
+    "OSINT/Phone numbers.md",
+    "OSINT/Going further.md",
+    "OSINT/Localization.md",
+    "OSINT/Social networks.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Usernames.md",
     "Active Directory.md",
     "Useful ressources/temps_crackage_passwords.jpg",
     "User's security & privacy/Hardening/GNU.Linux.md",
@@ -219,17 +214,11 @@
     "enumeration-mindmap.png",
     "Draws/17-05-2023_22.03.25.excalidraw.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "OSINT/Social networks.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/av evasion.md",
-    "OSINT/Localization.md",
-    "OSINT/Going further.md",
     "OSINT/Github Dorks.md",
-    "OSINT/Phone numbers.md",
-    "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
-    "OSINT/Usernames.md",
     "1. INFORMATION GATHERING/Tools.md",
     "Useful ressources",
     "2. RECON & SCAN/Tools.md",

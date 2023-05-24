@@ -7,7 +7,10 @@
       "OSINT/Domain names & web.md",
       "OSINT/Google dorks.md",
       "OSINT/Github Dorks.md",
-      "OSINT/Localization.md"
+      "OSINT/Localization.md",
+      "OSINT/Phone numbers.md",
+      "OSINT/Social networks.md",
+      "OSINT/Going further.md"
     ],
     "/": [
       "README.md",

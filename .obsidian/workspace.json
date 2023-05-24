@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6e1a5d17a55ea1e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1944c2d751f48355",
+  "active": "6e1a5d17a55ea1e8",
   "lastOpenFiles": [
     "2. RECON & SCAN/Tools.md",
     "4. POST & PERSISTENCE/Credentials dumps.md",

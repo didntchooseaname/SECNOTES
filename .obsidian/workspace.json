@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d0f94172afb4585c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware analysis.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware analysis.md"
+                "file": "Active Directory.md"
               }
             }
           },
@@ -213,17 +200,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0f94172afb4585c",
+  "active": "c464245e217254ee",
   "lastOpenFiles": [
-    "enumeration-mindmap.png",
-    "Draws/17-05-2023_22.03.25.excalidraw.md",
-    "Active Directory.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "OSINT/Social networks.md",
+    "Useful ressources/temps_crackage_passwords.jpg",
     "User's security & privacy/Hardening/GNU.Linux.md",
+    "User's security & privacy/Hardening/Windows.md",
+    "User's security & privacy/What about me.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/Phishing framework.md",
+    "User's security & privacy/Fake identities & Fakes documents.md",
+    "User's security & privacy/Tempmails.md",
     "User's security & privacy/Block ads, trackers, telemetry....md",
+    "Active Directory.md",
+    "Malware analysis.md",
+    "enumeration-mindmap.png",
+    "Draws/17-05-2023_22.03.25.excalidraw.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
+    "OSINT/Social networks.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/av evasion.md",
@@ -233,17 +226,11 @@
     "OSINT/Phone numbers.md",
     "OSINT/Domain names & web.md",
     "OSINT/Google dorks.md",
-    "User's security & privacy/Hardening/Windows.md",
-    "Malware analysis.md",
-    "User's security & privacy/Fake identities & Fakes documents.md",
     "OSINT/Usernames.md",
     "1. INFORMATION GATHERING/Tools.md",
-    "Useful ressources/temps_crackage_passwords.jpg",
     "Useful ressources",
     "2. RECON & SCAN/Tools.md",
     "Draws/31-03-2023_18.27.49.excalidraw.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
     "PDF/Pasted image 20230413105832.png",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE",

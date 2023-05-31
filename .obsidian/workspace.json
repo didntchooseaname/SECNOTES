@@ -11,22 +11,15 @@
             "id": "9899b1fab10d764e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "149dbab7edfe0579",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Malware analysis.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Malware analysis.md"
+              }
             }
           },
           {
@@ -169,8 +166,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "149dbab7edfe0579",
+  "active": "9899b1fab10d764e",
   "lastOpenFiles": [
+    "README.md",
+    "Malware analysis.md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
     "OSINT/Github Dorks.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/OSINT Overview PT.1.pdf",
@@ -178,12 +187,7 @@
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSCP NOTES.pdf",
     "2. RECON & SCAN/Tools.md",
-    "4. POST & PERSISTENCE/Credentials dumps.md",
     "Context/spacesLastSync.log",
-    "Context",
-    "4. POST & PERSISTENCE/Windows privesc.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md"
+    "Context"
   ]
 }

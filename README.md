@@ -25,7 +25,6 @@
 🔨 About the obsidian's plugins i use:
 
 - [obsidian-git](https://github.com/denolehov/obsidian-git) Use git to sync your vault.
-- [ava](https://github.com/louis030195/obsidian-ava) (expermimenting with) Implement chatGPT and more...
 - [dataview](https://github.com/blacksmithgu/obsidian-dataview) Treat your Obsidian Vault as a database which you can query from.
 - [obsidian-bartender](https://github.com/nothingislost/obsidian-bartender) Reorganize your vault like you want.
 - [obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) Export in many formats with pandoc.

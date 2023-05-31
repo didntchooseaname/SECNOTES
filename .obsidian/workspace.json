@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "149dbab7edfe0579",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9899b1fab10d764e",
+  "active": "149dbab7edfe0579",
   "lastOpenFiles": [
     "OSINT/Github Dorks.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",

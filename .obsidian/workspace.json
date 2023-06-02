@@ -11,11 +11,9 @@
             "id": "9899b1fab10d764e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Malware analysis.md",
-                "mode": "source",
-                "source": true
+                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware analysis.md"
+                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf"
               }
             }
           },
@@ -144,14 +142,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c6a0515a981d522d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +173,9 @@
   },
   "active": "9899b1fab10d764e",
   "lastOpenFiles": [
-    "README.md",
+    "enumeration-mindmap.png",
     "Malware analysis.md",
+    "README.md",
     "Knowledge Database/Cross-Site Scripting (XSS).md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/PHP revshell.md",

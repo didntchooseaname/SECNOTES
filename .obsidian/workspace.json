@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e5b0df10ed83b35",
+        "id": "1d5567bc9f3ef068",
         "type": "tabs",
         "children": [
           {
-            "id": "9899b1fab10d764e",
+            "id": "227ba0146a8223ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9899b1fab10d764e",
+  "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "enumeration-mindmap.png",
     "Malware analysis.md",
     "README.md",
@@ -190,7 +185,6 @@
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/Pasted image 20230413105832.png",
-    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSCP NOTES.pdf",
     "2. RECON & SCAN/Tools.md",
     "Context/spacesLastSync.log",

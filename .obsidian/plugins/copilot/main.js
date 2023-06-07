@@ -53736,27 +53736,27 @@ function fixGrammarSpellingSelectionPrompt(selectedText) {
 ${selectedText}`;
 }
 function summarizePrompt(selectedText) {
-  return `Please summarize the following text into bullet points and return it without any other changes:
+  return `Please summarize the following text into bullet points and return it without any other changes. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
 function tocPrompt(selectedText) {
-  return `Please generate a table of contents for the following text and return it without any other changes:
+  return `Please generate a table of contents for the following text and return it without any other changes. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
 function glossaryPrompt(selectedText) {
-  return `Please generate a glossary for the following text and return it without any other changes:
+  return `Please generate a glossary for the following text and return it without any other changes. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
 function simplifyPrompt(selectedText) {
-  return `Please simplify the following text so that a 6th-grader can understand:
+  return `Please simplify the following text so that a 6th-grader can understand. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
 function emojifyPrompt(selectedText) {
-  return `Please insert emojis to the following content without changing the text.Insert at as many places as possible, but don't have any 2 emojis together.
+  return `Please insert emojis to the following content without changing the text.Insert at as many places as possible, but don't have any 2 emojis together. The original text must be returned.
 Content: ${selectedText}`;
 }
 function removeUrlsFromSelectionPrompt(selectedText) {
@@ -53765,7 +53765,7 @@ function removeUrlsFromSelectionPrompt(selectedText) {
 ${selectedText}`;
 }
 function rewriteTweetSelectionPrompt(selectedText) {
-  return `Please rewrite the following content to under 280 characters using simple sentences. Please follow the instruction strictly. Content:
+  return `Please rewrite the following content to under 280 characters using simple sentences. Output in the same language as the source, do not output English if it is not English. Please follow the instruction strictly. Content:
 
     + ${selectedText}`;
 }
@@ -53776,26 +53776,26 @@ THREAD END\`. 3. You must use \`
 
 ---
 
-\` to separate each paragraph! Then return it without any other changes. 4. Make it as engaging as possible.
+\` to separate each paragraph! Then return it without any other changes. 4. Make it as engaging as possible.5. Output in the same language as the source, do not output English if it is not English.
  The original content:
 
 ${selectedText}`;
 }
 function rewriteShorterSelectionPrompt(selectedText) {
-  return `Please rewrite the following text to make it half as long while keeping the meaning as much as possible:
+  return `Please rewrite the following text to make it half as long while keeping the meaning as much as possible. Output in the same language as the source, do not output English if it is not English:
 ${selectedText}`;
 }
 function rewriteLongerSelectionPrompt(selectedText) {
-  return `Please rewrite the following text to make it twice as long while keeping the meaning as much as possible:
+  return `Please rewrite the following text to make it twice as long while keeping the meaning as much as possible. Output in the same language as the source, do not output English if it is not English:
 ${selectedText}`;
 }
 function eli5SelectionPrompt(selectedText) {
-  return `Please explain the following text like I'm 5 years old:
+  return `Please explain the following text like I'm 5 years old. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
 function rewritePressReleaseSelectionPrompt(selectedText) {
-  return `Please rewrite the following text to make it sound like a press release:
+  return `Please rewrite the following text to make it sound like a press release. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
 }
@@ -53808,7 +53808,7 @@ ${selectedText}`;
 }
 function createChangeToneSelectionPrompt(tone) {
   return (selectedText) => {
-    return `Please change the tone of the following text to ${tone}:
+    return `Please change the tone of the following text to ${tone}. Output in the same language as the source, do not output English if it is not English:
 
 ${selectedText}`;
   };

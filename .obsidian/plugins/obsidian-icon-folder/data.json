@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⬆",
       "🛑",
       "✅",
       "🏖",
-      "🪟",
-      "🔄"
+      "🪟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,6 @@
   "4. POST & PERSISTENCE/Windows privesc.md": "🪟",
   "Malware analysis.md": "🏖",
   "Useful ressources": "✅",
-  "User's security & privacy/Block ads, trackers, telemetry....md": "🛑"
+  "User's security & privacy/Block ads, trackers, telemetry....md": "🛑",
+  "4. POST & PERSISTENCE/Credentials dumps.md": "⬆"
 }

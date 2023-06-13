@@ -28,9 +28,21 @@
                 "currentVersion": "1.3.5"
               }
             }
+          },
+          {
+            "id": "e69f087b241c71d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware analysis.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -199,12 +211,15 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92f86ebd60f0e726",
+  "active": "e69f087b241c71d1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PDF/pentest-toolkit.pdf",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
     "Malware analysis.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
@@ -232,9 +247,7 @@
     "enumeration-mindmap.png",
     "Draws/17-05-2023_22.03.25.excalidraw.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "1. INFORMATION GATHERING/Tools.md",
     "Useful ressources",
-    "2. RECON & SCAN/Tools.md",
     "PDF/Pasted image 20230413105832.png",
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE",
@@ -243,7 +256,6 @@
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/OSCP NOTES.pdf",
-    "PDF",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "OSINT/Sans titre.canvas",

@@ -21923,6 +21923,386 @@ var require_zod_to_json_schema = __commonJS({
   }
 });
 
+// node_modules/cohere-ai/dist/cohere.js
+var require_cohere = __commonJS({
+  "node_modules/cohere-ai/dist/cohere.js"(exports, module2) {
+    (function webpackUniversalModuleDefinition(root2, factory) {
+      if (typeof exports === "object" && typeof module2 === "object")
+        module2.exports = factory();
+      else if (typeof define === "function" && define.amd)
+        define([], factory);
+      else if (typeof exports === "object")
+        exports["cohere"] = factory();
+      else
+        root2["cohere"] = factory();
+    })(global, () => {
+      return (
+        /******/
+        (() => {
+          "use strict";
+          var __webpack_modules__ = {
+            /***/
+            828: (
+              /***/
+              function(module3, __unused_webpack_exports, __webpack_require__2) {
+                var __assign = this && this.__assign || function() {
+                  __assign = Object.assign || function(t) {
+                    for (var s, i = 1, n = arguments.length; i < n; i++) {
+                      s = arguments[i];
+                      for (var p in s)
+                        if (Object.prototype.hasOwnProperty.call(s, p))
+                          t[p] = s[p];
+                    }
+                    return t;
+                  };
+                  return __assign.apply(this, arguments);
+                };
+                var __importDefault = this && this.__importDefault || function(mod) {
+                  return mod && mod.__esModule ? mod : { "default": mod };
+                };
+                var api_service_1 = __importDefault(__webpack_require__2(836));
+                var ENDPOINT;
+                (function(ENDPOINT2) {
+                  ENDPOINT2["GENERATE"] = "/generate";
+                  ENDPOINT2["EMBED"] = "/embed";
+                  ENDPOINT2["CLASSIFY"] = "/classify";
+                  ENDPOINT2["TOKENIZE"] = "/tokenize";
+                  ENDPOINT2["DETOKENIZE"] = "/detokenize";
+                  ENDPOINT2["DETECT_LANGUAGE"] = "/detect-language";
+                  ENDPOINT2["SUMMARIZE"] = "/summarize";
+                })(ENDPOINT || (ENDPOINT = {}));
+                var COHERE_EMBED_BATCH_SIZE = 5;
+                var Cohere = (
+                  /** @class */
+                  function() {
+                    function Cohere2() {
+                    }
+                    Cohere2.prototype.init = function(key, version2) {
+                      api_service_1.default.init(key, version2);
+                    };
+                    Cohere2.prototype.makeRequest = function(endpoint, data) {
+                      return api_service_1.default.post(endpoint, data);
+                    };
+                    Cohere2.prototype.generate = function(config) {
+                      return this.makeRequest(ENDPOINT.GENERATE, config);
+                    };
+                    Cohere2.prototype.tokenize = function(_a) {
+                      var text4 = _a.text;
+                      return this.makeRequest(ENDPOINT.TOKENIZE, {
+                        text: text4
+                      });
+                    };
+                    Cohere2.prototype.detokenize = function(_a) {
+                      var tokens = _a.tokens;
+                      return this.makeRequest(ENDPOINT.DETOKENIZE, {
+                        tokens
+                      });
+                    };
+                    Cohere2.prototype.embed = function(config) {
+                      var _this = this;
+                      var createBatches = function(array) {
+                        var result = [];
+                        for (var _i = 0, array_1 = array; _i < array_1.length; _i++) {
+                          var value = array_1[_i];
+                          var lastArray = result[result.length - 1];
+                          if (!lastArray || lastArray.length === COHERE_EMBED_BATCH_SIZE) {
+                            result.push([value]);
+                          } else {
+                            lastArray.push(value);
+                          }
+                        }
+                        return result;
+                      };
+                      return Promise.all(createBatches(config.texts).map(function(texts) {
+                        return _this.makeRequest(ENDPOINT.EMBED, __assign(__assign({}, config), { texts }));
+                      })).then(function(results) {
+                        var embeddings = [];
+                        results.forEach(function(result) {
+                          embeddings = embeddings.concat(result.body.embeddings);
+                        });
+                        var response = {
+                          statusCode: results[0].statusCode,
+                          body: { embeddings }
+                        };
+                        return response;
+                      });
+                    };
+                    Cohere2.prototype.classify = function(config) {
+                      return this.makeRequest(ENDPOINT.CLASSIFY, config);
+                    };
+                    Cohere2.prototype.detectLanguage = function(config) {
+                      return this.makeRequest(ENDPOINT.DETECT_LANGUAGE, config);
+                    };
+                    Cohere2.prototype.summarize = function(config) {
+                      return this.makeRequest(ENDPOINT.SUMMARIZE, config);
+                    };
+                    return Cohere2;
+                  }()
+                );
+                var cohere = new Cohere();
+                module3.exports = cohere;
+              }
+            ),
+            /***/
+            836: (
+              /***/
+              function(module3, __unused_webpack_exports, __webpack_require__2) {
+                var __awaiter = this && this.__awaiter || function(thisArg, _arguments, P, generator) {
+                  function adopt(value) {
+                    return value instanceof P ? value : new P(function(resolve) {
+                      resolve(value);
+                    });
+                  }
+                  return new (P || (P = Promise))(function(resolve, reject) {
+                    function fulfilled(value) {
+                      try {
+                        step(generator.next(value));
+                      } catch (e) {
+                        reject(e);
+                      }
+                    }
+                    function rejected(value) {
+                      try {
+                        step(generator["throw"](value));
+                      } catch (e) {
+                        reject(e);
+                      }
+                    }
+                    function step(result) {
+                      result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected);
+                    }
+                    step((generator = generator.apply(thisArg, _arguments || [])).next());
+                  });
+                };
+                var __generator = this && this.__generator || function(thisArg, body) {
+                  var _ = { label: 0, sent: function() {
+                    if (t[0] & 1)
+                      throw t[1];
+                    return t[1];
+                  }, trys: [], ops: [] }, f, y, t, g;
+                  return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() {
+                    return this;
+                  }), g;
+                  function verb(n) {
+                    return function(v) {
+                      return step([n, v]);
+                    };
+                  }
+                  function step(op) {
+                    if (f)
+                      throw new TypeError("Generator is already executing.");
+                    while (g && (g = 0, op[0] && (_ = 0)), _)
+                      try {
+                        if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done)
+                          return t;
+                        if (y = 0, t)
+                          op = [op[0] & 2, t.value];
+                        switch (op[0]) {
+                          case 0:
+                          case 1:
+                            t = op;
+                            break;
+                          case 4:
+                            _.label++;
+                            return { value: op[1], done: false };
+                          case 5:
+                            _.label++;
+                            y = op[1];
+                            op = [0];
+                            continue;
+                          case 7:
+                            op = _.ops.pop();
+                            _.trys.pop();
+                            continue;
+                          default:
+                            if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) {
+                              _ = 0;
+                              continue;
+                            }
+                            if (op[0] === 3 && (!t || op[1] > t[0] && op[1] < t[3])) {
+                              _.label = op[1];
+                              break;
+                            }
+                            if (op[0] === 6 && _.label < t[1]) {
+                              _.label = t[1];
+                              t = op;
+                              break;
+                            }
+                            if (t && _.label < t[2]) {
+                              _.label = t[2];
+                              _.ops.push(op);
+                              break;
+                            }
+                            if (t[2])
+                              _.ops.pop();
+                            _.trys.pop();
+                            continue;
+                        }
+                        op = body.call(thisArg, _);
+                      } catch (e) {
+                        op = [6, e];
+                        y = 0;
+                      } finally {
+                        f = t = 0;
+                      }
+                    if (op[0] & 5)
+                      throw op[1];
+                    return { value: op[0] ? op[1] : void 0, done: true };
+                  }
+                };
+                var __importDefault = this && this.__importDefault || function(mod) {
+                  return mod && mod.__esModule ? mod : { "default": mod };
+                };
+                var https = __webpack_require__2(687);
+                var error_service_1 = __importDefault(__webpack_require__2(959));
+                var URL2;
+                (function(URL3) {
+                  URL3["COHERE_API"] = "api.cohere.ai";
+                })(URL2 || (URL2 = {}));
+                var APIImpl = (
+                  /** @class */
+                  function() {
+                    function APIImpl2() {
+                      this.COHERE_API_KEY = "";
+                      this.COHERE_VERSION = "";
+                    }
+                    APIImpl2.prototype.init = function(key, version2) {
+                      this.COHERE_API_KEY = key;
+                      if (version2 === void 0) {
+                        this.COHERE_VERSION = "2022-12-06";
+                      } else {
+                        this.COHERE_VERSION = version2;
+                      }
+                    };
+                    APIImpl2.prototype.post = function(endpoint, data) {
+                      return __awaiter(this, void 0, void 0, function() {
+                        var _this = this;
+                        return __generator(this, function(_a) {
+                          return [2, new Promise(function(resolve, reject) {
+                            try {
+                              data = JSON.parse("".concat(data));
+                            } catch (e) {
+                            }
+                            var reqData = JSON.stringify(data);
+                            var req = https.request({
+                              hostname: URL2.COHERE_API,
+                              path: endpoint,
+                              method: "POST",
+                              headers: {
+                                "Content-Type": "application/json; charset=utf-8",
+                                "Content-Length": Buffer.byteLength(reqData, "utf8"),
+                                "Cohere-Version": _this.COHERE_VERSION,
+                                Authorization: "Bearer ".concat(_this.COHERE_API_KEY),
+                                "Request-Source": "node-sdk"
+                              },
+                              timeout: 5e3
+                            }, function(res) {
+                              var data2 = [];
+                              res.on("data", function(chunk) {
+                                return data2.push(chunk);
+                              });
+                              res.on("end", function() {
+                                if ("x-api-warning" in res.headers) {
+                                  var warnHeader = res.headers["x-api-warning"];
+                                  if (typeof warnHeader === "string") {
+                                    console.warn("\x1B[33mWarning: %s\x1B[0m", warnHeader);
+                                  } else {
+                                    for (var warning in warnHeader) {
+                                      console.warn("\x1B[33mWarning: %s\x1B[0m", warning);
+                                    }
+                                  }
+                                }
+                                resolve({
+                                  statusCode: res.statusCode,
+                                  body: JSON.parse(Buffer.concat(data2).toString())
+                                });
+                              });
+                            });
+                            req.on("error", function(error) {
+                              return reject(error_service_1.default.handleError(error));
+                            });
+                            req.write(reqData, "utf8");
+                            req.end();
+                          })];
+                        });
+                      });
+                    };
+                    return APIImpl2;
+                  }()
+                );
+                var API = new APIImpl();
+                module3.exports = API;
+              }
+            ),
+            /***/
+            959: (
+              /***/
+              (module3) => {
+                var errorImpl = (
+                  /** @class */
+                  function() {
+                    function errorImpl2() {
+                    }
+                    errorImpl2.prototype.handleError = function(error) {
+                      var _a, _b, _c;
+                      var status = ((_a = error.response) === null || _a === void 0 ? void 0 : _a.status) || 500;
+                      var message = ((_c = (_b = error.response) === null || _b === void 0 ? void 0 : _b.data) === null || _c === void 0 ? void 0 : _c.message) || error.message;
+                      return {
+                        statusCode: status,
+                        body: {
+                          message
+                        }
+                      };
+                    };
+                    return errorImpl2;
+                  }()
+                );
+                var errors = new errorImpl();
+                module3.exports = errors;
+              }
+            ),
+            /***/
+            687: (
+              /***/
+              (module3) => {
+                module3.exports = require("https");
+              }
+            )
+            /******/
+          };
+          var __webpack_module_cache__ = {};
+          function __webpack_require__(moduleId) {
+            var cachedModule = __webpack_module_cache__[moduleId];
+            if (cachedModule !== void 0) {
+              return cachedModule.exports;
+            }
+            var module3 = __webpack_module_cache__[moduleId] = {
+              /******/
+              // no module.id needed
+              /******/
+              // no module.loaded needed
+              /******/
+              exports: {}
+              /******/
+            };
+            __webpack_modules__[moduleId].call(module3.exports, module3, module3.exports, __webpack_require__);
+            return module3.exports;
+          }
+          var __webpack_exports__ = __webpack_require__(828);
+          return __webpack_exports__;
+        })()
+      );
+    });
+  }
+});
+
+// node_modules/cohere-ai/index.js
+var require_cohere_ai = __commonJS({
+  "node_modules/cohere-ai/index.js"(exports, module2) {
+    module2.exports = require_cohere();
+  }
+});
+
 // node_modules/binary-search/index.js
 var require_binary_search = __commonJS({
   "node_modules/binary-search/index.js"(exports, module2) {
@@ -52045,6 +52425,19 @@ init_prompt();
 // node_modules/langchain/dist/output_parsers/structured.js
 var import_zod_to_json_schema = __toESM(require_zod_to_json_schema(), 1);
 
+// node_modules/langchain/dist/schema/output_parser.js
+var BaseOutputParser = class {
+  async parseWithPrompt(text4, _prompt, callbacks) {
+    return this.parse(text4, callbacks);
+  }
+  /**
+   * Return the string type key uniquely identifying this class of parser
+   */
+  _type() {
+    throw new Error("_type not implemented");
+  }
+};
+
 // node_modules/langchain/dist/chains/router/multi_retrieval_qa.js
 init_template();
 init_prompt();
@@ -52094,9 +52487,11 @@ var AI_SENDER = "ai";
 var DEFAULT_SYSTEM_PROMPT = "You are Obsidian Copilot, a helpful assistant that integrates AI to Obsidian note-taking.";
 var OPENAI = "openai";
 var HUGGINGFACE = "huggingface";
+var COHEREAI = "cohereai";
 var DEFAULT_SETTINGS = {
   openAiApiKey: "",
   huggingfaceApiKey: "",
+  cohereApiKey: "",
   defaultModel: "gpt-3.5-turbo",
   temperature: 0.7,
   maxTokens: 1e3,
@@ -52110,6 +52505,136 @@ var DEFAULT_SETTINGS = {
 
 // node_modules/langchain/chat_models/openai.js
 init_openai();
+
+// node_modules/langchain/dist/util/chunk.js
+var chunkArray = (arr, chunkSize) => arr.reduce((chunks, elem, index2) => {
+  const chunkIndex = Math.floor(index2 / chunkSize);
+  const chunk = chunks[chunkIndex] || [];
+  chunks[chunkIndex] = chunk.concat([elem]);
+  return chunks;
+}, []);
+
+// node_modules/langchain/dist/embeddings/base.js
+init_async_caller();
+var Embeddings = class {
+  constructor(params) {
+    Object.defineProperty(this, "caller", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    this.caller = new AsyncCaller(params != null ? params : {});
+  }
+};
+
+// node_modules/langchain/dist/embeddings/cohere.js
+var CohereEmbeddings = class extends Embeddings {
+  /**
+   * Constructor for the CohereEmbeddings class.
+   * @param fields - An optional object with properties to configure the instance.
+   */
+  constructor(fields) {
+    var _a, _b, _c;
+    super(fields != null ? fields : {});
+    Object.defineProperty(this, "modelName", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: "small"
+    });
+    Object.defineProperty(this, "batchSize", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: 48
+    });
+    Object.defineProperty(this, "apiKey", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    Object.defineProperty(this, "client", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    const apiKey = (fields == null ? void 0 : fields.apiKey) || (typeof process !== "undefined" ? (
+      // eslint-disable-next-line no-process-env
+      (_a = process.env) == null ? void 0 : _a.COHERE_API_KEY
+    ) : void 0);
+    if (!apiKey) {
+      throw new Error("Cohere API key not found");
+    }
+    this.modelName = (_b = fields == null ? void 0 : fields.modelName) != null ? _b : this.modelName;
+    this.batchSize = (_c = fields == null ? void 0 : fields.batchSize) != null ? _c : this.batchSize;
+    this.apiKey = apiKey;
+  }
+  /**
+   * Generates embeddings for an array of texts.
+   * @param texts - An array of strings to generate embeddings for.
+   * @returns A Promise that resolves to an array of embeddings.
+   */
+  async embedDocuments(texts) {
+    await this.maybeInitClient();
+    const subPrompts = chunkArray(texts, this.batchSize);
+    const embeddings = [];
+    for (let i = 0; i < subPrompts.length; i += 1) {
+      const input = subPrompts[i];
+      const { body } = await this.embeddingWithRetry({
+        model: this.modelName,
+        texts: input
+      });
+      for (let j = 0; j < input.length; j += 1) {
+        embeddings.push(body.embeddings[j]);
+      }
+    }
+    return embeddings;
+  }
+  /**
+   * Generates an embedding for a single text.
+   * @param text - A string to generate an embedding for.
+   * @returns A Promise that resolves to an array of numbers representing the embedding.
+   */
+  async embedQuery(text4) {
+    await this.maybeInitClient();
+    const { body } = await this.embeddingWithRetry({
+      model: this.modelName,
+      texts: [text4]
+    });
+    return body.embeddings[0];
+  }
+  /**
+   * Generates embeddings with retry capabilities.
+   * @param request - An object containing the request parameters for generating embeddings.
+   * @returns A Promise that resolves to the API response.
+   */
+  async embeddingWithRetry(request) {
+    await this.maybeInitClient();
+    return this.caller.call(this.client.embed.bind(this.client), request);
+  }
+  /**
+   * Initializes the Cohere client if it hasn't been initialized already.
+   */
+  async maybeInitClient() {
+    if (!this.client) {
+      const { cohere } = await CohereEmbeddings.imports();
+      this.client = cohere;
+      this.client.init(this.apiKey);
+    }
+  }
+  /** @ignore */
+  static async imports() {
+    try {
+      const { default: cohere } = await Promise.resolve().then(() => __toESM(require_cohere_ai(), 1));
+      return { cohere };
+    } catch (e) {
+      throw new Error("Please install cohere-ai as a dependency with, e.g. `yarn add cohere-ai`");
+    }
+  }
+};
 
 // node_modules/@huggingface/inference/dist/index.mjs
 function toArray2(obj) {
@@ -52594,20 +53119,6 @@ var HfInference = class {
   }
 };
 
-// node_modules/langchain/dist/embeddings/base.js
-init_async_caller();
-var Embeddings = class {
-  constructor(params) {
-    Object.defineProperty(this, "caller", {
-      enumerable: true,
-      configurable: true,
-      writable: true,
-      value: void 0
-    });
-    this.caller = new AsyncCaller(params != null ? params : {});
-  }
-};
-
 // node_modules/langchain/dist/embeddings/hf.js
 var HuggingFaceInferenceEmbeddings = class extends Embeddings {
   constructor(fields) {
@@ -52657,16 +53168,6 @@ var HuggingFaceInferenceEmbeddings = class extends Embeddings {
 var import_openai3 = __toESM(require_dist2(), 1);
 init_env();
 init_axios_fetch_adapter();
-
-// node_modules/langchain/dist/util/chunk.js
-var chunkArray = (arr, chunkSize) => arr.reduce((chunks, elem, index2) => {
-  const chunkIndex = Math.floor(index2 / chunkSize);
-  const chunk = chunks[chunkIndex] || [];
-  chunks[chunkIndex] = chunk.concat([elem]);
-  return chunks;
-}, []);
-
-// node_modules/langchain/dist/embeddings/openai.js
 var OpenAIEmbeddings = class extends Embeddings {
   constructor(fields, configuration) {
     var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n;
@@ -52916,6 +53417,125 @@ init_schema();
 
 // node_modules/langchain/prompts.js
 init_prompts();
+
+// node_modules/langchain/dist/retrievers/contextual_compression.js
+init_schema();
+var ContextualCompressionRetriever = class extends BaseRetriever {
+  constructor({ baseCompressor, baseRetriever }) {
+    super();
+    Object.defineProperty(this, "baseCompressor", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    Object.defineProperty(this, "baseRetriever", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    this.baseCompressor = baseCompressor;
+    this.baseRetriever = baseRetriever;
+  }
+  async getRelevantDocuments(query2) {
+    const docs = await this.baseRetriever.getRelevantDocuments(query2);
+    const compressedDocs = await this.baseCompressor.compressDocuments(docs, query2);
+    return compressedDocs;
+  }
+};
+
+// node_modules/langchain/dist/retrievers/document_compressors/chain_extract.js
+init_document();
+init_llm_chain();
+init_prompts();
+
+// node_modules/langchain/dist/retrievers/document_compressors/index.js
+var BaseDocumentCompressor = class {
+};
+
+// node_modules/langchain/dist/retrievers/document_compressors/chain_extract_prompt.js
+var PROMPT_TEMPLATE = (noOutputStr) => `Given the following question and context, extract any part of the context *AS IS* that is relevant to answer the question. If none of the context is relevant return ${noOutputStr}.
+
+Remember, *DO NOT* edit the extracted parts of the context.
+
+> Question: {question}
+> Context:
+>>>
+{context}
+>>>
+Extracted relevant parts:`;
+
+// node_modules/langchain/dist/retrievers/document_compressors/chain_extract.js
+function defaultGetInput(query2, doc) {
+  return { question: query2, context: doc.pageContent };
+}
+var NoOutputParser = class extends BaseOutputParser {
+  constructor() {
+    super(...arguments);
+    Object.defineProperty(this, "noOutputStr", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: "NO_OUTPUT"
+    });
+  }
+  parse(text4) {
+    const cleanedText = text4.trim();
+    if (cleanedText === this.noOutputStr) {
+      return Promise.resolve("");
+    }
+    return Promise.resolve(cleanedText);
+  }
+  getFormatInstructions() {
+    throw new Error("Method not implemented.");
+  }
+};
+function getDefaultChainPrompt() {
+  const outputParser = new NoOutputParser();
+  const template = PROMPT_TEMPLATE(outputParser.noOutputStr);
+  return new PromptTemplate({
+    template,
+    inputVariables: ["question", "context"],
+    outputParser
+  });
+}
+var LLMChainExtractor = class extends BaseDocumentCompressor {
+  constructor({ llmChain, getInput }) {
+    super();
+    Object.defineProperty(this, "llmChain", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: void 0
+    });
+    Object.defineProperty(this, "getInput", {
+      enumerable: true,
+      configurable: true,
+      writable: true,
+      value: defaultGetInput
+    });
+    this.llmChain = llmChain;
+    this.getInput = getInput;
+  }
+  async compressDocuments(documents, query2) {
+    const compressedDocs = await Promise.all(documents.map(async (doc) => {
+      const input = this.getInput(query2, doc);
+      const output = await this.llmChain.predict(input);
+      return output.length > 0 ? new Document({
+        pageContent: output,
+        metadata: doc.metadata
+      }) : void 0;
+    }));
+    return compressedDocs.filter((doc) => doc !== void 0);
+  }
+  static fromLLM(llm, prompt, getInput) {
+    const _prompt = prompt || getDefaultChainPrompt();
+    const _getInput = getInput || defaultGetInput;
+    const llmChain = new LLMChain({ llm, prompt: _prompt });
+    return new LLMChainExtractor({ llmChain, getInput: _getInput });
+  }
+};
 
 // node_modules/langchain/schema.js
 init_schema();
@@ -53382,7 +54002,7 @@ var AIState = class {
   }
   getEmbeddingsAPI() {
     const OpenAIEmbeddingsAPI = new OpenAIEmbeddings({
-      openAIApiKey: this.langChainParams.key,
+      openAIApiKey: this.langChainParams.openAiApiKey,
       maxRetries: 3,
       maxConcurrency: 3,
       timeout: 1e4
@@ -53396,6 +54016,12 @@ var AIState = class {
           maxRetries: 3,
           maxConcurrency: 3
         });
+      case COHEREAI:
+        return new CohereEmbeddings({
+          apiKey: this.langChainParams.cohereApiKey,
+          maxRetries: 3,
+          maxConcurrency: 3
+        });
       default:
         console.error("No embedding provider set. Using OpenAI.");
         return OpenAIEmbeddingsAPI;
@@ -53404,19 +54030,19 @@ var AIState = class {
   /* Create a new chain, or update chain with new model */
   createNewChain(chainType, options) {
     const {
-      key,
+      openAiApiKey,
       model,
       temperature,
       maxTokens
     } = this.langChainParams;
-    if (!key) {
+    if (!openAiApiKey) {
       new import_obsidian.Notice(
         "No OpenAI API key provided. Please set it in Copilot settings, and restart the plugin."
       );
       return;
     }
     AIState.chatOpenAI = new ChatOpenAI({
-      openAIApiKey: key,
+      openAIApiKey: openAiApiKey,
       modelName: model,
       temperature,
       maxTokens,
@@ -53457,11 +54083,19 @@ var AIState = class {
             console.error("Error creating vector store.");
             return;
           }
+          const baseCompressor = LLMChainExtractor.fromLLM(AIState.chatOpenAI);
+          const retriever = new ContextualCompressionRetriever({
+            baseCompressor,
+            baseRetriever: this.vectorStore.asRetriever()
+          });
           AIState.retrievalChain = RetrievalQAChain.fromLLM(
             AIState.chatOpenAI,
-            this.vectorStore.asRetriever()
+            retriever
           );
-          console.log("New retrieval qa chain created for document hash: ", docHash);
+          console.log(
+            "New retrieval qa chain with contextual compression created for document hash: ",
+            docHash
+          );
         }
         this.langChainParams.chainType = RETRIEVAL_QA_CHAIN;
         console.log("Set chain:", RETRIEVAL_QA_CHAIN);
@@ -62306,8 +62940,8 @@ function stringify2(values, options) {
 }
 
 // node_modules/style-to-object/index.mjs
-var import_index = __toESM(require_style_to_object(), 1);
-var style_to_object_default = import_index.default;
+var import_index2 = __toESM(require_style_to_object(), 1);
+var style_to_object_default = import_index2.default;
 
 // node_modules/react-markdown/lib/ast-to-react.js
 var own6 = {}.hasOwnProperty;
@@ -62681,14 +63315,14 @@ var AppContext = React8.createContext(void 0);
 var import_obsidian4 = require("obsidian");
 var getAIResponse = async (userMessage, chatContext, aiState, addMessage, updateCurrentAiMessage, updateShouldAbort, debug = false) => {
   const {
-    key,
+    openAiApiKey,
     model,
     temperature,
     maxTokens,
     systemMessage,
     chatContextTurns
   } = aiState.langChainParams;
-  if (!key) {
+  if (!openAiApiKey) {
     new import_obsidian4.Notice(
       "No OpenAI API key provided. Please set it in Copilot settings, and restart the plugin."
     );
@@ -62855,9 +63489,6 @@ var Chat = ({
  Please switch to "QA: Active Note" in Mode Selection to ask questions about it.`,
         isVisible: true
       };
-      if (currentChain === RETRIEVAL_QA_CHAIN) {
-        setChain(RETRIEVAL_QA_CHAIN, { noteContent });
-      }
     } else {
       await aiState.buildIndex(noteContent, docHash);
       activeNoteOnMessage = {
@@ -62867,6 +63498,9 @@ var Chat = ({
  Please switch to "QA: Active Note" in Mode Selection to ask questions about it.`,
         isVisible: true
       };
+    }
+    if (currentChain === RETRIEVAL_QA_CHAIN) {
+      setChain(RETRIEVAL_QA_CHAIN, { noteContent });
     }
     addMessage(activeNoteOnMessage);
   };
@@ -63317,7 +63951,7 @@ var CopilotSettingTab = class extends import_obsidian10.PluginSettingTab {
     containerEl.createEl(
       "h6",
       {
-        text: "NOTE: OpenAI embeddings are more expensive but give better QA results. Huggingface embeddings are free but the result is not as good, and you may see more API timeout errors."
+        text: "NOTE: OpenAI embeddings are not free but may give better QA results. CohereAI (recommended) offers trial API for FREE and the quality is very good! It is more stable than Huggingface Inference API. Huggingface embeddings are also free but the result is not as good, and you may see more API timeout errors. "
       }
     );
     new import_obsidian10.Setting(containerEl).setName("Embedding Provider").setDesc(
@@ -63326,11 +63960,31 @@ var CopilotSettingTab = class extends import_obsidian10.PluginSettingTab {
         frag.createEl("strong", { text: "restart the plugin" });
       })
     ).addDropdown((dropdown) => {
-      dropdown.addOption(OPENAI, "OpenAI").addOption(HUGGINGFACE, "Huggingface").setValue(this.plugin.settings.embeddingProvider).onChange(async (value) => {
+      dropdown.addOption(OPENAI, "OpenAI").addOption(COHEREAI, "CohereAI").addOption(HUGGINGFACE, "Huggingface").setValue(this.plugin.settings.embeddingProvider).onChange(async (value) => {
         this.plugin.settings.embeddingProvider = value;
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian10.Setting(containerEl).setName("Your CohereAI trial API key").setDesc(
+      createFragment((frag) => {
+        frag.appendText("You can sign up at CohereAI and find your API key at ");
+        frag.createEl("a", {
+          text: "https://dashboard.cohere.ai/api-keys",
+          href: "https://dashboard.cohere.ai/api-keys"
+        });
+        frag.createEl("br");
+        frag.appendText("It is used to make requests to CohereAI trial API for free embeddings.");
+      })
+    ).addText(
+      (text4) => {
+        text4.inputEl.type = "password";
+        text4.inputEl.style.width = "80%";
+        text4.setPlaceholder("CohereAI trial API key").setValue(this.plugin.settings.cohereApiKey).onChange(async (value) => {
+          this.plugin.settings.cohereApiKey = value;
+          await this.plugin.saveSettings();
+        });
+      }
+    );
     new import_obsidian10.Setting(containerEl).setName("Your Huggingface Inference API key").setDesc(
       createFragment((frag) => {
         frag.appendText("You can find your API key at ");
@@ -72338,14 +72992,16 @@ var CopilotPlugin = class extends import_obsidian11.Plugin {
     const {
       openAiApiKey,
       huggingfaceApiKey,
+      cohereApiKey,
       temperature,
       maxTokens,
       contextTurns,
       embeddingProvider
     } = sanitizeSettings(this.settings);
     return {
-      key: openAiApiKey,
+      openAiApiKey,
       huggingfaceApiKey,
+      cohereApiKey,
       model: this.settings.defaultModel,
       temperature: Number(temperature),
       maxTokens: Number(maxTokens),

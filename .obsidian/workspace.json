@@ -11,8 +11,10 @@
             "id": "227ba0146a8223ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Useful ressources/temps_crackage_passwords.jpg"
+              }
             }
           }
         ]
@@ -34,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "custom"
               }
             }
           },
@@ -62,7 +64,7 @@
             }
           },
           {
-            "id": "88482b813631b502",
+            "id": "763daa92c3d43b50",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Useful ressources/temps_crackage_passwords.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Useful ressources/temps_crackage_passwords.jpg"
+              }
             }
           },
           {
@@ -165,15 +171,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46ab7966b2c5ded1",
+  "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "enumeration-mindmap.png",
+    "Malware analysis.md",
+    "Active Directory.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "README.md",
     "Draws/17-05-2023_22.03.25.excalidraw.md",
     "Draws",
     "PDF/pentest-toolkit.pdf",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
-    "enumeration-mindmap.png",
-    "Malware analysis.md",
-    "README.md",
     "Knowledge Database/Cross-Site Scripting (XSS).md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
@@ -189,8 +198,6 @@
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/Pasted image 20230413105832.png",
     "PDF/OSCP NOTES.pdf",
-    "2. RECON & SCAN/Tools.md",
-    "Context/spacesLastSync.log",
-    "Context"
+    "2. RECON & SCAN/Tools.md"
   ]
 }

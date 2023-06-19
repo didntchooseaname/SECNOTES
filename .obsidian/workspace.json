@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "60054faf0f65ff74",
+    "id": "4db23a55d08da55d",
     "type": "split",
     "children": [
       {
-        "id": "07dd1b54c38d7fe4",
+        "id": "1d5567bc9f3ef068",
         "type": "tabs",
         "children": [
           {
-            "id": "509f5e70907ffd77",
+            "id": "227ba0146a8223ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware analysis.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "13d0b5b417ede209",
+    "id": "99d543b32c8b0183",
     "type": "split",
     "children": [
       {
-        "id": "be5aeafc6afe4e18",
+        "id": "36c8bb6478678f19",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a9b31fccd7c4fe",
+            "id": "46ab7966b2c5ded1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "feecebc84b84b562",
+            "id": "dbce91ac1b6eff2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +54,18 @@
             }
           },
           {
-            "id": "23cbebcae434e055",
+            "id": "f10360ca00726c8c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "88482b813631b502",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -72,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "36d644e5203971f9",
+    "id": "7446d7e86021d9af",
     "type": "split",
     "children": [
       {
-        "id": "a2d2ad17750e17a3",
+        "id": "342aeadbffd53ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "da944f5705aa4339",
+            "id": "2b2c6451d4f73573",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +100,18 @@
             }
           },
           {
-            "id": "143f8d2d1d322bff",
+            "id": "ac61b3182405ca8c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d6a5867478b69249",
+            "id": "f93f00b47aae6d98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +122,15 @@
             }
           },
           {
-            "id": "66e58b6589eb3c06",
+            "id": "cf2052ccb1d0da82",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Malware analysis.md"
-              }
-            }
-          },
-          {
-            "id": "7b0d1b277e2da527",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           },
           {
-            "id": "68a1b589bd79f93b",
+            "id": "86e5b37455c6b057",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -146,31 +138,15 @@
             }
           },
           {
-            "id": "89b397409216c236",
+            "id": "c6a0515a981d522d",
             "type": "leaf",
             "state": {
-              "type": "ava.write.sidebar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5413fbc4da2af2f9",
-            "type": "leaf",
-            "state": {
-              "type": "ava.link.sidebar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1608a41de81f45b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,66 +154,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "46ab7966b2c5ded1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "PDF/pentest-toolkit.pdf",
-    "4. POST & PERSISTENCE/Credentials dumps.md",
-    "Malware analysis.md",
-    "4. POST & PERSISTENCE/Windows privesc.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/av evasion.md",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
-    "OSINT/Phone numbers.md",
-    "OSINT/Going further.md",
-    "OSINT/Social networks.md",
-    "Active Directory.md",
-    "Useful ressources/temps_crackage_passwords.jpg",
-    "User's security & privacy/Hardening/GNU.Linux.md",
-    "User's security & privacy/Hardening/Windows.md",
-    "User's security & privacy/What about me.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake identities & Fakes documents.md",
-    "User's security & privacy/Tempmails.md",
-    "User's security & privacy/Block ads, trackers, telemetry....md",
-    "enumeration-mindmap.png",
     "Draws/17-05-2023_22.03.25.excalidraw.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "Useful ressources",
-    "PDF/Pasted image 20230413105832.png",
-    "5. ANALYZE & REPORTING",
-    "4. POST & PERSISTENCE",
-    "3. GAINING ACCES & EXPLOIT",
-    "User's security & privacy/Hardening",
+    "Draws",
+    "PDF/pentest-toolkit.pdf",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
+    "enumeration-mindmap.png",
+    "Malware analysis.md",
+    "README.md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "OSINT/Github Dorks.md",
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "PDF/OSINT Overview PT.1.pdf",
+    "PDF/Pasted image 20230413105832.png",
     "PDF/OSCP NOTES.pdf",
-    "User's security & privacy/1680395041999__generate_a_pepo.jpg",
-    "Pasted Image 20230331182837_113.jpg",
-    "OSINT/Sans titre.canvas",
-    "OSINT/1680271180273_girafe_on_the_moon.jpg",
-    "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
-    "OSINT/1680269418428_Domain_reconnaissance.jpg",
-    "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Untitled.canvas"
+    "2. RECON & SCAN/Tools.md",
+    "Context/spacesLastSync.log",
+    "Context"
   ]
 }

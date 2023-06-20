@@ -1,0 +1,1 @@
+https://madaidans-insecurities.github.io/linux.html

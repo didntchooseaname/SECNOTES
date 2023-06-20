@@ -86,6 +86,90 @@ You can find these settings in the group policy editor under `Computer Configura
 
 ---
 
+### Automated Hardening & audit
+
+[HardeningKitty](https://github.com/0x6d69636b/windows_hardening) permit you to harden and audit machines automatically with powershell.
+
+It supports Department of defense's STIG, Center of internet Security and Microsoft's baselines recommendations lists.
+
+---
+
+### :luc_mouse_pointer: Usage : 
+
+- Audit Mode :
+	- Download https://github.com/0x6d69636b/windows_hardening/blob/master/HardeningKitty.psm1
+- In a powershell window :
+`Import-Module .\HardeningKitty.psm1`
+`Invoke-HardeningKitty -EmojiSupport`
+
+-> It shows global state of the machine's hardening.
+
+```powershell
+PS C:\tmp> Import-Module .\HardeningKitty.psm1
+PS C:\tmp> Invoke-HardeningKitty -EmojiSupport
+
+
+         =^._.^=
+        _(      )/  HardeningKitty 0.9.0-1662273740
+
+
+[*] 9/4/2022 8:54:12 AM - Starting HardeningKitty
+
+
+[*] 9/4/2022 8:54:12 AM - Getting user information
+[*] Hostname: DESKTOP-DG83TOD
+[*] Domain: WORKGROUP
+
+...
+
+[*] [*] 9/4/2022 8:54:12 AM - Starting Category Account Policies
+[😺] ID 1103, Store passwords using reversible encryption, Result=0, Severity=Passed
+[😺] ID 1100, Account lockout threshold, Result=10, Severity=Passed
+[😺] ID 1101, Account lockout duration, Result=30, Severity=Passed
+
+...
+
+[*] 9/4/2022 8:54:12 AM - Starting Category User Rights Assignment
+[😿] ID 1200, Access this computer from the network, Result=BUILTIN\Administrators;BUILTIN\Users, Recommended=BUILTIN\Administrators, Severity=Medium
+
+...
+
+[*] 9/4/2022 8:54:14 AM - Starting Category Administrative Templates: Printer
+[🙀] ID 1764, Point and Print Restrictions: When installing drivers for a new connection (CVE-2021-34527), Result=1, Recommended=0, Severity=High
+[🙀] ID 1765, Point and Print Restrictions: When updating drivers for an existing connection (CVE-2021-34527), Result=2, Recommended=0, Severity=High
+
+...
+
+[*] 9/4/2022 8:54:19 AM - Starting Category MS Security Guide
+[😿] ID 2200, LSA Protection, Result=, Recommended=1, Severity=Medium
+[😼] ID 2201, Lsass.exe audit mode, Result=, Recommended=8, Severity=Low
+
+...
+
+[*] 9/4/2022 8:54:25 AM - HardeningKitty is done
+[*] 9/4/2022 8:54:25 AM - Your HardeningKitty score is: 4.82. HardeningKitty Statistics: Total checks: 325 - Passed: 213, Low: 33, Medium: 76, High: 3.
+```
+
+---
+
+#### :luc_package_plus: Backup BEFORE !!!!
+
+**⚠️ Highly suggested to create a restore point !!!**
+
+Or you can use the HardeningKitty's backup solution :
+`Invoke-HardeningKitty -Mode Config -Backup`
+
+---
+
+#### :luc_check_circle: Apply a list 
+
+You can apply one or more list with :
+`Invoke-HardeningKitty -Mode HailMary -Log -Report -FileFindingList ".\name_of_a_list.csv"`
+
+- Lists are available [here](https://github.com/0x6d69636b/windows_hardening/tree/master/lists).
+
+---
+
 ### 🐢 Going Further
 
 **Follow Microsoft & NSA hardening recommendations :**

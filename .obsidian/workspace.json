@@ -11,9 +11,11 @@
             "id": "227ba0146a8223ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/OSCP NOTES.pdf"
+                "file": "User's security & privacy/Hardening/Windows.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/OSCP NOTES.pdf",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/OSCP NOTES.pdf",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/OSCP NOTES.pdf"
+                "file": "User's security & privacy/Hardening/Windows.md"
               }
             }
           },
@@ -173,6 +175,10 @@
   },
   "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "User's security & privacy/Hardening/GNU.Linux.md",
+    "User's security & privacy/Hardening/Windows.md",
+    "Malware analysis.md",
+    "PDF/OSCP NOTES.pdf",
     "PDF/OSINT Overview PT.1.pdf",
     "PDF/Pasted image 20230413105832.png",
     "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
@@ -180,7 +186,6 @@
     "PDF/redteam-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "enumeration-mindmap.png",
-    "Malware analysis.md",
     "Active Directory.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -199,7 +204,6 @@
     "3. GAINING ACCES & EXPLOIT/tools.md",
     "OSINT/Github Dorks.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "PDF/OSCP NOTES.pdf",
     "2. RECON & SCAN/Tools.md"
   ]
 }

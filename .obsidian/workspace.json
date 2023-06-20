@@ -11,9 +11,9 @@
             "id": "227ba0146a8223ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
+                "file": "PDF/OSCP NOTES.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
+                "file": "PDF/OSCP NOTES.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg",
+                "file": "PDF/OSCP NOTES.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful ressources/temps_crackage_passwords.jpg"
+                "file": "PDF/OSCP NOTES.pdf"
               }
             }
           },
@@ -173,6 +173,12 @@
   },
   "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "PDF/OSINT Overview PT.1.pdf",
+    "PDF/Pasted image 20230413105832.png",
+    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
+    "PDF/pentest-toolkit.pdf",
+    "PDF/redteam-toolkit.pdf",
+    "Useful ressources/temps_crackage_passwords.jpg",
     "enumeration-mindmap.png",
     "Malware analysis.md",
     "Active Directory.md",
@@ -181,8 +187,6 @@
     "README.md",
     "Draws/17-05-2023_22.03.25.excalidraw.md",
     "Draws",
-    "PDF/pentest-toolkit.pdf",
-    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
     "Knowledge Database/Cross-Site Scripting (XSS).md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
@@ -195,8 +199,6 @@
     "3. GAINING ACCES & EXPLOIT/tools.md",
     "OSINT/Github Dorks.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "PDF/OSINT Overview PT.1.pdf",
-    "PDF/Pasted image 20230413105832.png",
     "PDF/OSCP NOTES.pdf",
     "2. RECON & SCAN/Tools.md"
   ]

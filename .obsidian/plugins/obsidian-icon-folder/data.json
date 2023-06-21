@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⬆",
-      "🛑",
-      "✅",
-      "🏖",
-      "🪟"
+      "✏",
+      "👨‍🎓",
+      "🧑‍🎓",
+      "📔",
+      "⬆"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,9 @@
   "Useful ressources": "✅",
   "User's security & privacy/Block ads, trackers, telemetry....md": "🛑",
   "4. POST & PERSISTENCE/Credentials dumps.md": "⬆",
-  "Phishing framework.md": "🎣"
+  "Phishing framework.md": "🎣",
+  "eJPTv2/n0y4n's eJTP notes": "📔",
+  "eJPTv2": "🧑‍🎓",
+  "OSCP": "👨‍🎓",
+  "Draws": "✏"
 }

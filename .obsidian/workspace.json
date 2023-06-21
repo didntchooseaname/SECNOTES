@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
-                "mode": "preview",
+                "file": "User's security & privacy/Tempmails.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "User's security & privacy/Tempmails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md",
+                "file": "User's security & privacy/Tempmails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Hardening/Windows.md"
+                "file": "User's security & privacy/Tempmails.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "User's security & privacy/Fake identities & Fakes documents.md",
+    "Phishing framework.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/What about me.md",
+    "OSINT/Usernames.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",
     "Malware analysis.md",

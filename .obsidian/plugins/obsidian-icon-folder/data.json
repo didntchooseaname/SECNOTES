@@ -33,7 +33,6 @@
   "Sources & Links": "🔗",
   "User's security & privacy/Fake numbers & SMS receiver online.md": "☎",
   "User's security & privacy/Tempmails.md": "🛕",
-  "User's security & privacy/Phishing framework.md": "🎣",
   "User's security & privacy/Fake identities & Fakes documents.md": "👓",
   "Knowledge Database": "📚",
   "OSINT/Github Dorks.md": "🌐",
@@ -61,5 +60,6 @@
   "Malware analysis.md": "🏖",
   "Useful ressources": "✅",
   "User's security & privacy/Block ads, trackers, telemetry....md": "🛑",
-  "4. POST & PERSISTENCE/Credentials dumps.md": "⬆"
+  "4. POST & PERSISTENCE/Credentials dumps.md": "⬆",
+  "Phishing framework.md": "🎣"
 }

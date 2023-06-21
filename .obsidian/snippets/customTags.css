@@ -1,0 +1,42 @@
+.tag[href="#tempmail"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#tempmail"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(165, 29, 42);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    letter-spacing: -0.00ch;
+    content: "🌱 SEEDLING";
+  }
+  
+  .tag[href="#tempgmail"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#tempgmail"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(200, 150, 0);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    content: "🪵 SAPLING";
+  }
+  
+  .tag[href="#Evergreen/Evergreen"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#Evergreen/Evergreen"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(32, 134, 55);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    content: "🌲 EVERGREEN";
+  }

@@ -1,1 +1,2 @@
-![](https://media.licdn.com/dms/image/D4D22AQH0KVrNzXIlbA/feedshare-shrink_800/0/1670867130060?e=1684368000&v=beta&t=DIUf2ua6OpCtx29z7JT4nXpxKnvQtcmm9WVIc9U-5yo)
+https://github.com/techgaun/github-dorks
+https://kathan19.gitbook.io/howtohunt/sensitive-info-leaks/github-dorks

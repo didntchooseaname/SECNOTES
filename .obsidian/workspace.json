@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Tempmails.md",
-                "mode": "source",
+                "file": "2. RECON & SCAN/Tools.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Tempmails.md",
+                "file": "2. RECON & SCAN/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Tempmails.md",
+                "file": "2. RECON & SCAN/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Tempmails.md"
+                "file": "2. RECON & SCAN/Tools.md"
               }
             }
           },
@@ -175,11 +175,29 @@
   },
   "active": "227ba0146a8223ea",
   "lastOpenFiles": [
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
+    "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "5. ANALYZE & REPORTING/OSCP report templates.md",
+    "OSINT/Going further.md",
+    "OSINT/Social networks.md",
+    "OSINT/Phone numbers.md",
+    "OSINT/Localization.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Google dorks.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Usernames.md",
+    "User's security & privacy/Block ads, trackers, telemetry....md",
+    "User's security & privacy/Tempmails.md",
     "User's security & privacy/Fake identities & Fakes documents.md",
     "Phishing framework.md",
     "User's security & privacy/Fake numbers & SMS receiver online.md",
     "User's security & privacy/What about me.md",
-    "OSINT/Usernames.md",
     "User's security & privacy/Hardening/GNU.Linux.md",
     "User's security & privacy/Hardening/Windows.md",
     "Malware analysis.md",
@@ -191,24 +209,9 @@
     "PDF/redteam-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "enumeration-mindmap.png",
-    "Active Directory.md",
     "Context/spacesLastSync.log",
     "Context",
-    "README.md",
-    "Draws/17-05-2023_22.03.25.excalidraw.md",
     "Draws",
-    "Knowledge Database/Cross-Site Scripting (XSS).md",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
-    "4. POST & PERSISTENCE/Windows privesc.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/Credentials dumps.md",
-    "4. POST & PERSISTENCE/av evasion.md",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md",
-    "OSINT/Github Dorks.md",
-    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
-    "2. RECON & SCAN/Tools.md"
+    "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf"
   ]
 }

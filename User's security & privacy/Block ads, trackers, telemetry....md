@@ -22,7 +22,8 @@ https://adblock-tester.com/
 |:---------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 |                https://github.com/jerryn70/GoodbyeAds                 | Probably the most complete one, if you choose one list, this is this one ! |
 |                 https://github.com/StevenBlack/hosts                  |       One of the most powerful blocklists available, very complete !       |
-| https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data/hosts |                          Blocking windows spying                           | 
+| https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data/hosts |                          Blocking windows spying                           |
+|           https://dl.red.flag.domains/red.flag.domains.txt            |      Recent government ressources phishing french domains registered       |
 
-> Have a look on the documentations on the repositories uplisted. Some are "ALL-in-one" and other lists blocks specific services crap (like youtube, spotify, xiaomi devices...).
+> Have a look on the documentations on the repositories uplisted. Some are "ALL-in-one" and other lists blocks specific services crap (like youtube, spotify, xiaomi devices or amazon telemetry...).
 

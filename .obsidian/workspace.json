@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07dd1b54c38d7fe4",
+        "id": "1b75853d9e71ac60",
         "type": "tabs",
         "children": [
           {
-            "id": "2a69336b178203f6",
+            "id": "769183f8a8053ed8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "b669c1d45277218e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": true
+                "file": "Active Directory.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Active Directory.md"
+              }
             }
           },
           {
@@ -196,18 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "769183f8a8053ed8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
+    "Malware analysis.md",
+    "Phishing framework.md",
+    "Pasted Image 20230615232420_238.png",
+    "OSCP/OSCP report templates.md",
     "eJPTv2/n0y4n's eJTP notes/Information Gathering.md",
     "eJPTv2/n0y4n's eJTP notes/Footprinting & Scanning.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
     "eJPTv2/n0y4n's eJTP notes",
     "eJPTv2",
     "Useful ressources/enumeration-mindmap.png",
-    "Phishing framework.md",
     "PDF/redteam-toolkit.pdf",
-    "OSCP/OSCP report templates.md",
     "OSCP",
     "enumeration-mindmap.png",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",
@@ -229,8 +224,6 @@
     "5. ANALYZE & REPORTING/OSCP report templates.md",
     "OSINT/Going further.md",
     "OSINT/Phone numbers.md",
-    "OSINT/Localization.md",
-    "Pasted Image 20230615232420_238.png",
     "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",

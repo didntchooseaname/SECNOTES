@@ -11,11 +11,9 @@
             "id": "509f5e70907ffd77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Malware analysis.md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "36d644e5203971f9",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware analysis.md",
+                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware analysis.md"
+                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md"
               }
             }
           },
@@ -189,37 +187,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0d1b277e2da527",
+  "active": "509f5e70907ffd77",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "PDF/pentest-toolkit.pdf",
-    "4. POST & PERSISTENCE/Credentials dumps.md",
-    "Malware analysis.md",
+    "enumeration-mindmap.png",
+    "Knowledge Database/Server Side Request Forgery (SSRF).md",
+    "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
+    "Sources & Links/red team kill chain.md",
+    "Sources & Links/Penetration testing ressources.md",
+    "Sources & Links/CTF writeups.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "2. RECON & SCAN/Tools.md",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "3. GAINING ACCES & EXPLOIT/tools.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
+    "4. POST & PERSISTENCE/Credentials dumps.md",
     "4. POST & PERSISTENCE/av evasion.md",
     "5. ANALYZE & REPORTING/OSCP report templates.md",
-    "OSINT/Usernames.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Google dorks.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Localization.md",
-    "OSINT/Phone numbers.md",
     "OSINT/Going further.md",
-    "OSINT/Social networks.md",
-    "Active Directory.md",
+    "OSINT/Phone numbers.md",
+    "OSINT/Localization.md",
+    "OSINT/Github Dorks.md",
+    "OSINT/Domain names & web.md",
+    "OSINT/Usernames.md",
+    "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
+    "Pasted Image 20230615232420_238.png",
+    "Excalidraw/Drawing 2023-06-15 23.13.05.excalidraw.md",
+    "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
-    "User's security & privacy/Hardening/GNU.Linux.md",
-    "User's security & privacy/Hardening/Windows.md",
-    "User's security & privacy/What about me.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/Phishing framework.md",
-    "User's security & privacy/Fake identities & Fakes documents.md",
-    "User's security & privacy/Tempmails.md",
-    "User's security & privacy/Block ads, trackers, telemetry....md",
-    "enumeration-mindmap.png",
-    "Draws/17-05-2023_22.03.25.excalidraw.md",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
     "Useful ressources",
     "PDF/Pasted image 20230413105832.png",
@@ -237,7 +235,6 @@
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
     "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Untitled.canvas"
   ]
 }

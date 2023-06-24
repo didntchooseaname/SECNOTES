@@ -43,8 +43,8 @@
   "expandedSpaces": [
     null,
     "/",
-    null,
-    "SECNOTES"
+    "SECNOTES",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -74,9 +74,15 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684164309304,
+  "spacesAutoBackupLast": 1687163045444,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
+  "fmKeyAlias": "alias",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
   "folderRank": {
     "node": "root",
     "children": [],

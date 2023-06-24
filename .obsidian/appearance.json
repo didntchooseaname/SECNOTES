@@ -4,5 +4,8 @@
   "translucency": false,
   "nativeMenus": false,
   "showViewHeader": true,
-  "baseFontSize": 15
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "customTags"
+  ]
 }

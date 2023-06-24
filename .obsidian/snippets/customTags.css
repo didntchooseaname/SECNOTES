@@ -1,0 +1,56 @@
+.tag[href="#tempmail"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#tempmail"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(8, 99, 21);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    letter-spacing: -0.00ch;
+    content: "📧 Tempmail";
+  }
+  
+  .tag[href="#tempgooglemail"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#tempgooglemail"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(185, 14, 14);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    content: "📧 Google tempmail";
+  }
+  
+  .tag[href="#legal"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#legal"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(32, 134, 55);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    content: "✔️ Legit";
+  }
+
+  .tag[href="#illegal"] {
+    font-size: 0;
+    padding: 0;
+  }
+  .tag[href="#illegal"]:after {
+    font-size: 8pt;
+    font-weight: 700;
+    background-color: rgb(179, 18, 18);
+    color: rgb(232, 230, 227);
+    padding: 3px 3px;
+    border-radius: 3px;
+    content: "❌ Not Legit";
+  }

@@ -41,6 +41,6 @@
 |          Whatweb           |                                                                    Gather bunch of infos about domains                                                                    | https://github.com/urbanadventurer/WhatWeb |
 |           Wpscan           |                                                                  vulns scanner of wordpress CMS websites                                                                  |    https://github.com/wpscanteam/wpscan    |
 |           Nikto            |                                                                         web server vulns scanner                                                                          |       https://github.com/sullo/nikto       |
-|          recon-ng          | full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly. |  https://github.com/lanmaster53/recon-ng   | 
+|          recon-ng          | full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly. |  https://github.com/lanmaster53/recon-ng   |
 
 ![[enumeration-mindmap.png | 1000]]

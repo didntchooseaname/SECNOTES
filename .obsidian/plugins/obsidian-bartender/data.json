@@ -20,13 +20,16 @@
       "3. GAINING ACCES & EXPLOIT",
       "4. POST & PERSISTENCE",
       "5. ANALYZE & REPORTING",
+      "PDF",
       "OSINT",
       "User's security & privacy",
-      "Sources & Links",
-      "PDF",
       "Active Directory.md",
+      "Phishing framework.md",
       "Malware analysis.md",
-      "enumeration-mindmap.png",
+      "Sources & Links",
+      "Useful ressources",
+      "OSCP",
+      "eJPTv2",
       "Excalidraw",
       "Draws"
     ],
@@ -34,9 +37,10 @@
       "User's security & privacy/Hardening",
       "User's security & privacy/What about me.md",
       "User's security & privacy/Fake numbers & SMS receiver online.md",
-      "User's security & privacy/Phishing framework.md",
       "User's security & privacy/Fake identities & Fakes documents.md",
-      "User's security & privacy/Tempmails.md"
+      "User's security & privacy/Tempmails.md",
+      "User's security & privacy/Block ads, trackers, telemetry....md",
+      "User's security & privacy/Phishing framework.md"
     ],
     "4. POST": [
       "4. POST/Privesc.md",

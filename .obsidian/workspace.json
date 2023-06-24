@@ -8,16 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "509f5e70907ffd77",
+            "id": "2a69336b178203f6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "b669c1d45277218e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/appearance.json",
+                "staged": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +196,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "509f5e70907ffd77",
+  "active": "7b0d1b277e2da527",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
+    "eJPTv2/n0y4n's eJTP notes/Information Gathering.md",
+    "eJPTv2/n0y4n's eJTP notes/Footprinting & Scanning.md",
+    "eJPTv2/n0y4n's eJTP notes",
+    "eJPTv2",
+    "Useful ressources/enumeration-mindmap.png",
+    "Phishing framework.md",
+    "PDF/redteam-toolkit.pdf",
+    "OSCP/OSCP report templates.md",
+    "OSCP",
     "enumeration-mindmap.png",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
@@ -210,12 +230,7 @@
     "OSINT/Going further.md",
     "OSINT/Phone numbers.md",
     "OSINT/Localization.md",
-    "OSINT/Github Dorks.md",
-    "OSINT/Domain names & web.md",
-    "OSINT/Usernames.md",
-    "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
     "Pasted Image 20230615232420_238.png",
-    "Excalidraw/Drawing 2023-06-15 23.13.05.excalidraw.md",
     "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
@@ -224,17 +239,12 @@
     "5. ANALYZE & REPORTING",
     "4. POST & PERSISTENCE",
     "3. GAINING ACCES & EXPLOIT",
-    "User's security & privacy/Hardening",
-    "PDF/PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t.pdf",
-    "PDF/OSINT Overview PT.1.pdf",
-    "PDF/OSCP NOTES.pdf",
     "User's security & privacy/1680395041999__generate_a_pepo.jpg",
     "Pasted Image 20230331182837_113.jpg",
     "OSINT/Sans titre.canvas",
     "OSINT/1680271180273_girafe_on_the_moon.jpg",
     "OSINT/1680269450927_ellon_musk_attaque_informatique.jpg",
     "OSINT/1680269418428_Domain_reconnaissance.jpg",
-    "OSINT/1680269290013_Un_crocodile_qui_marche_sur_l_eau_avec_des_ailes_de_faucon.jpg",
     "Untitled.canvas"
   ]
 }

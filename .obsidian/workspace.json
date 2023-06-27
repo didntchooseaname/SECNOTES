@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "User's security & privacy/What about me.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "User's security & privacy/What about me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "User's security & privacy/What about me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "User's security & privacy/What about me.md"
               }
             }
           },
@@ -191,9 +191,12 @@
   },
   "active": "769183f8a8053ed8",
   "lastOpenFiles": [
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Hardening/Windows.md",
     "Active Directory.md",
-    "Malware analysis.md",
     "Phishing framework.md",
+    "README.md",
+    "Malware analysis.md",
     "Pasted Image 20230615232420_238.png",
     "OSCP/OSCP report templates.md",
     "eJPTv2/n0y4n's eJTP notes/Information Gathering.md",
@@ -221,9 +224,6 @@
     "4. POST & PERSISTENCE/PHP revshell.md",
     "4. POST & PERSISTENCE/Linux privesc.md",
     "4. POST & PERSISTENCE/Credentials dumps.md",
-    "4. POST & PERSISTENCE/av evasion.md",
-    "5. ANALYZE & REPORTING/OSCP report templates.md",
-    "OSINT/Going further.md",
     "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",

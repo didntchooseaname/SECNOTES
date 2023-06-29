@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/What about me.md",
+                "file": "User's security & privacy/Fake identities & Fakes documents.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/What about me.md",
+                "file": "User's security & privacy/Fake identities & Fakes documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/What about me.md",
+                "file": "User's security & privacy/Fake identities & Fakes documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/What about me.md"
+                "file": "User's security & privacy/Fake identities & Fakes documents.md"
               }
             }
           },
@@ -191,10 +191,15 @@
   },
   "active": "769183f8a8053ed8",
   "lastOpenFiles": [
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/Hardening/Windows.md",
     "Active Directory.md",
     "Phishing framework.md",
+    "Useful ressources/enumeration-mindmap.png",
+    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
+    "4. POST & PERSISTENCE/Windows privesc.md",
+    "4. POST & PERSISTENCE/av evasion.md",
+    "User's security & privacy/What about me.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Hardening/Windows.md",
     "README.md",
     "Malware analysis.md",
     "Pasted Image 20230615232420_238.png",
@@ -205,7 +210,6 @@
     "Excalidraw/Drawing 2023-06-16 18.17.40.excalidraw.md",
     "eJPTv2/n0y4n's eJTP notes",
     "eJPTv2",
-    "Useful ressources/enumeration-mindmap.png",
     "PDF/redteam-toolkit.pdf",
     "OSCP",
     "enumeration-mindmap.png",
@@ -217,13 +221,8 @@
     "Sources & Links/CTF writeups.md",
     "1. INFORMATION GATHERING/Tools.md",
     "2. RECON & SCAN/Tools.md",
-    "3. GAINING ACCES & EXPLOIT/Wordlists.md",
     "3. GAINING ACCES & EXPLOIT/Web.md",
     "3. GAINING ACCES & EXPLOIT/tools.md",
-    "4. POST & PERSISTENCE/Windows privesc.md",
-    "4. POST & PERSISTENCE/PHP revshell.md",
-    "4. POST & PERSISTENCE/Linux privesc.md",
-    "4. POST & PERSISTENCE/Credentials dumps.md",
     "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User's security & privacy/Fake identities & Fakes documents.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User's security & privacy/Fake identities & Fakes documents.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User's security & privacy/Fake identities & Fakes documents.md",
+                "file": "User's security & privacy/Hardening/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User's security & privacy/Fake identities & Fakes documents.md"
+                "file": "User's security & privacy/Hardening/Windows.md"
               }
             }
           },
@@ -191,15 +191,24 @@
   },
   "active": "769183f8a8053ed8",
   "lastOpenFiles": [
+    "User's security & privacy/Hardening/GNU.Linux.md",
+    "User's security & privacy/Fake identities & Fakes documents.md",
+    "User's security & privacy/Block ads, trackers, telemetry....md",
+    "User's security & privacy/What about me.md",
+    "User's security & privacy/Tempmails.md",
+    "User's security & privacy/Fake numbers & SMS receiver online.md",
+    "User's security & privacy/Hardening/Windows.md",
+    "4. POST & PERSISTENCE/PHP revshell.md",
+    "3. GAINING ACCES & EXPLOIT/Web.md",
+    "2. RECON & SCAN/Tools.md",
+    "1. INFORMATION GATHERING/Tools.md",
+    "Knowledge Database/Cross-Site Scripting (XSS).md",
     "Active Directory.md",
     "Phishing framework.md",
     "Useful ressources/enumeration-mindmap.png",
     "3. GAINING ACCES & EXPLOIT/Wordlists.md",
     "4. POST & PERSISTENCE/Windows privesc.md",
     "4. POST & PERSISTENCE/av evasion.md",
-    "User's security & privacy/What about me.md",
-    "User's security & privacy/Fake numbers & SMS receiver online.md",
-    "User's security & privacy/Hardening/Windows.md",
     "README.md",
     "Malware analysis.md",
     "Pasted Image 20230615232420_238.png",
@@ -215,14 +224,6 @@
     "enumeration-mindmap.png",
     "Knowledge Database/Server Side Request Forgery (SSRF).md",
     "Knowledge Database/Insecure Direct Object Reference (IDOR).md",
-    "Knowledge Database/Cross-Site Scripting (XSS).md",
-    "Sources & Links/red team kill chain.md",
-    "Sources & Links/Penetration testing ressources.md",
-    "Sources & Links/CTF writeups.md",
-    "1. INFORMATION GATHERING/Tools.md",
-    "2. RECON & SCAN/Tools.md",
-    "3. GAINING ACCES & EXPLOIT/Web.md",
-    "3. GAINING ACCES & EXPLOIT/tools.md",
     "PDF/pentest-toolkit.pdf",
     "Useful ressources/temps_crackage_passwords.jpg",
     "PDF/OSCP NOTES ACTIVE DIRECTORY 1.pdf",
